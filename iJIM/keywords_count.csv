@@ -1,4283 +1,4011 @@
 ,0
- mobile learning,79
-mobile learning,56
- mobile application,39
-m-learning,35
- m-learning,32
- e-learning,31
-augmented reality,26
- higher education,26
- android,24
- ,24
- mobile devices,24
- augmented reality,24
-e-learning,22
- online learning,18
- mobile,18
- learning,17
- iot,17
- smartphone,15
- mobile technology,13
- mobile applications,13
- covid-19,13
-mobile application,13
- usability,12
- machine learning,12
- motivation,11
- education,11
- security,11
-internet of things,10
- smartphones,10
-virtual reality,10
- blended learning,9
- mobile apps,9
- collaborative learning,9
- virtual reality,9
-iot,9
- cloud computing,9
- social media,9
- internet of things,9
- multimedia,9
- learning media,9
- gamification,9
-android,9
- user-centered design,8
- educational technology,8
- moodle,8
- sms,8
- mobile phones,8
- distance learning,8
- user experience,8
- mobile computing,8
-blended learning,7
-usability,7
- engineering education,7
-covid-19,7
- framework,7
- rfid,7
- sensors,7
- mobile phone,7
- perception,7
-social media,7
- mobile application.,7
-mobile augmented reality,7
- distance education,6
- bibliometric analysis,6
- learning outcomes,6
- privacy,6
-internet of things (iot),6
- trust,6
- social networks,6
- mobile app,6
-gamification,6
- computational thinking,6
- arduino,5
-mobile technologies,5
- technology,5
-mobile apps,5
- attitudes,5
- perceptions,5
- deep learning,5
- ict,5
-mobile applications,5
-higher education,5
- technology acceptance model (tam),5
- sentiment analysis,5
- evaluation,5
- covid-19 pandemic,5
-artificial intelligence,5
-mobile technology,5
- chemistry,5
-manet,5
-education,5
- internet,5
- routing,5
- malaysia,5
- mobile technologies,5
- information technology,5
+mobilelearning,135
+m-learning,67
+e-learning,53
+mobileapplication,52
+augmentedreality,50
+android,33
+highereducation,31
+mobiledevices,28
+iot,26
+mobile,20
+covid-19,20
+onlinelearning,19
+internetofthings,19
+usability,19
+virtualreality,19
+learning,18
+mobiletechnology,18
+mobileapplications,18
+smartphone,18
+socialmedia,16
+blendedlearning,16
+education,16
+gamification,15
+mobileapps,14
+machinelearning,14
+security,13
+userexperience,12
+cloudcomputing,12
+motivation,12
+smartphones,12
+mobilephone,11
+educationaltechnology,10
+sms,10
+collaborativelearning,10
+learningmedia,10
+mobilecomputing,10
+mobileapp,10
+distancelearning,10
+mobileaugmentedreality,10
+mobiletechnologies,10
+artificialintelligence,9
+technology,9
+mobilephones,9
+multimedia,9
+moodle,9
+manet,9
+deeplearning,9
+perception,8
+engineeringeducation,8
+socialnetworks,8
+user-centereddesign,8
+rfid,8
+sentimentanalysis,8
+distanceeducation,7
+learningmanagementsystem,7
+computationalthinking,7
+framework,7
+evaluation,7
+mobileapplication.,7
+sensors,7
+learningoutcomes,6
+ict,6
+mooc,6
+attitudes,6
+wirelesssensornetwork,6
+covid-19pandemic,6
+educationalgames,6
+bigdata,6
+game-basedlearning,6
+chemistry,6
+children,6
+internetofthings(iot),6
+privacy,6
+application,6
+humancomputerinteraction,6
+internet,6
+smartphoneapplication,6
+bibliometricanalysis,6
+nfc,6
+authentication,6
+trust,6
+technologyacceptancemodel(tam),5
+mobileassistedlanguagelearning,5
+assessment,5
+usabilityevaluation,5
+students,5
+unity3d,5
+informationtechnology,5
+mobilecommerce,5
+malaysia,5
+mobilecloudcomputing,5
+arduino,5
+self-efficacy,5
+e-commerce,5
+learningmotivation,5
+communication,5
+technologyacceptancemodel,5
+cryptography,5
+mobiledevice,5
+perceptions,5
+interaction,5
+mathematics,5
+ubiquitouslearning,5
+routing,5
+healthcare,5
+context-aware,5
+engagement,5
+collaboration,5
+industry4.0,5
+performance,4
+interactiondesign,4
+interactivemultimedia,4
+criticalthinkingskills,4
+smarthome,4
+e-government,4
+localwisdom,4
+cnn,4
+contextawareness,4
+perceivedusefulness,4
+throughput,4
+speechrecognition,4
+tourism,4
+raspberrypi,4
+preschooleducation,4
+datamining,4
+mobilecommunication,4
+utaut,4
+qualityoflife,4
+dataanalysis,4
+emergingtechnologies,4
+science,4
+criticalthinking,4
+manets,4
+mobilemarketing,4
+flippedclassroom,4
+qualityassurance,4
+sensor,4
+remotelaboratory,4
+secondaryeducation,4
+accelerometer,4
+primaryschool,4
+tam,4
+e-assessment,4
 keywords,4
- mobile device,4
- tam,4
- smart home,4
- wireless sensor network,4
- authentication,4
- communication,4
- application,4
- self-efficacy,4
- students,4
- local wisdom,4
- performance,4
- manet,4
- speech recognition,4
- raspberry pi,4
- engagement,4
-game-based learning,4
- critical thinking skills,4
- critical thinking,4
- quality of life,4
-user experience,4
- human computer interaction,4
- technology acceptance model,4
-mobile phone,4
-mobile app,4
- mathematics,4
- sensor,4
- nfc,4
- throughput,4
- cryptography,4
- utaut,4
- accelerometer,4
- data analysis,4
- learning management system,4
- interaction design,4
- context awareness,4
-technology,4
- emerging technologies,4
- children,4
- ontology,4
- assessment,4
-deep learning,4
- mobile assisted language learning,4
- artificial intelligence,4
- knowledge management,4
- science,4
-mobile devices,4
- learning motivation,4
- primary school,4
- big data,4
- smartphone application,4
- interaction,4
- dsdv,3
-smartphone,3
- simulation,3
- e-government,3
-educational games,3
- data mining,3
- educational games,3
- context,3
-learning management system,3
- physics,3
- unity3d,3
- personalization,3
- aodv,3
- natural language processing,3
- reliability,3
- mlearning,3
- remote laboratory,3
- ios,3
- higher order thinking skills,3
- interoperability,3
- cnn,3
- systematic review,3
-flipped classroom,3
- web 2.0,3
- teaching and learning,3
- collaboration,3
-industry 4.0,3
- perceived usefulness,3
- content,3
- mooc,3
-mooc,3
- perceived ease of use,3
- survey,3
- rdf,3
- online,3
- gsm,3
- autism,3
- j2me,3
- personalized learning,3
- platforms,3
- consumer acceptance,3
- website,3
- ar,3
- labview,3
- context-aware,3
-mobile cloud computing,3
- classification,3
- ubiquitous learning,3
- smart devices,3
- user interface,3
- power consumption,3
- special education,3
- language learning,3
- random forest,3
- qos,3
- interactive,3
- tourism,3
- mobile commerce,3
- game based learning,3
- gpsr,3
- naïve bayes,3
-cloud computing,3
- semantic web,3
- technology enhanced learning,3
-sentiment analysis,3
- jordan,3
- quality assurance,3
- mobile augmented reality,3
- api,3
- ensemble,3
- e-assessment,3
- web services,3
- saudi arabia,3
- storytelling,3
- interactive multimedia,3
- usability evaluation,3
- covid 19,3
- cloud,3
- authentic learning,3
- service quality,3
- learning style,3
- technology adoption,3
- remote control,3
- english language learning,3
- social distancing,3
- crowdsourcing,3
- energy efficiency,3
- vosviewer,3
-e-commerce,3
- scopus,3
- mobile communication,3
- digital marketing,3
- secondary education,3
- image processing,3
- routing protocol,3
- thailand,3
- mobile usability,2
- mobility,2
- culinary,2
- user-centred design,2
-fraud detection,2
- analysis,2
-big data,2
-wireless sensor network,2
- effort expectancy,2
- rss fingerprint,2
- face recognition,2
-security,2
- amplitude shift keying,2
- learning management systems,2
- risk assessment,2
- mobile payment,2
- remote laboratories,2
- information security,2
- k-nearest neighbor,2
- mediation,2
- psnr,2
- content adaptation,2
-manets,2
-digital application,2
- mathematical achievement,2
- google play,2
- lstm,2
- instagram,2
- social networking,2
-children,2
- blackboard,2
-machine learning,2
- homomorphic encryption,2
- text classification,2
- ddos,2
-wireless sensor networks,2
- tablet,2
-distance learning,2
- intention to use,2
- oman.,2
-sms,2
- preschool education,2
- xml.,2
- feature extraction,2
-mobile commerce,2
- edge computing,2
- stroke,2
- bibliometric analysis.,2
- information quality,2
- user testing,2
- awareness,2
-mobile web,2
- halal,2
- context-awareness,2
- topic modeling,2
- vikor,2
- reverse engineering,2
- decision support system,2
- podcast,2
- attitude,2
- marketing,2
- expert review,2
- visualisation,2
- south africa,2
- healthcare,2
-e-services,2
-efl,2
- speaking skills,2
- vocabulary,2
- wap,2
- mobile cloud computing,2
- lms,2
- industry 4.0,2
- game development,2
-project based learning,2
- manets,2
- dsr,2
- science process skills,2
- text-to-speech,2
- vanet,2
- instructional,2
-adaptation,2
-high school,2
- listening comprehension,2
- mobile marketing,2
- spam detection,2
-vanets,2
- intelligent tutoring systems,2
- quality of service,2
- architecture,2
- entrepreneurship,2
- software engineering,2
- student preferences,2
- addie model,2
- barriers,2
-elearning,2
- training,2
- learning platform,2
- modeling,2
- k-means,2
-mobile internet,2
- structural equation modeling,2
-autism spectrum disorder,2
- 5g,2
- learning tool,2
- immersion,2
-whatsapp application,2
- groupware,2
- discrete wavelet transform,2
- security issues,2
- video based learning,2
- user feedback,2
- engineering students,2
- learning design,2
-context-aware,2
- wireless mesh network,2
- statistics.,2
- smart classroom,2
- mobile multimedia,2
- vocational education,2
- instruction,2
- nodemcu,2
- online service learning,2
-learning analytics,2
- gender,2
- unity 3d,2
- chatbot,2
- learning community,2
- student performance.,2
- learning environment,2
- reinforcement learning,2
- interface design,2
- situated simulations,2
- genetic algorithm,2
- clustering,2
- mobile ecosystem,2
- power management,2
-quality of experience,2
- system dynamics,2
-digital competence,2
- user model,2
- educational systems,2
- electronic medical record,2
-mobile services,2
- educational,2
- game-based learning,2
-ubiquitous learning,2
-human computer interaction,2
- electronic banking,2
- mobile banking,2
- mixed reality,2
- pandemic,2
- adoption,2
- conceptual model,2
-healthcare,2
- human-computer interaction,2
- culture,2
-android application,2
-educational robotics,2
-named data networking,2
- tam.,2
- flash lite,2
- mlp,2
-mobile,2
- mobile network,2
- phishing,2
- middle school students,2
-literature review,2
- byod,2
- mobile ad hoc network,2
- leap motion,2
- student engagement,2
- qr code,2
- log data,2
- vocational high school,2
- serious game,2
-classroom,2
- esp8266,2
- system quality,2
- mall,2
- mobile-assisted language learning,2
- research trends,2
-systematic literature review,2
- automation,2
- multitasking,2
- emergency call,2
- media,2
- mobile learning application,2
- mobile learning (m-learning),2
- health system,2
- elderly,2
- english as a foreign language,2
- abstraction,2
- black hole attack,2
-educational technology,2
-adaptive learning,2
--mobile adhoc networks,2
- small screen interface,2
- reading,2
- technology integration,2
- shortest path,2
- apps,2
- real-time,2
- peak-to-average power ratio,2
-environmental monitoring,2
-smartphone apps,2
- technology acceptance,2
- validity,2
- neural network,2
- students performance,2
-smartphone augmented reality,2
- theory of planned behaviour,2
- padlet,2
- generation z,2
- acceptance,2
- social influence,2
- ransac,2
- teaching,2
- odk-x,2
- connectivity,2
-mobile applications and services,2
- data collection,2
- smart education,2
-mobile systems,2
-eportfolio,2
- employability,2
- digitalization,2
- human resources.,2
-elderly,2
- rasch model,2
-mobile media,2
-5g technology,2
- problem-based learning,2
- testing,2
- technology readiness,2
-smartphone application,2
- e-commerce,2
-social networks,2
- instructional design,2
- informal learning,2
- education innovation,2
- university education,2
- gps,2
-authentication,2
- network lifetime,2
-usability evaluation,2
-computer vision,2
- smes,2
- decision-making,2
- geography,2
- geometry,2
- consumer behaviour,2
- applications,2
- congestion,2
- voip,2
- emotions,2
- wi-fi tracking system,2
-game,2
-application,2
- iphone,2
- push notifications,2
- older adults,2
- ipad,2
- seamless learning,2
- wi-fi,2
- problem-solving,2
- proximity,2
- information and communication technology,2
- facebook,2
- malware,2
- mental health,2
- mobile phone usage,2
- robot,2
- mobile web,2
- primary education,2
- gyroscope,2
- m-learning.,2
-mobile computing,2
- meta-analysis,2
- intervention,2
- asd,2
- technical support,2
- student satisfaction,2
- facial recognition,2
- ahp,2
- digital transformation,2
- problem solving,2
- vector representation,2
- remote labs,2
+gpsr,4
+cloud,4
+elderly,4
+knowledgemanagement,4
+ontology,4
+gsm,4
+mobileweb,4
+awareness,3
+efl,3
+smartdevices,3
+socialdistancing,3
+physics,3
+clustering,3
+lms,3
+englishlanguagelearning,3
+decisionsupportsystem,3
+gamebasedlearning,3
+languagelearning,3
+mixedreality,3
+mobileadhocnetwork,3
+handwritingrecognition,3
+sustainability,3
+interoperability,3
+specialeducation,3
+raschmodel,3
+imageprocessing,3
+mobileusability,3
+computervision,3
+randomforest,3
+malware,3
+pushnotifications,3
+mobilesystems,3
+mobilebanking,3
+ar,3
+educationalsystems,3
+naturallanguageprocessing,3
+website,3
+context,3
+consumeracceptance,3
+platforms,3
+situatedsimulations,3
+adaptation,3
+j2me,3
+web2.0,3
+voip,3
+content,3
+robot,3
+neuralnetwork,3
+tablet,3
+informationsystems,3
+userinterface,3
+dsdv,3
+higherorderthinkingskills,3
+digitaleconomy,3
+olderadults,3
+wirelessmeshnetwork,3
+semanticweb,3
+mlearning,3
+remotecontrol,3
+scopus,3
+scienceprocessskills,3
+wi-fi,3
+informallearning,3
+marketing,3
+autism,3
+powerconsumption,3
+attitude,3
+survey,3
+routingprotocol,3
+facebook,3
+autismspectrumdisorder,3
+mobilelearning(m-learning),3
+gender,3
+highschool,3
+storytelling,3
+reliability,3
+api,3
+personalizedlearning,3
+context-awareness,3
+vosviewer,3
+technologyadoption,3
+teachingandlearning,3
+geneticalgorithm,3
+covid19,3
+nameddatanetworking,3
+jordan,3
+saudiarabia,3
+crowdsourcing,3
+ios,3
+systematicreview,3
+online,3
+simulation,3
+instagram,3
+reverseengineering,3
+classification,3
+webservices,3
+labview,3
+energyefficiency,3
+personalization,3
+intentiontouse,3
+naïvebayes,3
+elearning,3
+perceivedeaseofuse,3
+mobile-assistedlanguagelearning,3
+digitalmarketing,3
+aodv,3
+qos,3
+thailand,3
+authenticlearning,3
+blackboard,3
+vanet,3
+androidapplication,3
+smartphoneapps,3
+ensemble,3
+technologyenhancedlearning,3
+mobility,3
+apps,3
+learningstyle,3
+rdf,3
+servicequality,3
+interactive,3
+mobileinteraction,2
+qualityofservice,2
+expertreview,2
+learningdesign,2
+vocationaleducation,2
+comparativestudy,2
+podcast,2
+literacy,2
+handover,2
+monitoringdevice,2
+peer-to-peer,2
+communicationboard,2
+intelligenttutoringsystems,2
+middleschoolstudents,2
+gesturerecognition,2
+bibliometricanalysis.,2
+edgecomputing,2
+wirelessnetwork,2
+listeningcomprehension,2
+informationquality,2
+educationalgame,2
+structuralequationmodeling,2
+gis,2
+vikor,2
+k-means,2
+powermanagement,2
+5g,2
 fashion,2
-preschool education,2
- convolutional neural network,2
- writing skills,2
-handwriting recognition,2
- topsis,2
-information systems,2
- retail,2
- learning management system (lms),2
- universal design,2
- literacy,2
- esp,2
- comparative study,2
+vanets,2
+amplitudeshiftkeying,2
+ddos,2
+mobilenetwork,2
+ids,2
+aes,2
+barriers,2
+halal,2
+videobasedlearning,2
+studentpreferences,2
+wirelesssensornetworks,2
+encryption,2
+discretewavelettransform,2
+recommendationsystem,2
+mentalhealth,2
+text-to-speech,2
+dictionary,2
+convolutionalneuralnetwork,2
+challenges,2
+geogebra,2
+speakingskills,2
+e-services,2
+digitalreadiness,2
+indoorpositioningsystem,2
+projectbasedlearning,2
+k-nearestneighbor,2
+u-learning,2
+rssfingerprint,2
+instructional,2
+featureextraction,2
+vpn,2
+routingprotocols,2
+smartclassroom,2
+measuringinstruments,2
+userfeedback,2
+topicmodeling,2
+dsr,2
+cscw,2
+electronicbanking,2
+iphone,2
+smartphoneapplications,2
+recommendation,2
+ebook,2
+mathematicseducation,2
+signlanguage,2
+graphicdesign,2
+onlinelab,2
+ipad,2
+multimediamessage,2
+mobilephoneusage,2
+byod,2
+m-payment,2
+mysql,2
+mobileassistedlanguagelearning(mall),2
+remotelab,2
+multitasking,2
+anomalydetection,2
+classroom,2
+vocationalhighschool,2
+mobileecosystem,2
+dyslexia,2
+remotelabs,2
+smartcity,2
+writingskills,2
+mobilepayment,2
+smes,2
+riskassessment,2
+decision-making,2
+mms,2
+electroniclearning,2
+mediation,2
+augmentedreality(ar),2
+congestion,2
+contentadaptation,2
+mobile-government,2
+proximity,2
+mobilelearningapplication,2
+electronicmedicalrecord,2
+primaryeducation,2
+smartphoneaugmentedreality,2
+mobileservices,2
+connectivity,2
+tablets,2
+ransac,2
+context-awareservices,2
+technologyintegration,2
+computernetwork,2
+environmentalmonitoring,2
+orthogonalfrequencydivisionmultiplexing,2
+webtechnologies,2
+softwaredevelopment,2
+padlet,2
+acceptance,2
+digitalcommunication,2
+mobileapplicationsandservices,2
+mobilemedia,2
+peak-to-averagepowerratio,2
+usermodel,2
+educational,2
+digitalsociety,2
+transformation,2
+wirelesscommunications,2
+javaprogramming,2
+virtuallaboratory,2
+tam.,2
+systemdynamics,2
+datacollection,2
+studentengagement,2
+smarteducation,2
+brandawareness,2
+mhealth,2
+automation,2
+odk-x,2
+universityeducation,2
+dijkstrasshortestpathalgorithm,2
+smallscreeninterface,2
+m-learning.,2
+remotelaboratories,2
+android.,2
+facialrecognition,2
+intelligentsensors,2
+adaptivelearning,2
 ber,2
-mobile marketing,2
- ebook,2
- content quality,2
- graphic design,2
- sustainability,2
- educational tool,2
- digital economy,2
- wireless communications,2
-road safety education,2
-virtual laboratory,2
-collaboration,2
- android.,2
- opencv,2
- education 4.0,2
-nfc,2
- smartphone applications,2
- boosting,2
- m-payment,2
- speed,1
- multi-hop communication,1
- information and communication technologies.,1
- project work.,1
- secured access,1
- variation of nodes number,1
-software development,1
- wireless sensor network (wsn),1
- globalization,1
-aomdv,1
-digital economy,1
- open learning,1
- smartphone.,1
- extraneous cognitive load (ecl),1
-collaborative learning,1
- parallel computing,1
-multi-layered multimodal biometric,1
- information media and technology skills,1
- prepared and unprepared speech,1
- open smart classroom,1
- mesh topology,1
- professional learning communities,1
-smart technology,1
- mobile based game learning,1
- packetloss,1
-library 4.0 academic libraries,1
-teachers professional development,1
-innovation activity assessment,1
- interest,1
-affective,1
- children with down syndrome,1
-mobile usability,1
- node distance,1
- mobile learning platforms.,1
- educational design,1
- and iot (esp 8266) module,1
- cellular automata,1
-traffic flow modelling,1
- training programs,1
- journalism,1
- educational process,1
- traditional learning,1
-applicants for education,1
- gamification of learning.,1
-intensive training,1
- fanet,1
- project risk,1
- uwvanet,1
- rssi-based distance localization,1
- dva-gpsr,1
- data partition,1
- economics applications,1
-unscented kalman filter (ukf),1
- direction,1
- codec,1
-blog,1
- curriculum innovation,1
- density,1
-ad-hoc networks,1
- international standards,1
- orthogonal frequency division multiplexing,1
- tablet.,1
- writing,1
- entrepreneurship education,1
- technical specialist.,1
- modelling.,1
- online media.,1
- peer mentoring,1
- teachers.,1
- learning effectiveness,1
- germane cognitive load (gcl),1
- affinity space,1
-collocations,1
- standardization prob-lems,1
-cognitivism,1
- big data smes,1
- smartphone apps,1
- thai hotels,1
- comprehensiveness,1
- online shopping intention,1
- pharmacies,1
-instant messaging,1
- use of instant messaging for academic purpose,1
- technology acceptance model.,1
-game genres,1
- comparing game genres,1
- evolution of game genres.,1
-customer classification,1
- c4.5 decision tree,1
- knn,1
-distributed ledger technology,1
- blockchain consensus algorithms,1
- proof of work,1
-mysql,1
- independence characters,1
-android game,1
- colloids,1
-perceived usefulness,1
- perceives ease of use,1
- credibility,1
- entertainment,1
- informativeness,1
- irritation,1
- water quality monitoring,1
- artificial neural network.,1
- support vector machines,1
- psycho-loneliness,1
- mobile store,1
-- communication studies,1
- hoax,1
-attendance system,1
- crossing number,1
- geospatial retrieval,1
- mobile finger-print,1
- pnpoly,1
-heritage tourism,1
- mobile guide service,1
- nomophobia,1
- learning.,1
- local binary pattern,1
- visually impaired,1
- e-mailing,1
- text-to-speech conversion,1
- speech-to-text conversion,1
- outdoor navigation,1
- schedule management.,1
-(augmented reality (ar),1
- hajj,1
- early childhood education).,1
-handwritten arabic text,1
- holistic recognition,1
-mobile enterprise applications,1
- user stories,1
-bh1750,1
-tablet-based application,1
- hiring tool,1
-school attendance system,1
- rfid tags,1
-keywordsـــــcomputational thinking skills,1
- (steam) approach,1
- algorithmic thinking,1
- decomposition,1
- generalization,1
- jordan.,1
-interactive mobile application,1
- reading and writing skills,1
- evidence based teachers perceptions and video-modelling,1
- openface,1
-mobile education tool,1
- demonstration,1
- design science research,1
- cbe,1
- tanzania,1
-driver sleepiness,1
- sleepiness detection,1
- facial landmark,1
- extraction,1
- eye aspect ratio,1
- health care,1
- mobile facial recognitions,1
-facial recognition algorithms,1
- dht11,1
- serious video game.,1
- street lighting system,1
-multimodal interaction,1
- gesture recognition,1
- smart home.,1
-dyslexia,1
- adaptivity,1
- learning style model,1
-information technologies,1
- appropriation,1
- information systems,1
- bovine production system,1
-research competence,1
- physical education class,1
- mobile education,1
- instructional media,1
-asynchronous learning,1
- instructional sys-tem design,1
- synchronous learning,1
-oral english communication skills,1
- learners problems,1
- learners readiness,1
- features of smartphones,1
-autistic,1
- video interaction,1
-enterprise resource planning (erp),1
- social media marketing,1
- information science,1
-social media communication,1
- training set,1
- exact-range,1
- size-range,1
- pattern-range,1
-digital flipbook,1
- research and development,1
- immune system,1
- validation.,1
- net promoter score,1
- smartphone app,1
- likelihood to recommend,1
-leadership training,1
- e-training,1
- aspired leader,1
- e-npqel,1
-communication,1
- shortest paths,1
- information diffusion,1
- centralities,1
- neighbour nodes,1
-learning motivation,1
- reminder tool,1
- polytechnic,1
- learning performance,1
- malevolent node,1
- confidence factor,1
- support factor,1
-data trace,1
- synthesis,1
- mobile app design,1
- design science approach,1
- measurement app,1
-flood identification,1
- crowdsource data,1
- gis,1
-e- assessment,1
- soft skills,1
- 2nd generation sosie,1
- behavioral tests,1
-interactive mobile learning,1
- electronic componen,1
- medium apps,1
- tqm classroom,1
- communications.,1
-divayana formula,1
-municipalities,1
- local government,1
- mobile risks,1
- training and awareness,1
- brand awareness,1
- business consultancy competition,1
-app marketing,1
- app installation ads,1
- packet dropping,1
-phet simulation,1
-tourism,1
- creativity,1
- student-generated activities,1
- bdmm mobile application,1
- bdmm,1
-top-k personalized dataset,1
- gravimeter filtering technique,1
- tree oriented,1
-bruner model,1
- lesh model,1
- slow-motion,1
- robotics kits,1
- coding,1
-chatbots,1
- nrl.,1
- messenger,1
- websites,1
- natural language understanding,1
- brand representation,1
- dyslexia,1
- screening,1
- cybersecurity,1
-text messaging,1
- push notification,1
- civic education,1
- esl/efl contexts,1
-big data maturity model,1
- e2e delay,1
- jeddah,1
- wireguard,1
-zoom meeting,1
- data usage,1
-electrical appliances,1
- controlling system,1
- smart room,1
-inland waterway transport (iwt),1
- global positioning system (gps),1
- mobile educational applications,1
-vpn,1
- ipsec,1
- gre,1
- protocol,1
- pdr,1
- tunnel,1
- ikpsk2,1
- vpn performance.,1
-multi-robotics,1
- path planning (pp),1
- aco algorithm,1
- metaheuristics. uncer-tainties,1
-human mobility,1
- long short-term memory (lstm),1
- dbscan,1
-gpsr,1
- mobile ethics,1
- high frequency electronics,1
- tcp.,1
- realistic mathematics,1
- flash crowds,1
- and traffic congestion.,1
-wireless sensor networks (wsn),1
- asrc routing,1
- cluster head (ch) selection,1
- replication,1
- data communication.,1
-assistive mobile health applications,1
- cognitive decline,1
-mobile health applications adoption,1
- mobile health applications use intention,1
- subjective norm,1
- facilitating conditions.,1
- creative thinking ability,1
-spirituality,1
-computer networking,1
- cisco packet tracer,1
-intelligent predictive,1
- word matching,1
- mobile-based system,1
-decision making,1
- end-user behaviour,1
- thailand.,1
-auto-reply system,1
- sms-based system,1
- system performance,1
- use questionnaire,1
-individual differentiation,1
- distributed denial of service attacks,1
-network attacks,1
- user evaluation,1
- tvet,1
- energy consumption,1
- wireless communication,1
-ssl,1
- tls,1
- poodle,1
- vulnerabilities,1
- protocol versions upgrade,1
-e-government,1
- interview approach,1
- mobile experience,1
- usability performance,1
- user perception,1
-cloud world synergy,1
- english language teaching (elt),1
- adult learners,1
- integrating,1
- perspectives,1
- handheld technologies,1
-organoleptic tests,1
- decision tree,1
- c4.5 algorithm,1
- ict.,1
-bagging,1
- mobile intelligent system,1
- machine learning techniques,1
- rainfall prediction svm.,1
- arc welding learning,1
- learning support,1
-learning achievement,1
- udp,1
-keywords- personalized reading,1
-quiz,1
-mobile ip,1
- care of address,1
- home agent,1
- foreign agent,1
- attendance management system,1
- teachers absenteeism,1
-vocabulary learning,1
- english as a second language,1
- apps features,1
-digital storytelling,1
- creative teaching,1
- 21st-century learning,1
- user profile,1
- reading textbook,1
- scenario,1
- slow learner,1
-algorithm,1
- data structure,1
- stack,1
-jawi script,1
- spelling methods,1
- students attraction,1
- learning basic solat,1
- childhood,1
- chemical bond,1
- misconceptions,1
- visualizations,1
- rapid prototyping,1
- content management system,1
- mobile instruction,1
- recall.,1
- reading intensity,1
- smartphone addiction,1
- achievement motivation,1
-crime prevention,1
- community safety,1
- location-aware,1
-trust computation,1
- node trust prediction,1
-technology in learning,1
- e-assesment,1
- e-module,1
- physics practicum,1
-science process skills,1
- m-practicum guidebooks,1
- m-asessment,1
-isaa,1
- facp,1
- indian portage guide,1
- basic mr (part a),1
- assessment tools,1
-tablets,1
- evidence,1
- mobile digital content applications (mdca),1
- psychological well-being (pwb).,1
-mobile video platform,1
- segmentation,1
- question location,1
- green data center,1
-cyber-physical system,1
- pre-commercialization,1
- learner performance,1
- firebase.,1
-foreign language,1
- binaural audio,1
- multimodal interfaces,1
- students vocabulary,1
- sitsim,1
- archive,1
- narrative,1
- location-based media,1
- digital cultural heritage,1
- omaha beach,1
- d-day,1
-mobile phone addiction,1
-phishing detection,1
-social media analytics,1
- feature selection,1
- multilayer perceptron.,1
- integration,1
- model,1
-database manipulation,1
- pailliers encryption algorithm.,1
-virtual instrument,1
- hand gesture,1
- traditional music,1
- head mounted display (hmd),1
- content centric networking,1
- information-centric network,1
- caching router,1
- offline mode,1
- user response,1
- string matching method,1
- anggah-ungguhing balinese language,1
- enjoyment,1
- system interactivity,1
- computer anxiety,1
- students inten-tion to use e-learning,1
- th,1
-a mobile app,1
- predictive systems,1
- fuzzy algorithm,1
- peda-gogy,1
-hiragana,1
- handwriting recognition,1
- deep neural network search,1
- global system for mobile communication (gsm).,1
-theatrical activities,1
- role-play,1
- smartphone video,1
- authentic learning environment,1
- adhoc on demand routing protocol,1
- attacks,1
- noxious node.,1
- ecg,1
- arrhythmia,1
- nursing students,1
-cassava-chip collaboration,1
- collaborative supply chain,1
- agriculture mobile application,1
-mobile dictionary,1
- clustering methods,1
- analytic hierarchy process.,1
- evaluation application,1
-application programming interface,1
- perceived usability,1
- usability test evaluation,1
-mathematics,1
- web address,1
+wi-fitrackingsystem,2
+technologyreadiness,2
+digitallearning,2
+beamforming,2
+psnr,2
+theoryofplannedbehaviour,2
+mobiledatabase,2
+onlineservicelearning,2
+mimo,2
+entrepreneurshipeducation,2
+students'attitudes,2
+universaldesign,2
+ad-hocnetworks,2
+shortestpath,2
+validity,2
+entrepreneurship,2
+technologyacceptance,2
+opencv,2
+neuralnetworks,2
+flashlite,2
+studentsperformance,2
+networksecurity,2
+seriousgame,2
+emergencycall,2
+mobilehealthcareapplication,2
+reading,2
+human-computerinteraction,2
+design,2
+instructionaldesign,2
+englishasaforeignlanguage,2
+healthsystem,2
+alzheimersdisease,2
+teaching,2
+learningmanagementsystem(lms),2
+groupware,2
+mathematicalachievement,2
+textmessaging,2
+vocabulary,2
+development,2
+accessibility,2
+trafficflow,2
+deaf,2
+interfacedesign,2
+chatbot,2
+usertesting,2
+vocabularylearning,2
+training,2
+learningplatform,2
+mobileinternet,2
+visualisation,2
+statistics.,2
+socialnetworking,2
+architecture,2
+xml.,2
+southafrica,2
+m-government,2
+gamedevelopment,2
+informationandcommunicationtechnology,2
+softwareengineering,2
+emotions,2
+applications,2
+vectorrepresentation,2
+problemsolving,2
+elementaryschool,2
+bluetooth,2
+oman.,2
+culinary,2
+context-awarecomputing,2
+smarttechnology,2
+retail,2
+blockchain,2
+wap,2
+stroke,2
+nodemcu,2
+real-time,2
+spamdetection,2
+researchtrends,2
+learningachievement,2
+phishing,2
+facerecognition,2
+homomorphicencryption,2
+geography,2
+educationaldatamining,2
+analysis,2
+problem-basedlearning,2
+ahp,2
+topsis,2
+textclassification,2
+learningmanagementsystems,2
+humanresources.,2
+esp8266,2
+algorithm,2
+geometry,2
+digitalization,2
+stem,2
+esp,2
+addiemodel,2
+gps,2
+educationinnovation,2
+networklifetime,2
+adaptivesystems,2
+seamlesslearning,2
+mobileexperience,2
+5gtechnology,2
+literaturereview,2
+game,2
+consumerbehaviour,2
+learningtool,2
+model,2
+whatsappapplication,2
+mall,2
+interactivemedia,2
+securityissues,2
+systematicliteraturereview,2
+digitalcompetence,2
+attendancemanagementsystem,2
+digitalapplication,2
+userbehavior,2
+studentsatisfaction,2
+technicalsupport,2
+lstm,2
+frauddetection,2
+adoption,2
+mlp,2
+media,2
+gyroscope,2
+culture,2
+user-centreddesign,2
+conceptualmodel,2
+qualityofexperience,2
+iotapplication,2
+pandemic,2
+digitaltransformation,2
+googleplay,2
+educationalrobotics,2
+employability,2
+eportfolio,2
+usabilitytesting,2
+digitaltechnologies,2
+notification,2
+asd,2
+digitaleducation,2
+effortexpectancy,2
+qrcode,2
+meta-analysis,2
+intervention,2
+informationsecurity,2
+problem-solving,2
+project-basedlearning,2
+systemquality,2
+intrusiondetection,2
+abstraction,2
+roadsafetyeducation,2
+modeling,2
+reinforcementlearning,2
+education4.0,2
+learningenvironment,2
+textmining,2
+engineeringstudents,2
+studentperformance.,2
+creativethinkingability,2
+blackholeattack,2
+learningcommunity,2
+socialinfluence,2
+pre-serviceteachers,2
+mobilemultimedia,2
+energyconsumption,2
+boosting,2
+headmounteddisplay,2
+technology-enhancedlearning,2
+-mobileadhocnetworks,2
+educationaltool,2
+universitystudents,2
+testing,2
+twitter,2
+learninganalytics,2
+generationz,2
+instruction,2
+immersion,2
+userexperience(ux),2
+mobileadhocnetworks,2
+logdata,2
+contentquality,2
+leapmotion,2
+e-module,2
+tablet.,1
+vpnperformance.,1
 sakai,1
-challenges,1
- opportunities,1
- teaching of writing,1
- tesl pre-service teachers,1
-global grass-roots community movement,1
- open device lab,1
- online user review,1
- service user experience evaluation,1
- m-adoption,1
- ipad initiative,1
-university-industry linkage (uil),1
- knowledge management (km),1
- university-industry collaboration (uic),1
- talent mobility (tm),1
- national research univer-sity (nru),1
- personnel sharing model,1
- university assessment system,1
-m-banking usability,1
- financial technology,1
- deafness.,1
-mobile experience,1
- think-aloud protocol,1
- flood forecasting,1
- emirates universities.,1
- countenance,1
- structure equation modeling (pls-sem),1
- aneka,1
- tri hita karana,1
-cnn,1
- javanese letter,1
- character recognition,1
- mobile client,1
- 2-tier architecture,1
- smartcity,1
-tam model,1
- intention to adopt smart home,1
-financial management competency,1
- mobile scaffolding application,1
- scenario-based learning,1
- self-assessment,1
- development of the digital competence,1
- pedagogical specialists,1
-numeracy understanding model,1
- e-numeracy,1
- mobile health (mhealth),1
- developing countries.,1
-conference paper,1
-media competence,1
- media education,1
- multimedia tools,1
- teachers,1
-mobile learning platform (mlp),1
- united arab emirates,1
-decision-making style,1
- self-directed learning,1
- construction-related worker,1
- collaboration space,1
- smart-shirt,1
- m-health,1
- e-health,1
- mobile security,1
- mobile attacks,1
- denial of service attacks,1
- distributed denial-of-service attacks,1
- ids,1
- heterogeneous,1
- backbone,1
- mobile sink,1
- shortest spanning tree,1
-lms,1
- ims-ld,1
- location privacy,1
- elearning platform,1
- designing an ims-ld meta-model,1
- school-home cooperation,1
- multilingual,1
- mar,1
- mobile retailing,1
-speed thinking,1
- educational game,1
- player behavior,1
-application-based learning,1
- chemical bonds,1
-gis,1
- algorithm,1
- wireless body area network,1
- patient monitoring systems,1
- ca,1
- emimo,1
- location monitoring sys-tems.,1
-touch screen interface,1
- 2d-touch,1
- 3d-touch,1
- stable 3d-touch area,1
- mo-bile device,1
- mobile telecommunication systems,1
- surveys,1
-secondary education,1
- adolescents,1
- transmission lines,1
- waves propagation,1
-electronic educational resource,1
- smith chart,1
- fdtd method,1
- regression testing,1
- behavior driven development,1
- visual programming environment,1
- catrobat,1
+mobilebasedgamelearning,1
+childrenwithdownsyndrome,1
+interviewapproach,1
+ikpsk2,1
+webaddress,1
+ipsec,1
+tunnel,1
+protocol,1
+wireguard,1
+smartphone.,1
+poodle,1
+vulnerabilities,1
+multi-robotics,1
+gre,1
+protocolversionsupgrade,1
+mobileeducationalapplications,1
+globalpositioningsystem(gps),1
+acoalgorithm,1
+onlinemedia.,1
+bdmm,1
+gamificationoflearning.,1
+economicsapplications,1
+top-kpersonalizeddataset,1
+userperception,1
+gravimeterfilteringtechnique,1
+treeoriented,1
+brunermodel,1
+leshmodel,1
+trainingprograms,1
+structureequationmodeling(pls-sem),1
+cloudworldsynergy,1
+traditionallearning,1
+englishlanguageteaching(elt),1
+slow-motion,1
+roboticskits,1
+coding,1
+creativity,1
+emiratesuniversities.,1
+bdmmmobileapplication,1
+pathplanning(pp),1
+bigdatasmes,1
+learningeffectiveness,1
+usabilitytestevaluation,1
+perceivedusability,1
+smartroom,1
+floodforecasting,1
+metaheuristics.uncer-tainties,1
+usabilityperformance,1
+humanmobility,1
+longshort-termmemory(lstm),1
+dbscan,1
+pdr,1
+e2edelay,1
+journalism,1
+blog,1
+applicationprogramminginterface,1
+nrl.,1
+bigdatamaturitymodel,1
+inlandwaterwaytransport(iwt),1
+electroniccomponen,1
+controllingsystem,1
+m-bankingusability,1
+supportfactor,1
+confidencefactor,1
+trainingset,1
+2ndgenerationsosie,1
+financialtechnology,1
+exact-range,1
+softskills,1
+size-range,1
+universityassessmentsystem,1
+electricalappliances,1
+pattern-range,1
+digitalflipbook,1
+researchanddevelopment,1
+immunesystem,1
+validation.,1
+personnelsharingmodel,1
+nationalresearchuniver-sity(nru),1
+netpromoterscore,1
+datatrace,1
+mediumapps,1
+appinstallationads,1
+appmarketing,1
+cyber-physicalsystem,1
+tqmclassroom,1
+communications.,1
+pre-commercialization,1
+divayanaformula,1
+synthesis,1
+socialmediaanalytics,1
+interactivemobilelearning,1
+greendatacenter,1
+municipalities,1
+localgovernment,1
+think-aloudprotocol,1
+behavioraltests,1
+mobilerisks,1
+deafness.,1
+trainingandawareness,1
+businessconsultancycompetition,1
+smartphoneapp,1
+likelihoodtorecommend,1
+crowdsourcedata,1
+polytechnic,1
+informationscience,1
+learningperformance,1
+m-adoption,1
+serviceuserexperienceevaluation,1
+onlineuserreview,1
+malevolentnode,1
+packetdropping,1
+phetsimulation,1
+opendevicelab,1
+globalgrass-rootscommunitymovement,1
+teslpre-serviceteachers,1
+teachingofwriting,1
+jeddah,1
+tls,1
+zoommeeting,1
+opportunities,1
+datausage,1
+mobileappdesign,1
+remindertool,1
+floodidentification,1
+neighbournodes,1
+talentmobility(tm),1
+wirelesscommunication,1
+ssl,1
+unitedarabemirates,1
+leadershiptraining,1
+university-industrycollaboration(uic),1
+knowledgemanagement(km),1
+e-training,1
+measurementapp,1
+aspiredleader,1
+designscienceapproach,1
+e-npqel,1
+shortestpaths,1
+university-industrylinkage(uil),1
+ipadinitiative,1
+informationdiffusion,1
+centralities,1
+professionallearningcommunities,1
+-communicationstudies,1
+mobilelearningplatform(mlp),1
+asynchronouslearning,1
+location-basedmedia,1
+appropriation,1
+bovineproductionsystem,1
+narrative,1
+seriousvideogame.,1
+researchcompetence,1
+mobileeducation,1
+archive,1
+instructionalmedia,1
+instructionalsys-temdesign,1
+informationtechnologies,1
+sitsim,1
+synchronouslearning,1
+studentsvocabulary,1
+oralenglishcommunicationskills,1
+learnersproblems,1
+learnersreadiness,1
+featuresofsmartphones,1
+autistic,1
+multimodalinterfaces,1
+digitalculturalheritage,1
+learningstylemodel,1
+videointeraction,1
+bh1750,1
+integration,1
+perceiveseaseofuse,1
+credibility,1
+entertainment,1
+informativeness,1
+irritation,1
+mobileenterpriseapplications,1
+multilayerperceptron.,1
+userstories,1
+featureselection,1
+adaptivity,1
+phishingdetection,1
+dht11,1
+streetlightingsystem,1
+learnerperformance,1
+multimodalinteraction,1
+smarthome.,1
+mobilephoneaddiction,1
+d-day,1
+omahabeach,1
+binauralaudio,1
+physicaleducationclass,1
+chatbots,1
+tanzania,1
+tablet-basedapplication,1
+arrhythmia,1
+ecg,1
+evidencebasedteachersperceptionsandvideo-modelling,1
+mobileeducationtool,1
+demonstration,1
+designscienceresearch,1
+noxiousnode.,1
+cbe,1
+attacks,1
+readingandwritingskills,1
+adhocondemandroutingprotocol,1
+authenticlearningenvironment,1
+smartphonevideo,1
+driversleepiness,1
+sleepinessdetection,1
+role-play,1
+theatricalactivities,1
+globalsystemformobilecommunication(gsm).,1
+faciallandmark,1
+nursingstudents,1
+interactivemobileapplication,1
+foreignlanguage,1
+stringmatchingmethod,1
+facialrecognitionalgorithms,1
+openface,1
+mobilefacialrecognitions,1
+hiringtool,1
+firebase.,1
+schoolattendancesystem,1
+offlinemode,1
+userresponse,1
+rfidtags,1
+anggah-ungguhingbalineselanguage,1
+jordan.,1
+keywordsـــــcomputationalthinkingskills,1
+mobiledictionary,1
+(steam)approach,1
+algorithmicthinking,1
+decomposition,1
+agriculturemobileapplication,1
+generalization,1
+collaborativesupplychain,1
+cassava-chipcollaboration,1
+colloids,1
+androidgame,1
+databasemanipulation,1
+crossingnumber,1
+hoax,1
+pedagogicalspecialists,1
+developmentofthedigitalcompetence,1
+self-assessment,1
+scenario-basedlearning,1
+attendancesystem,1
+mobilescaffoldingapplication,1
+financialmanagementcompetency,1
+intentiontoadoptsmarthome,1
+tammodel,1
+numeracyunderstandingmodel,1
+2-tierarchitecture,1
+mobileclient,1
+geospatialretrieval,1
+mobilefinger-print,1
+pnpoly,1
+heritagetourism,1
+characterrecognition,1
+mobileguideservice,1
+nomophobia,1
+integrating,1
+mobilestore,1
+independencecharacters,1
+civiceducation,1
+messenger,1
+websites,1
+naturallanguageunderstanding,1
+brandrepresentation,1
+screening,1
+cybersecurity,1
+pushnotification,1
+teachers,1
+multimediatools,1
+mediaeducation,1
+e-numeracy,1
+esl/eflcontexts,1
+mediacompetence,1
+socialmediacommunication,1
+socialmediamarketing,1
+thaihotels,1
+conferencepaper,1
+developingcountries.,1
+mobilehealth(mhealth),1
+enterpriseresourceplanning(erp),1
+psycho-loneliness,1
+learning.,1
+visuallyimpaired,1
+information-centricnetwork,1
+cachingrouter,1
+instantmessaging,1
+useofinstantmessagingforacademicpurpose,1
+technologyacceptancemodel.,1
+gamegenres,1
+comparinggamegenres,1
+evolutionofgamegenres.,1
+customerclassification,1
+c4.5decisiontree,1
+knn,1
+e-mailing,1
+contentcentricnetworking,1
+distributedledgertechnology,1
+headmounteddisplay(hmd),1
+blockchainconsensusalgorithms,1
+proofofwork,1
+traditionalmusic,1
+handgesture,1
+virtualinstrument,1
+pailliersencryptionalgorithm.,1
+clusteringmethods,1
+analytichierarchyprocess.,1
+evaluationapplication,1
+countenance,1
+text-to-speechconversion,1
+speech-to-textconversion,1
+outdoornavigation,1
+schedulemanagement.,1
+(augmentedreality(ar),1
+javaneseletter,1
+hajj,1
+earlychildhoodeducation).,1
+handwrittenarabictext,1
+trihitakarana,1
+holisticrecognition,1
+localbinarypattern,1
+supportvectormachines,1
+artificialneuralnetwork.,1
+waterqualitymonitoring,1
+comprehensiveness,1
+onlineshoppingintention,1
+aneka,1
+pharmacies,1
+adultlearners,1
+jemasik,1
+projectwork.,1
+geotechnicaldata,1
+programfundamentalteaching,1
+transmissionlines,1
+wavespropagation,1
+highfrequencyelectronics,1
+smithchart,1
+fdtdmethod,1
+adultlearning,1
+construction-relatedworker,1
+self-directedlearning,1
+regressiontesting,1
+behaviordrivendevelopment,1
+decision-makingstyle,1
+visualizations,1
+visualprogrammingenvironment,1
+catrobat,1
 emoji,1
- emotion,1
- crowd requirements engineering,1
-google play store,1
- installation decision,1
- photography applications,1
+misconceptions,1
+chemicalbond,1
+emotion,1
+crowdrequirementsengineering,1
+googleplaystore,1
+controlstructure,1
+flowchart,1
+adolescents,1
+digitalsmartboard,1
+mobileassistedextensivereading,1
+nearfieldcommunication,1
+3dcloaking,1
+readingfluency,1
+locationprivacy,1
+extensivereading,1
+mobilesensornetworks,1
+primaryschoolstudents,1
+locationmonitoringsys-tems.,1
+touchscreeninterface,1
+pairprogrammingtechnique,1
+2d-touch,1
+activelearning,1
+3d-touch,1
+stable3d-toucharea,1
+mo-biledevice,1
+mobiletelecommunicationsystems,1
+collaborativetool,1
+pairprogrammingtool,1
+surveys,1
+installationdecision,1
+photographyapplications,1
+childhood,1
+elearningplatform,1
+21st-centurylearning,1
+creativeteaching,1
+digitalstorytelling,1
+appsfeatures,1
+backbone,1
+mobilesink,1
+shortestspanningtree,1
+collaborationspace,1
+ims-ld,1
+designinganims-ldmeta-model,1
+heterogeneous,1
+school-homecooperation,1
+multilingual,1
+englishasasecondlanguage,1
+mar,1
+mobileretailing,1
+teachersabsenteeism,1
+speedthinking,1
+playerbehavior,1
+application-basedlearning,1
+keywords-personalizedreading,1
+userprofile,1
 nb-iot,1
- emtc,1
- geotechnical data,1
- engineering,1
- drilling,1
- multi-agent system,1
- self-learning,1
- sql,1
- java programming,1
-chinese character writing,1
- animation,1
- frog vle,1
- ctml,1
-chemistry,1
- clicker,1
-online learning environment,1
- adult-learners,1
- professional learning,1
-game attributes,1
- learning theory,1
-data handling,1
- learning difficulties,1
- smart board,1
-haptic device,1
- virtual pulse simulation,1
- pulse diagnosis study,1
- pulse waveform modeling,1
-game-based mobile application,1
- game elements,1
- jawi understanding,1
-social media technology,1
- rts,1
- cts,1
- xamarin.forms,1
- programming basics,1
-tour package,1
-cross-platform,1
- recommendation system,1
- case based reasoning,1
- dempster shafer theory,1
- bayes theorem,1
- web responsive,1
- k-fold cross validation,1
- work-order system,1
- infrastructure,1
- fish types,1
- googlevr,1
- kindergarten,1
- blender,1
- learning media.,1
-peer instruction,1
- online social learning,1
-teacher training,1
- anti-sexual violence,1
- unauthorized service access,1
- distributed network,1
- higher education sys-tem,1
- antenatal care,1
- prenatal care,1
- developing countries,1
-attitudes,1
- knowledge,1
- socio-emotion,1
- technology gadget,1
- mobile sensor networks,1
-3d cloaking,1
- adult learning,1
- tvupi,1
- farm practice,1
- participation,1
- user-engagement,1
-mobile social networks (msn),1
- networking quality,1
- information quality.,1
- jemasik,1
- graphic representation,1
- introduction,1
- network clients,1
-mobile communication,1
- tv streaming,1
- smart digital mobile,1
-marketing,1
- near field communication,1
-smart car parking,1
-higher education institution,1
- key performance indicator,1
- multi criteria decision making problem (mcdm),1
- selfish nodes,1
- fading,1
- alternate route,1
- helper nodes,1
-signaling principles,1
- low-achieving learners,1
- assistive courseware.,1
-corporate social responsibility,1
- changlun community,1
- storytelling technique,1
- guided tour,1
- tutorial,1
-drugs,1
- program fundamental teaching,1
- control structure,1
- flowchart,1
-pair programming technique,1
- pair programming tool,1
- collaborative tool,1
-active learning,1
- digital smart board,1
- primary school students,1
-extensive reading,1
- reading fluency,1
- mobile assisted extensive reading,1
-pre-service teachers,1
- social cognitive theory,1
- osi model,1
- computer network,1
- action game,1
-confirmatory factor analysis,1
- indicators,1
- mobile assessment tool,1
- sustainable creative tourism,1
-digital learning tools,1
- u-learning,1
- hypothesis test,1
-thesis supervision system,1
- student-advisor communication,1
- peer collaboration.,1
- access log,1
- wireless network,1
-older adults,1
- named data networking,1
- broadcast strategy,1
- mobility interest,1
-mobapp,1
- delivery process,1
- shipped products,1
- quality attributes,1
- use cases,1
-educational game,1
- black box testing,1
- game application,1
- input,1
-barriers to social media,1
- mathematical modelling,1
- teacher education,1
- pre-service teacher.,1
-intention to use,1
- peruvian students,1
-mixed reality,1
- volume rendering,1
- medical imaging,1
- ray-casting,1
- ray-tracing.,1
- moving mobile storage,1
- rest,1
- cloud computing service model,1
- nosql cloud databases,1
- sync api for android,1
- producer mobility support,1
- handoff latency,1
- m-health application,1
- signaling cost,1
- mobile peer support.,1
+ca,1
+learningbasicsolat,1
+extraction,1
+studentsattraction,1
+spellingmethods,1
+jawiscript,1
+stack,1
+emtc,1
+datastructure,1
+emimo,1
+slowlearner,1
+distributeddenial-of-serviceattacks,1
+patientmonitoringsystems,1
+wirelessbodyareanetwork,1
+scenario,1
+smart-shirt,1
+m-health,1
+e-health,1
+mobilesecurity,1
+mobileattacks,1
+denialofserviceattacks,1
+syncapiforandroid,1
+nosqlclouddatabases,1
+socialcognitivetheory,1
+buildingtrust,1
+farmpractice,1
+m-healthapplication,1
+mobilepeersupport.,1
 diffusion,1
- lightweight hashing techniques,1
- mersenne number,1
- energy efficiency.,1
-building trust,1
- marketplaces,1
- risk,1
- behavior,1
-virtual laboratorium,1
- digital engineering,1
-social media exploitation,1
- permission,1
- camera,1
- mobile malwares,1
- mobile phone surveillance feature,1
- prefix,1
- broadcast,1
- ndnsim,1
- ns-3.29,1
+storytellingtechnique,1
+lightweighthashingtechniques,1
+mersennenumber,1
+guidedtour,1
+energyefficiency.,1
+marketplaces,1
+changluncommunity,1
+risk,1
+behavior,1
+tutorial,1
+virtuallaboratorium,1
+digitalengineering,1
+socialmediaexploitation,1
+permission,1
+camera,1
+mobilemalwares,1
+accesslog,1
+participation,1
+prefix,1
+keyperformanceindicator,1
+graphicrepresentation,1
+networkingquality,1
+introduction,1
+networkclients,1
+tvstreaming,1
+smartdigitalmobile,1
+tvupi,1
+smartcarparking,1
+highereducationinstitution,1
+multicriteriadecisionmakingproblem(mcdm),1
+corporatesocialresponsibility,1
+selfishnodes,1
+fading,1
+alternateroute,1
+helpernodes,1
+signalingprinciples,1
+low-achievinglearners,1
+mobilesocialnetworks(msn),1
+user-engagement,1
+assistivecourseware.,1
+mobilephonesurveillancefeature,1
+broadcast,1
+osimodel,1
+teachereducation,1
+sustainablecreativetourism,1
+blackboxtesting,1
+gameapplication,1
+mobileassessmenttool,1
+input,1
+indicators,1
+barrierstosocialmedia,1
+confirmatoryfactoranalysis,1
+mathematicalmodelling,1
+pre-serviceteacher.,1
+qualityattributes,1
+peruvianstudents,1
+actiongame,1
+volumerendering,1
+medicalimaging,1
+ray-casting,1
+ray-tracing.,1
+movingmobilestorage,1
+rest,1
+cloudcomputingservicemodel,1
+usecases,1
+digitallearningtools,1
+ndnsim,1
+networkanalysismodel,1
+ns-3.29,1
 device-to-device,1
- mode selection,1
- fifth generation,1
- virtualization,1
- security and privacy of information,1
- user virtual machines,1
-network analysis model,1
- intelligence walking stick,1
- augmented reality (ar),1
- vuforia,1
-reverse engineering,1
- macrocell,1
- picocell,1
- interference,1
- 3d,1
- computer networking devices,1
- system usability scale,1
-fog computing,1
- optimization,1
- prediction,1
- mbt,1
- performance prediction.,1
- iot-based technology,1
- graduate students,1
- security architecture,1
-heterogeneous network,1
- security optimization,1
- software protection,1
- source code protection,1
- course management system (cms),1
- student engagement.,1
-robot,1
- hypermedia,1
- scientific concepts,1
- ideas box,1
- motivation toward learning,1
- non-formal educa-tion,1
- culture promotion program for dropouts,1
-web-based animation video,1
- q-learning,1
- high school,1
- public services,1
-data mining,1
-smart collect,1
- mobile data,1
- collaborative,1
-internet of things iot,1
- monitoring device,1
- esp32,1
- mqtt,1
- 3d objects,1
-elementary school,1
-cloud-oriented approach,1
- mobile ad hoc networks,1
- operational efficiency,1
- power-as-a-service,1
- association rules,1
- vietnam,1
- fire accidents analysis,1
- data cleaning,1
- diffusion of innovation,1
-link prediction,1
- network analysis,1
- graph analy-sis,1
- voting techniques,1
-adaptive user interface,1
- spaced retrieval therapy (srt),1
- elderly people,1
- alzheimers disease,1
- grounded-theory,1
-technology acceptance model,1
- environmental education,1
- environmental awareness,1
- streaming media,1
-interaction,1
- autonomous learning,1
- intelligent platforms,1
- wireless technologies,1
-hearing healthcare,1
- mobile health,1
- tele-medicine,1
-motivation,1
- motivation-boosting activities,1
- ideal problem solving,1
- modern analytical chemistry,1
- mass spectrometry,1
-digital book,1
- multicultural education,1
- aging,1
- video streaming server,1
- older adult,1
-entrepreneurship education,1
- mobile learning platforms,1
- digi-tal education,1
- entrepreneurial competences.,1
-temperature monitoring system,1
- location service,1
- blood delivery,1
- usability testing,1
- higher education app,1
-non-native learners,1
- self-study efl,1
- positive attitudes,1
-post-secondary education,1
- quality monitoring,1
- product improvement,1
-quality assurance,1
-flashover,1
- smart grid,1
- transmission and distribution line,1
- structure visualization,1
- markerless tracking,1
- gender differences,1
-communication networks,1
- multipath routing protocol,1
- dcell network simulation,1
- data transmission,1
- ns-3 program,1
- link failure,1
- rack problem,1
- competency,1
-adolescent depression,1
- adolescent motivation,1
- model development,1
-barrier gate system,1
-mobile phones,1
- professor-student communication,1
- m-teaching and learning,1
-iso9241,1
- multi-platform,1
- usability attributes,1
+modeselection,1
+fifthgeneration,1
+virtualization,1
+securityandprivacyofinformation,1
+uservirtualmachines,1
+drugs,1
+peercollaboration.,1
+student-advisorcommunication,1
+shippedproducts,1
+signalingcost,1
+handofflatency,1
+producermobilitysupport,1
+broadcaststrategy,1
+thesissupervisionsystem,1
+mobilityinterest,1
+mobapp,1
+hypothesistest,1
+deliveryprocess,1
+chemicalbonds,1
+engineering,1
+preparedandunpreparedspeech,1
+drilling,1
+end-userbehaviour,1
+interest,1
+decisionmaking,1
+codec,1
+modelling.,1
+mobile-basedsystem,1
+fanet,1
+uwvanet,1
+multi-layeredmultimodalbiometric,1
+securedaccess,1
+wordmatching,1
+datapartition,1
+unscentedkalmanfilter(ukf),1
+rssi-baseddistancelocalization,1
+intelligentpredictive,1
+ciscopackettracer,1
+computernetworking,1
+realisticmathematics,1
+facilitatingconditions.,1
+subjectivenorm,1
+mobilehealthapplicationsuseintention,1
+affective,1
+thailand.,1
+andiot(esp8266)module,1
+cellularautomata,1
+direction,1
+readingtextbook,1
+speed,1
+density,1
+teachersprofessionaldevelopment,1
+peermentoring,1
+curriculuminnovation,1
+affinityspace,1
+trafficflowmodelling,1
+parallelcomputing,1
+auto-replysystem,1
+spirituality,1
+learningsupport,1
+individualdifferentiation,1
+usequestionnaire,1
+systemperformance,1
+sms-basedsystem,1
+multi-hopcommunication,1
+wirelesssensornetwork(wsn),1
+meshtopology,1
+mobilehealthapplicationsadoption,1
+collocations,1
+writing,1
+c4.5algorithm,1
+tvet,1
+arcweldinglearning,1
+projectrisk,1
+technicalspecialist.,1
+rainfallpredictionsvm.,1
+machinelearningtechniques,1
+mobileintelligentsystem,1
+bagging,1
+ict.,1
+decisiontree,1
+informationandcommunicationtechnologies.,1
+organoleptictests,1
+mobilelearningplatforms.,1
+handheldtechnologies,1
+cognitivism,1
+educationaldesign,1
+extraneouscognitiveload(ecl),1
+germanecognitiveload(gcl),1
+perspectives,1
+intensivetraining,1
+innovationactivityassessment,1
+userevaluation,1
+opensmartclassroom,1
+applicantsforeducation,1
+openlearning,1
+informationmediaandtechnologyskills,1
+aomdv,1
+cognitivedecline,1
+nodedistance,1
+packetloss,1
+assistivemobilehealthapplications,1
+variationofnodesnumber,1
+datacommunication.,1
+educationalprocess,1
+informationquality.,1
+replication,1
+clusterhead(ch)selection,1
+asrcrouting,1
+teachers.,1
+wirelesssensornetworks(wsn),1
+andtrafficcongestion.,1
+flashcrowds,1
+distributeddenialofserviceattacks,1
+networkattacks,1
+dva-gpsr,1
+standardizationprob-lems,1
+internationalstandards,1
+questionlocation,1
+anti-sexualviolence,1
+unauthorizedserviceaccess,1
+distributednetwork,1
+highereducationsys-tem,1
+antenatalcare,1
+prenatalcare,1
+developingcountries,1
+knowledge,1
+recall.,1
+segmentation,1
+onlinesociallearning,1
+mobilevideoplatform,1
+psychologicalwell-being(pwb).,1
+socio-emotion,1
+mobiledigitalcontentapplications(mdca),1
+technologygadget,1
+cross-platform,1
+programmingbasics,1
+evidence,1
+assessmenttools,1
+teachertraining,1
+mobileinstruction,1
+xamarin.forms,1
+k-foldcrossvalidation,1
+tourpackage,1
+foreignagent,1
+casebasedreasoning,1
+homeagent,1
+careofaddress,1
+dempstershafertheory,1
+bayestheorem,1
+mobileip,1
+webresponsive,1
+work-ordersystem,1
+peerinstruction,1
+infrastructure,1
+quiz,1
+rapidprototyping,1
+fishtypes,1
+googlevr,1
+kindergarten,1
+contentmanagementsystem,1
+blender,1
+learningmedia.,1
+multi-agentsystem,1
+basicmr(parta),1
+readingintensity,1
+socialmediatechnology,1
+pulsediagnosisstudy,1
+nodetrustprediction,1
+trustcomputation,1
+location-aware,1
+communitysafety,1
+pulsewaveformmodeling,1
+game-basedmobileapplication,1
+gameelements,1
+jawiunderstanding,1
+rts,1
+technologyinlearning,1
+cts,1
+crimeprevention,1
+achievementmotivation,1
+udp,1
+tcp.,1
+smartphoneaddiction,1
+student-generatedactivities,1
+mobileethics,1
+library4.0academiclibraries,1
+virtualpulsesimulation,1
+hapticdevice,1
+self-learning,1
+adult-learners,1
+sql,1
+chinesecharacterwriting,1
+animation,1
+frogvle,1
+ctml,1
+clicker,1
+onlinelearningenvironment,1
+indianportageguide,1
+facp,1
+professionallearning,1
+e-assesment,1
+isaa,1
+gameattributes,1
+learningtheory,1
+m-asessment,1
+m-practicumguidebooks,1
+datahandling,1
+learningdifficulties,1
+smartboard,1
+physicspracticum,1
+globalization,1
+artificialbeecolony,1
+eyeaspectratio,1
+performanceprediction.,1
+heterogeneousnetwork,1
+q-learning,1
+macrocell,1
+picocell,1
+interference,1
+3d,1
+computernetworkingdevices,1
+systemusabilityscale,1
+fogcomputing,1
+optimization,1
+prediction,1
+mbt,1
+iot-basedtechnology,1
+potentials,1
+graduatestudents,1
+securityarchitecture,1
+securityoptimization,1
+softwareprotection,1
+sourcecodeprotection,1
+coursemanagementsystem(cms),1
+studentengagement.,1
+hypermedia,1
+scientificconcepts,1
+ideasbox,1
+motivationtowardlearning,1
+non-formaleduca-tion,1
+vietnam,1
+grounded-theory,1
+elderlypeople,1
+spacedretrievaltherapy(srt),1
+designthinking,1
+graphicuserinterface,1
+applicationdevelopment,1
+pregnant,1
+publicservices,1
+barriers.smartcity,1
+smartcollect,1
+mobiledata,1
+collaborative,1
+internetofthingsiot,1
+esp32,1
+mqtt,1
+3dobjects,1
+cloud-orientedapproach,1
+operationalefficiency,1
+power-as-a-service,1
+associationrules,1
+fireaccidentsanalysis,1
+datacleaning,1
+diffusionofinnovation,1
+linkprediction,1
+networkanalysis,1
+graphanaly-sis,1
+votingtechniques,1
+adaptiveuserinterface,1
+culturepromotionprogramfordropouts,1
+web-basedanimationvideo,1
+environmentaleducation,1
+recommendation.,1
+qualitymonitoring,1
+post-secondaryeducation,1
+autonomouslearning,1
+intelligentplatforms,1
+wirelesstechnologies,1
+hearinghealthcare,1
+mobilehealth,1
+tele-medicine,1
+motivation-boostingactivities,1
+idealproblemsolving,1
+modernanalyticalchemistry,1
+massspectrometry,1
+digitalbook,1
+multiculturaleducation,1
+aging,1
+olderadult,1
+mobilelearningplatforms,1
+digi-taleducation,1
+entrepreneurialcompetences.,1
+temperaturemonitoringsystem,1
+locationservice,1
+blooddelivery,1
+highereducationapp,1
+non-nativelearners,1
+self-studyefl,1
+productimprovement,1
+trustmanagement,1
+environmentalawareness,1
 reputation,1
- trust management,1
- recommendation.,1
- barriers. smart city,1
- pregnant,1
- innovation,1
- chaotic system,1
- episodes,1
- authority,1
- approach.,1
- digital childrens rights,1
- digital literacy,1
- internet mediation,1
- qnn,1
- pca. how to work with this template,1
-bibliometric,1
- digital learning,1
-programming language,1
- java programming language,1
-3d content,1
- 3d model.,1
- transformation,1
-3d polygon mesh model,1
- vertices,1
- 3d lorenz chaotic map,1
-cap properties,1
- data replication,1
- distributed systems,1
- pervasive information systems,1
-access control,1
- password,1
- password strength,1
- user re-views,1
-push notifications,1
- mobile push notifications,1
- mathematical experiment,1
-geogebra,1
- application development,1
- enablers,1
- motivation level,1
- smartphone user interface,1
- educational technologies,1
-3d animation,1
- harzings publish or perish,1
- scopus database,1
- social distance using deep learning,1
- online communication,1
- polite expressions,1
- hierarchical protocols,1
- leach,1
- time slot,1
- ns2.34,1
- tism,1
-user reviews,1
- fuzzy micmac,1
-surveillance videos,1
- videos analysis,1
- behaviors recognition,1
- anomaly detection,1
- neural networks.,1
-positions of visual elements,1
- instructional videos,1
-5g communication,1
- mm waves,1
- beam forming,1
- stand alone,1
- non stand alone,1
- design elements,1
- cramers v,1
-foreign languages,1
- neural networks,1
- wsn,1
-smartphone sensors,1
- school lab,1
- physics experiments,1
-digital delegation application,1
- digital identity delegation,1
- thai national digital identity.,1
-attendance management system,1
- attendance records,1
- registration,1
- beacon,1
- smart-hadir app,1
- mobile app development,1
- social network analysis,1
- english as a foreign language (efl),1
-smartwatches,1
- user interfaces,1
- prototype,1
-adaptive mobile scaffold system (amss),1
- cognitive style simplicity vs complexity (cssc),1
- digital will-being (dwb),1
-computational science,1
- computational competencies,1
- virtual learning environment,1
- 21st century,1
+streamingmedia,1
+videostreamingserver,1
+flashover,1
+smartgrid,1
+transmissionanddistributionline,1
+structurevisualization,1
+markerlesstracking,1
+genderdifferences,1
+communicationnetworks,1
+multipathroutingprotocol,1
+dcellnetworksimulation,1
+datatransmission,1
+ns-3program,1
+linkfailure,1
+rackproblem,1
+competency,1
+adolescentdepression,1
+adolescentmotivation,1
+modeldevelopment,1
+barriergatesystem,1
+professor-studentcommunication,1
+m-teachingandlearning,1
+iso9241,1
+multi-platform,1
+usabilityattributes,1
 manet-iot,1
-design thinking,1
- graphic user interface,1
- cupcarbon,1
-clustering,1
- arabic lexicon,1
-violence detection,1
- graduate education,1
- mobile assisted language learning (mall),1
- mall technology,1
- student performance prediction,1
- academic analytics,1
-brute force,1
- city tour,1
-competitive approach,1
- covid-19 impact,1
- global mobile brand,1
- pandemic situation,1
- smartphone industry,1
- strategic implication,1
- lora,1
- lorawan,1
- node density,1
-emotion recognition,1
- cloud localization,1
- location-based services.,1
- tcp,1
- olsr,1
- fuzzy logic,1
- cross-layer.,1
-internet of vehicles (iov),1
- 4g/lte,1
- dsrc,1
- vehicular networks,1
- potentials,1
-mathematics learning game,1
- congruence and similarity,1
- maintenance of chassis and power,1
- gender differences in ict,1
-perceived value,1
- orang asli,1
-schooling focused on ict,1
- ict mindset,1
- ict planning,1
-digital technologies,1
- infor-mation management,1
- digital education,1
- and artificial intelligence,1
- moocs content design,1
- utem,1
-practice media,1
- new methodology,1
- digital citizen,1
- pls-sem,1
- ttf,1
- ect.,1
-women security,1
- alert,1
- social security,1
- law.,1
- social tolerance,1
-wireless multimedia sensor network (wmsn),1
- contextual unobservability,1
- source/sink location privacy,1
- global attacks,1
- priority packet dropping,1
- youth and cybersecurity,1
- ict usage in rural areas,1
-algorithmic,1
- mobile-based technological tool,1
-online shopping,1
- ar technology,1
- shopping phobia,1
- revolution industry 4.0,1
-e-service learning,1
- extreme e-service learning,1
-communicative tasks,1
- oral competency,1
- smart tint,1
- smart glass,1
-mobile-assisted mind mapping technique,1
- esl university students,1
- argumentative writing,1
-fraud detection credit card ensemble technique stacking machine learning,1
-digital competency,1
-creativity in higher education,1
- group investigation,1
- digital mind map,1
-information technology resources,1
- innovation performance,1
- higher educa-tion institutions,1
- questionnaire reliability,1
- con-struct reliability,1
- university students,1
- scale,1
-gsm,1
- pic16f886 microcontroller,1
- buzzer,1
- and cross-layer optimization,1
- critical inquiry,1
- research skill,1
-recommendation system,1
-blackboard,1
- tel,1
- higher education institutions,1
- online game,1
- spellingcity,1
-sociological theory,1
- heutagogy approach,1
- industrial revolution,1
- sosiopedia,1
-teacher responses,1
- students' expectation,1
- learning science,1
- elementary school students.,1
- svd  ,1
+21stcentury,1
+virtuallearningenvironment,1
+5gcommunication,1
+standalone,1
+nonstandalone,1
+userreviews,1
+mathematicalexperiment,1
+episodes,1
+authority,1
+approach.,1
+digitalchildrensrights,1
+digitalliteracy,1
+internetmediation,1
+qnn,1
+pca.howtoworkwiththistemplate,1
+bibliometric,1
+programminglanguage,1
+javaprogramminglanguage,1
+3dcontent,1
+chaoticsystem,1
+3dmodel.,1
+3dpolygonmeshmodel,1
+vertices,1
+3dlorenzchaoticmap,1
+capproperties,1
+datareplication,1
+distributedsystems,1
+pervasiveinformationsystems,1
+mmwaves,1
+instructionalvideos,1
+password,1
+positionsofvisualelements,1
+variablefont,1
+actionlevel,1
+cardriver,1
+fingergesture,1
+gesturalinteractions,1
+motivationlevel,1
+smartphoneuserinterface,1
+educationaltechnologies,1
+3danimation,1
+harzingspublishorperish,1
+scopusdatabase,1
+socialdistanceusingdeeplearning,1
+onlinecommunication,1
+politeexpressions,1
+hierarchicalprotocols,1
+leach,1
+timeslot,1
+ns2.34,1
+enablers,1
+tism,1
+fuzzymicmac,1
+surveillancevideos,1
+videosanalysis,1
+behaviorsrecognition,1
+neuralnetworks.,1
+accesscontrol,1
+passwordstrength,1
+computationalcompetencies,1
+internetofvehicles(iov),1
+dsrc,1
+vehicularnetworks,1
+violencedetection,1
+arabiclexicon,1
+cupcarbon,1
+wsn,1
+smartphonesensors,1
+schoollab,1
+physicsexperiments,1
+digitaldelegationapplication,1
+digitalidentitydelegation,1
+thainationaldigitalidentity.,1
+attendancerecords,1
+registration,1
+beacon,1
+smart-hadirapp,1
+mobileappdevelopment,1
+socialnetworkanalysis,1
+smartwatches,1
+userinterfaces,1
+prototype,1
+adaptivemobilescaffoldsystem(amss),1
+cognitivestylesimplicityvscomplexity(cssc),1
+digitalwill-being(dwb),1
+computationalscience,1
+4g/lte,1
+cross-layer.,1
+userre-views,1
+fuzzylogic,1
+mobilepushnotifications,1
+designelements,1
+cramersv,1
+foreignlanguages,1
+englishasaforeignlanguage(efl),1
+graduateeducation,1
+malltechnology,1
+studentperformanceprediction,1
+academicanalytics,1
+bruteforce,1
+citytour,1
+competitiveapproach,1
+covid-19impact,1
+globalmobilebrand,1
+pandemicsituation,1
+smartphoneindustry,1
+strategicimplication,1
+lora,1
+lorawan,1
+nodedensity,1
+emotionrecognition,1
+cloudlocalization,1
+location-basedservices.,1
+tcp,1
+olsr,1
+positiveattitudes,1
+mathematicslearninggame,1
+mobilepohones,1
+ttf,1
+orangasli,1
+schoolingfocusedonict,1
+ictmindset,1
+ictplanning,1
+infor-mationmanagement,1
+andartificialintelligence,1
+moocscontentdesign,1
+utem,1
+practicemedia,1
+maintenanceofchassisandpower,1
+newmethodology,1
+pls-sem,1
+ect.,1
+congruenceandsimilarity,1
+womensecurity,1
+alert,1
+socialsecurity,1
+law.,1
+socialtolerance,1
+wirelessmultimediasensornetwork(wmsn),1
+contextualunobservability,1
+source/sinklocationprivacy,1
+globalattacks,1
+prioritypacketdropping,1
+andcross-layeroptimization,1
+criticalinquiry,1
+perceivedvalue,1
+genderdifferencesinict,1
+youthandcybersecurity,1
+digitalcitizen,1
+revolutionindustry4.0,1
+e-servicelearning,1
+extremee-servicelearning,1
+communicativetasks,1
+oralcompetency,1
+smarttint,1
+smartglass,1
+mobile-assistedmindmappingtechnique,1
+esluniversitystudents,1
+argumentativewriting,1
+mobile-basedtechnologicaltool,1
+frauddetectioncreditcardensembletechniquestackingmachinelearning,1
+creativityinhighereducation,1
+groupinvestigation,1
+digitalmindmap,1
+informationtechnologyresources,1
+innovationperformance,1
+highereduca-tioninstitutions,1
+questionnairereliability,1
+con-structreliability,1
+scale,1
+pic16f886microcontroller,1
+buzzer,1
+digitalcompetency,1
+ictusageinruralareas,1
+researchskill,1
 high-performance,1
- social relations,1
- data sparsity,1
- cold-start,1
-socio scientific issues,1
- gadget based,1
- science literacy,1
+iwcett,1
+studychar-acteristics,1
+highereducationinstitutions,1
+onlinegame,1
+spellingcity,1
+sociologicaltheory,1
+heutagogyapproach,1
+industrialrevolution,1
+sosiopedia,1
+teacherresponses,1
+students'expectation,1
+learningscience,1
+elementaryschoolstudents.,1
+svd,1
+socialrelations,1
+datasparsity,1
+cold-start,1
+socioscientificissues,1
+gadgetbased,1
+scienceliteracy,1
 e-worksheet,1
- lesson study,1
-online discussion forum,1
- students commitment,1
- undergraduate courses,1
-interactive mobile,1
- mathematics problem solving,1
- study char-acteristics,1
- mathematical ability,1
-dynamic geometry software,1
- education technology,1
- iwcett,1
-image format,1
- text-only network,1
- free basics service,1
- digital divide,1
-web of things (wot),1
- block cipher,1
- gost algorithm,1
- and chaotic system,1
- encryption,1
- wavelet transform,1
- stego image,1
- capital expenditure,1
- operational expenditure,1
- total cost of ownership,1
- infrastructure sharing.,1
-mobile development,1
- driving events,1
- technology satisfaction,1
- the internet,1
-water scarcity,1
- clean water,1
- ucd,1
- mathematical representation,1
- pedicab,1
- usability study,1
- on-line learning,1
- stu-dents performance,1
- stress,1
-covid-19 pandemic,1
- mobile apps for collaborative writing tools,1
- mathematics anxiety rating scale,1
- math learning,1
-project-based learning,1
- visual thinking,1
- visual learning,1
- visual communication,1
- rasch measurement model,1
+lessonstudy,1
+onlinediscussionforum,1
+studentscommitment,1
+undergraduatecourses,1
+interactivemobile,1
+mathematicsproblemsolving,1
+tel,1
+mathematicalability,1
+imageformat,1
+dynamicgeometrysoftware,1
+text-onlynetwork,1
+freebasicsservice,1
+digitaldivide,1
+webofthings(wot),1
+blockcipher,1
+gostalgorithm,1
+andchaoticsystem,1
+wavelettransform,1
+stegoimage,1
+capitalexpenditure,1
+operationalexpenditure,1
+totalcostofownership,1
+infrastructuresharing.,1
+mobiledevelopment,1
+drivingevents,1
+technologysatisfaction,1
+theinternet,1
+waterscarcity,1
+cleanwater,1
+ucd,1
+mathematicalrepresentation,1
+pedicab,1
+usabilitystudy,1
+on-linelearning,1
+educationtechnology,1
+shoppingphobia,1
+artechnology,1
+onlineshopping,1
+mathematicsanxietyratingscale,1
+visualthinking,1
+visuallearning,1
+visualcommunication,1
+raschmeasurementmodel,1
 start-ups,1
- software methodologies,1
- business models,1
- mobile software development,1
-mobile assisted language learning,1
- collaborative writing,1
-mac layer data,1
+softwaremethodologies,1
+businessmodels,1
+mobilesoftwaredevelopment,1
+collaborativewriting,1
+mobileappsforcollaborativewritingtools,1
+maclayerdata,1
+time-stamp,1
+rssi,1
+iranianelderly,1
+socialapplications,1
+semi-experimentalqualitativemethod,1
+communitylearningresources,1
+fieldsofscience,1
+lifebasedlearning,1
+emcolearningmodel,1
+geographylearningoutcomes,1
+electronicmodules,1
+guideddiscovery,1
+redoxreactionmaterials,1
 equilibrium,1
- time-stamp,1
- rssi,1
-iranian elderly,1
- social applications,1
- semi-experimental qualitative method,1
-community learning resources,1
- fields of science,1
- life based learning,1
-development,1
- emco learning model,1
- geography learning outcomes,1
-electronic modules,1
- guided discovery,1
-mathematics anxiety,1
- scrum,1
- c#,1
- kit-build,1
+mathlearning,1
+mathematicsanxiety,1
+rotation,1
+scrum,1
+algorithmic,1
 android-based,1
- economic education,1
- learning everywhere class (lekas),1
-bullying behavior,1
- game mobile learning,1
- early childhood,1
- management.,1
-emergency medical management,1
- tsunami disaster,1
- problem and creative thinking,1
- design thinking process,1
-digital education,1
- digital technologies,1
- multiple representation,1
- analytical chemistry,1
-students involvement,1
- digital readiness,1
-conservation education,1
- rawa danau,1
- natural reserve,1
-recommendation,1
- cooking class,1
- content-based filtering,1
- tfidf,1
-concept map,1
- concept map mining,1
- efl,1
- redox reaction materials,1
- inquiry,1
- problem-solving skill.,1
-taxi service,1
+economiceducation,1
+learningeverywhereclass(lekas),1
+bullyingbehavior,1
+gamemobilelearning,1
+earlychildhood,1
+management.,1
+emergencymedicalmanagement,1
+tsunamidisaster,1
+problemandcreativethinking,1
+designthinkingprocess,1
+multiplerepresentation,1
+analyticalchemistry,1
+studentsinvolvement,1
+conservationeducation,1
+rawadanau,1
+naturalreserve,1
+cookingclass,1
+content-basedfiltering,1
+tfidf,1
+conceptmap,1
+conceptmapmining,1
+kit-build,1
+c#,1
+inquiry,1
+riverflow,1
+stu-dentsperformance,1
+earlyintervention,1
+healthylifestyle,1
+uumcommunity,1
+childrencomputerinteraction,1
+mobile-basedlearningapplication,1
+user-centereddesignapproach,1
+alphageneration,1
+rosecourseware,1
+virtualenvironment,1
+prototyping,1
+taxiservice,1
+e-hailingservice,1
+modeshare,1
+ewalletapp,1
+instrumentalassessment,1
+touch‘ngo,1
+usabilitytest.,1
+studentsvoices,1
+onlinedebate,1
+raceplanningframework,1
+launchphase,1
+newproductdevelopment(npd),1
+particlefilter,1
+spatialskill,1
+problem-solvingskill.,1
+stress,1
+speech,1
+letstalknow,1
+picohydropowerplant,1
 dysarthria,1
- lets talk now,1
- early intervention,1
- speech,1
- healthy lifestyle,1
- uum community,1
-children computer interaction,1
- mobile-based learning application,1
- user -centered design approach,1
- alpha generation,1
- rose courseware,1
- virtual environment,1
- prototyping,1
- e-hailing service,1
- rotation,1
- mode share,1
-ewallet app,1
- instrumental assessment,1
- touch ‘n go,1
- usability test.,1
-students voices,1
- online debate,1
- race planning framework,1
- launch phase,1
- new product    development (npd),1
-indoor positioning system,1
- particle filter,1
- spatial skill,1
- predictive model,1
- queue management system,1
- queuing process,1
- educational apps,1
-river flow,1
- pico hydro power plant,1
- rural electrification,1
-augmented reality (ar),1
- myspira,1
- asthma,1
- care education for children,1
- user acceptance of mobile applications,1
- mobile use,1
-monitoring device,1
- internet of things.,1
-model,1
- blended web mobile learning,1
- hasil belajar,1
+ruralelectrification,1
+myspira,1
+asthma,1
+careeducationforchildren,1
+useracceptanceofmobileapplications,1
+mobileuse,1
+internetofthings.,1
+blendedwebmobilelearning,1
+hasilbelajar,1
 e-participation,1
- digital society,1
 residential,1
- criteria,1
- purchase,1
- user-generated data,1
- text analysis.,1
- educational mobile apps,1
- language and communication skills,1
- educational mobile app,1
-social media platforms,1
- collaborative supporting tool,1
- tertiary level student.,1
- gestural interactions,1
- finger gesture,1
- car driver,1
- kalman filter,1
- google maps,1
- a* algorithm.,1
-php language,1
- soap strategy,1
- sakai system,1
- php soap technique,1
-long term evolution advanced (lte-a),1
- heterogeneous network (hetnet),1
- qos scheduling algorithms,1
- proportional fair (pf),1
- root mean square (rms).,1
-ubiquitous sensors,1
- pedestrian dead-reckoning,1
- gps.,1
- geo-caching,1
- mobile interactive algorithms,1
- learning technologies,1
- e-learning for covid 19,1
- iccmit 2020,1
- traditional indonesian food,1
- understanding mathematics,1
- geometry trans-formation,1
-sensor laboratory,1
- embedded systems,1
- industrial sensors and automation.,1
-routing protocols,1
-digital sketching applications,1
- toy designs,1
- off-line calculations,1
-patraffic routing,1
-academic and vocational guidance,1
- hibernate,1
- dos attack,1
- opnet simulator,1
-mechatronic system,1
- lta-fw architecture,1
- environmental monitor-ing,1
- traffic flow,1
- intensity,1
- virtual detection method,1
-university students,1
- video analysis,1
+criteria,1
+purchase,1
+user-generateddata,1
+textanalysis.,1
+educationalmobileapps,1
+languageandcommunicationskills,1
+educationalmobileapp,1
+socialmediaplatforms,1
+collaborativesupportingtool,1
+tertiarylevelstudent.,1
+educationalapps,1
+queuingprocess,1
+queuemanagementsystem,1
+predictivemodel,1
+lettercut,1
+responsiveweb,1
+intelligencewalkingstick,1
+qosschedulingalgorithms,1
+buslaevnetworks,1
+patrafficrouting,1
+geo-caching,1
+off-linecalculations,1
+googlemaps,1
+a*algorithm.,1
+phplanguage,1
+soapstrategy,1
+sakaisystem,1
+phpsoaptechnique,1
+longtermevolutionadvanced(lte-a),1
+heterogeneousnetwork(hetnet),1
+proportionalfair(pf),1
+computernetworkengineering,1
+rootmeansquare(rms).,1
+ubiquitoussensors,1
+pedestriandead-reckoning,1
+kalmanfilter,1
+gps.,1
+mobileinteractivealgorithms,1
+learningtechnologies,1
+e-learningforcovid19,1
+iccmit2020,1
+traditionalindonesianfood,1
+understandingmathematics,1
+geometrytrans-formation,1
+informationandcommunicationsystems,1
+mathematicalmodels,1
+self-organization,1
+optimalcontrol,1
+autonomous,1
+gossipalgorithm,1
+mobileinter-vehicularcommunicationsystem,1
+educationalbuilding,1
+prediction.,1
+dosattack,1
+opnetsimulator,1
+mechatronicsystem,1
+lta-fwarchitecture,1
+environmentalmonitor-ing,1
+intensity,1
+virtualdetectionmethod,1
+videoanalysis,1
 java,1
- mysql,1
- threads,1
- jdbc,1
- buslaev networks,1
-data stream mining,1
- concept drift,1
- concept drift detection,1
- data stream classification.,1
-twitter,1
- characteristics of influencers,1
- entrepreneurial influencers,1
- robust ranked list.,1
-dynamical systems,1
- optimal control,1
- self-organization,1
- mathematical models,1
- information and communication systems,1
- multi-cultures,1
- himavanta creatures,1
- and art and architectural content,1
- metrics,1
- laboratory,1
- route stability,1
-library opencv,1
- citra segmentation,1
- android application,1
- technology smartphone,1
-technology-enhanced learning,1
- pendulum,1
- frequency domain,1
- exact solution,1
- fourier analysis,1
- numerical methods,1
- systematic mapping,1
- tools,1
-system usability scale (sus),1
-consultation application,1
- online meet ups,1
- addressing academic difficulties,1
- virtual meeting,1
+threads,1
+hibernate,1
+jdbc,1
+datastreammining,1
+deepneuralnetworksearch,1
+conceptdriftdetection,1
+datastreamclassification.,1
+characteristicsofinfluencers,1
+entrepreneurialinfluencers,1
+robustrankedlist.,1
+dynamicalsystems,1
+sensorlaboratory,1
+embeddedsystems,1
+industrialsensorsandautomation.,1
+wavelettransformer.,1
+consumerattitudes,1
+adoptercategories,1
+smartphonediffusion,1
+topicmodelling,1
+latentdirichletallocation,1
+3dvisualization,1
+hybridlearning,1
+laboratory,1
+routestability,1
+libraryopencv,1
+citrasegmentation,1
+technologysmartphone,1
+pendulum,1
+frequencydomain,1
+exactsolution,1
+fourieranalysis,1
+numericalmethods,1
+systematicmapping,1
+metrics,1
+tools,1
+consultationapplication,1
+onlinemeetups,1
+addressingacademicdifficulties,1
+virtualmeeting,1
 icmls,1
- mobile laboratory,1
- computer network engineering,1
-perceived convenience,1
- facilitation conditions,1
- price value on the intention to the use an uber application,1
-wireless mesh network,1
- network capacity,1
- average message size,1
- hybrid learning,1
- 3d visualization,1
- latent dirichlet allocation,1
- topic modelling,1
-interactive teaching materials,1
- edmodo,1
- mobile ad hoc cloud computing,1
- daas,1
- asaas,1
- ahcaas,1
- model-based testing,1
- iso/iec 25000 quality model,1
- self-regulated,1
- science process skills (kps),1
- inquiry based science education (ibse),1
-android malware detection,1
- machine learning models,1
- base learners,1
- ensemble learner,1
- geometry objects,1
- mobile based,1
- spatial ability,1
- three-dimensional shape,1
-embedding and encryption,1
- exponential function,1
- information security technique,1
- wavelet transformer.,1
-smartphone market,1
- consumer attitudes,1
- adopter categories,1
- smartphone diffusion,1
-anomaly detection,1
- prediction.,1
- educational building,1
- pancasila education,1
- odk,1
- kobotoolbox,1
- pendragon forms.,1
+smartphonemarket,1
+informationsecuritytechnique,1
+digitalsketchingapplications,1
+exponentialfunction,1
+toydesigns,1
+multi-cultures,1
+himavantacreatures,1
+andartandarchitecturalcontent,1
+systemusabilityscale(sus),1
+interactiveteachingmaterials,1
+edmodo,1
+mobileadhoccloudcomputing,1
+daas,1
+asaas,1
+ahcaas,1
+model-basedtesting,1
+iso/iec25000qualitymodel,1
+self-regulated,1
+scienceprocessskills(kps),1
+inquirybasedscienceeducation(ibse),1
+androidmalwaredetection,1
+machinelearningmodels,1
+baselearners,1
+ensemblelearner,1
+geometryobjects,1
+mobilebased,1
+spatialability,1
+three-dimensionalshape,1
+embeddingandencryption,1
+inter-vehicularnetworks,1
+semanticattack,1
+activationfunction,1
+diffie-hellman,1
+frequency,1
+mobiledatacollection,1
+comparison,1
+odk,1
+kobotoolbox,1
+pendragonforms.,1
 msw,1
- solid waste,1
-lms schoology,1
- classroom management,1
- student perception,1
- chemistry learning,1
-client aware resource scalability cloudlet,1
- resource migration,1
- scalable cloudlet.,1
-virtual learning,1
- increasing score,1
- iot technology,1
-mobile-nos model of learning,1
- understanding of nature of science,1
- conceptual understanding,1
- scientific literacy,1
-mobile instrument of capability,1
- students capability development,1
- capability as human development,1
-online interactive,1
- graph theory,1
- creative problem solving,1
- powtoon applications,1
- kahoot application,1
-research-teaching integration,1
- comparison,1
-mobile data collection,1
- frequency,1
- h-mac.,1
-perception,1
- microblogging,1
- impaired media,1
- camera sensor,1
+solidwaste,1
+lmsschoology,1
+classroommanagement,1
+studentperception,1
+chemistrylearning,1
+clientawareresourcescalabilitycloudlet,1
+resourcemigration,1
+scalablecloudlet.,1
+virtuallearning,1
+pancasilaeducation,1
+increasingscore,1
+mobile-nosmodeloflearning,1
+understandingofnatureofscience,1
+conceptualunderstanding,1
+scientificliteracy,1
+mobileinstrumentofcapability,1
+studentscapabilitydevelopment,1
+capabilityashumandevelopment,1
+h-mac.,1
+position-basedrouting,1
+graphtheory,1
+smartdata,1
+electroniceducationalresource,1
+vuforia,1
+innovation,1
+microblogging,1
+impairedmedia,1
+camerasensor,1
 cara-oht,1
- rate adaptation,1
- collision-aware,1
- optimal high throughput,1
- 802.11s wmn,1
-behavioural intentions,1
-teaching and learning platform,1
- whatsapp group,1
-cattle identification,1
- sift,1
- muzzle pattern,1
+rateadaptation,1
+collision-aware,1
+optimalhighthroughput,1
+802.11swmn,1
+behaviouralintentions,1
+teachingandlearningplatform,1
+whatsappgroup,1
+cattleidentification,1
+sift,1
+muzzlepattern,1
 sdr,1
- and coverage area,1
-app store optimization,1
- apple app store,1
- mobile app store,1
- aso,1
+andcoveragearea,1
+appstoreoptimization,1
+appleappstore,1
+mobileappstore,1
+aso,1
 advertising,1
- textile,1
- smart data,1
-vanet,1
- position-based routing,1
- diffie-hellman,1
- technology adaptation,1
-transformation,1
-energy consumption,1
-dictionary,1
- students expectations modeling,1
- bibliometrics,1
+textile,1
+onlineinteractive,1
+creativeproblemsolving,1
+multilayerperceptron(mlp),1
+pseudorandomreconstruction,1
+overheatability,1
+frequencyhopping,1
+spreadspectrum,1
+computer-basedscreeningtests,1
+cognitivedisorders,1
+alzheimers,1
+m-learningsuccess,1
+studentsexpectationsmodeling,1
+bibliometrics,1
 co-creation,1
- digital,1
- banking,1
-design,1
- human-computer interface,1
- mobiles devices.,1
-learning attitudes,1
- learning motivations,1
- local wisdom forms,1
- mar application,1
- understanding of geometry concepts,1
- indonesian language,1
- the meaning  of  learning,1
- blind people,1
- competence,1
- e-commerce competency,1
-boarding house,1
- recommendation,1
- fuzzy topsis,1
-multilayer perceptron (mlp),1
- activation function,1
- semantic attack,1
-inter-vehicular networks,1
- autonomous,1
- gossip algorithm,1
- mobile inter-vehicular communication system,1
- m-learning success,1
- alzheimers,1
- cognitive disorders,1
-computer-based screening tests,1
- millennial  generation,1
+digital,1
+banking,1
+human-computerinterface,1
+mobilesdevices.,1
+learningattitudes,1
+learningmotivations,1
+localwisdomforms,1
+marapplication,1
+understandingofgeometryconcepts,1
+indonesianlanguage,1
+blindpeople,1
+competence,1
+e-commercecompetency,1
+boardinghouse,1
+fuzzytopsis,1
+radiocommunicationdevice,1
+cloudcomputing.,1
+powtoonapplications,1
+coordination,1
+kahootapplication,1
+research-teachingintegration,1
+technologyadaptation,1
+iottechnology,1
+themeaningoflearning,1
+millennialgeneration,1
 biotechnology,1
- life-based learning,1
+life-basedlearning,1
 edu-kit,1
- coffee,1
- problem based learning,1
- separation of mixture topic,1
-online course,1
- smart network security,1
- fuel cell,1
- energy conversion,1
- electrolysis cell,1
- guided inquiry,1
+coffee,1
+problembasedlearning,1
+separationofmixturetopic,1
+onlinecourse,1
+smartnetworksecurity,1
+fuelcell,1
+energyconversion,1
+electrolysiscell,1
+guidedinquiry,1
 speaking,1
- pronunciation,1
- intelligibility,1
-health systems,1
- community health workers,1
-agile development,1
- agile methods,1
- coordination,1
- cloud computing.,1
-pseudorandom reconstruction,1
- radio communication device,1
- overheat ability,1
- frequency hopping,1
- spread spectrum,1
- net-work topology.,1
- e-orientation,1
-action level,1
- learning achievement,1
- m-government,1
- user context,1
- role base access control,1
- corporate communication,1
- dialogue,1
- stakeholders,1
- content analysis,1
-rfid innovation,1
- future application,1
- shopping,1
-flash card,1
- story-based,1
- pictured flash card,1
- anxiety in learning english,1
- supplier evaluation,1
- hmsam,1
- martial arts,1
- pencak silat,1
- smart garden,1
- iot application,1
- ifttt,1
- covid,1
- macrodroid,1
-design based research,1
- smart technology,1
-adoption of mobile learning,1
- covid pandemic 19,1
- student inter-ests,1
-mobile-government,1
-decision support system,1
- automatic classification,1
- consumers,1
- trilateration,1
- received signal strength.,1
- learning media graphic design,1
- practicality test,1
- test effectiveness,1
- an-droid technology,1
- mathematics education,1
- higher-order thinking skills,1
- addie instructional model,1
-learning materials,1
- mechanical engineering students,1
-mobile instant messaging,1
- parents-teacher communication,1
- brands,1
- internet of  things (iof).                           mobile,1
-mobile video,1
- tiktok,1
- users and gratifications (u&g),1
- user generated media (ugm),1
- personality traits,1
- wearable,1
- jni,1
- personal identity,1
- smart phones,1
-marine tourism,1
- user experience design,1
- boat loaning,1
- neural  networks,1
- smartphone apps.,1
-fuzzy set theory,1
- student performance,1
- tourist attraction,1
-e-rubrics,1
- android-based assessment,1
- online teaching,1
- peer assessment,1
- second language learning,1
- masll,1
-crop classification,1
- drone,1
- transfer learning,1
- smart farming,1
-cultural tourism management,1
- opinion data mining,1
- text mining,1
- tourist experience,1
- islamic fi-nance,1
-attitude,1
- brand,1
- behaviour intention,1
-cpd,1
- mobile learning attitude,1
- academic achievement,1
- professional development,1
- teachers training,1
- mobile based training,1
- responsive web,1
- mobile pohones,1
- letter cut,1
- variable font,1
- sim  900 module,1
- surveillance,1
- security in wireless environment,1
- wireless network security,1
-predictive analytic,1
- business intelligence,1
- human resource,1
-scholarship,1
- website based application,1
- teaching analytical hierarchy process,1
-air quality,1
- web,1
- measuring,1
-fibonacci,1
- junior high school student,1
- geometry sequence,1
-networked learning community,1
- 21st century learning,1
- multimedia industry,1
- live streaming media,1
-stem introduction,1
- innovative thinking,1
-denoising,1
- multiwavelet,1
- thresholding,1
- soft thresholding,1
-measuring instruments,1
- sit up,1
- ultrasonic sensors,1
- early childhood education,1
-network security,1
- indoor localization,1
-rfid,1
+pronunciation,1
+intelligibility,1
+healthsystems,1
+communityhealthworkers,1
+agiledevelopment,1
+agilemethods,1
+mobilelaboratory,1
+perceivedconvenience,1
+mobilebasedtraining,1
+rfidinnovation,1
+personalidentity,1
+marinetourism,1
+userexperiencedesign,1
+boatloaning,1
+internetofthings(iof).mobile,1
+supplierevaluation,1
+usercontext,1
+rolebaseaccesscontrol,1
+corporatecommunication,1
+dialogue,1
+stakeholders,1
+contentanalysis,1
+futureapplication,1
+facilitationconditions,1
+shopping,1
+flashcard,1
+story-based,1
+picturedflashcard,1
+anxietyinlearningenglish,1
+hmsam,1
+martialarts,1
+pencaksilat,1
+smartgarden,1
+ifttt,1
+covid,1
+macrodroid,1
+jni,1
+wearable,1
+personalitytraits,1
+usergeneratedmedia(ugm),1
+newsaggregator,1
+magazine,1
+evaluationmethod,1
+inventorymanagement,1
+objectdetectionandtracking,1
+sift.,1
 emoticon,1
- claroline,1
- ir sensor,1
- presentation display management,1
- socket programming,1
- web technologies,1
- english,1
- educational innovation,1
-learning media,1
- adhd,1
- christian education,1
-anxiety,1
- elementary school,1
- mathematics learning,1
- story-books.,1
-mohesr,1
- representations,1
- n-tier,1
- ado. net,1
- ui,1
- bll,1
- dal,1
- sp,1
- addie.,1
-concept assessment,1
- concept game assessment,1
- sprt,1
- concept mastery.,1
-diagrams,1
- test instruments,1
- stls,1
- economic problems,1
- pollution,1
- increased car accidents,1
-mobile control systems,1
- training complexes,1
- breathing apparatus simulator,1
-communicative english,1
- english for the workplace,1
- self-paced learning,1
- support staffs,1
- technology-enhanced language learning,1
- teaching tools,1
- higher educa-tion,1
-uses and gratification,1
- marketplace,1
- motives,1
- peer to peer,1
- android system,1
-virtual trainer,1
- electric lighting installation,1
- unemployment,1
-online reading,1
- dispositions and behaviors.,1
+indoorlocalization,1
+trilateration,1
+receivedsignalstrength.,1
+learningmediagraphicdesign,1
+practicalitytest,1
+testeffectiveness,1
+an-droidtechnology,1
+higher-orderthinkingskills,1
+addieinstructionalmodel,1
+learningmaterials,1
+mechanicalengineeringstudents,1
+mobileinstantmessaging,1
+parents-teachercommunication,1
+consumers,1
+brands,1
+mobilevideo,1
+tiktok,1
+usersandgratifications(u&g),1
+designbasedresearch,1
+adoptionofmobilelearning,1
+covidpandemic19,1
+ultrasonicsensors,1
+wirelessnetworksecurity,1
+securityinwirelessenvironment,1
+surveillance,1
+sim900module,1
+e-rubrics,1
+android-basedassessment,1
+onlineteaching,1
+peerassessment,1
+secondlanguagelearning,1
+masll,1
+cropclassification,1
+drone,1
+transferlearning,1
+smartfarming,1
+culturaltourismmanagement,1
+opiniondatamining,1
+touristattraction,1
+touristexperience,1
+brand,1
+behaviourintention,1
+cpd,1
+mobilelearningattitude,1
+academicachievement,1
+professionaldevelopment,1
+teacherstraining,1
+earlychildhoodeducation,1
+situp,1
+studentinter-ests,1
+softthresholding,1
+smartphoneapps.,1
+fuzzysettheory,1
+studentperformance,1
+islamicfi-nance,1
+predictiveanalytic,1
+businessintelligence,1
+humanresource,1
+scholarship,1
+websitebasedapplication,1
+teachinganalyticalhierarchyprocess,1
+airquality,1
+web,1
+measuring,1
+fibonacci,1
+juniorhighschoolstudent,1
+geometrysequence,1
+networkedlearningcommunity,1
+21stcenturylearning,1
+multimediaindustry,1
+livestreamingmedia,1
+stemintroduction,1
+innovativethinking,1
+denoising,1
+multiwavelet,1
+thresholding,1
+mobilepsychotherapygames.,1
+memorydisorder,1
+gameintervention,1
 mobapps,1
- mall model,1
- writing skill,1
- critical thinking skill,1
- english language skill,1
- english language learning media,1
+writingskill,1
+criticalthinkingskill,1
+englishlanguageskill,1
+englishlanguagelearningmedia,1
 significantly,1
- multimedia learning modules,1
-m-government,1
- sift.,1
- carry select adder(csla),1
- systematic literature review.,1
-instagram,1
- marketing communication,1
- promotion,1
- digital marketing.,1
-visually impaired people,1
- usability dimensions,1
- usability evaluation model.,1
-adiabatic logic,1
- full adder,1
- ecrl,1
- 2pascl,1
- ripple carry adder(rca),1
- carry save adder(csa),1
- success factors,1
- carry skip adder(csa),1
- brent kung adder(bka).,1
-alzheimers disease,1
- dementia,1
- game criteria,1
- game intervention,1
- memory disorder,1
- mobile psychotherapy games.,1
-news aggregator,1
- magazine,1
- evaluation method,1
- inventory management,1
- object detection and tracking,1
- tracking application,1
- local knowledge,1
-mobile recommender system,1
- load forecasting.,1
- i-dsdv,1
- e-dsdv,1
- o-dsdv,1
- network performance,1
- ns3,1
- canvas,1
- ubiquitous learning environments,1
- pedagogical,1
-interactive multimedia,1
- smash skills,1
- volleyball.,1
-bim-vr framework,1
-e-service-learning,1
-technical and vocational education (tve),1
- mobile learning (ml),1
- upsi,1
- uthm.,1
-mobile attendance,1
- identification,1
- attendance management.,1
+increasedcaraccidents,1
+pollution,1
+economicproblems,1
+stls,1
+irsensor,1
+presentationdisplaymanagement,1
+socketprogramming,1
+english,1
+educationalinnovation,1
+adhd,1
+christianeducation,1
+anxiety,1
+mathematicslearning,1
+story-books.,1
+claroline,1
+mohesr,1
+n-tier,1
+ado.net,1
+ui,1
+bll,1
+mallmodel,1
+dispositionsandbehaviors.,1
+sp,1
+onlinereading,1
+pricevalueontheintentiontotheuseanuberapplication,1
+networkcapacity,1
+averagemessagesize,1
+net-worktopology.,1
+academicandvocationalguidance,1
+e-orientation,1
+automaticclassification,1
+mobilecontrolsystems,1
+trainingcomplexes,1
+breathingapparatussimulator,1
+communicativeenglish,1
+englishfortheworkplace,1
+self-pacedlearning,1
+supportstaffs,1
+technology-enhancedlanguagelearning,1
+teachingtools,1
+highereduca-tion,1
+usesandgratification,1
+marketplace,1
+motives,1
+peertopeer,1
+androidsystem,1
+virtualtrainer,1
+electriclightinginstallation,1
+unemployment,1
+dal,1
+addie.,1
+gamecriteria,1
 millimeter-wave,1
- beamforming,1
- massive mimo,1
- pso optimization,1
-mobile cloud,1
- lstm network,1
- glowworm swarm optimization algorithm,1
- computer self-efficacy,1
-artificial bee colony,1
- vanishing point,1
- process model,1
- review,1
- learning transfer,1
- context specific,1
- learner centric,1
- web service,1
- usability study.,1
- satellite tv,1
- iptv,1
- e-learning strategy,1
- interactive tv,1
- video on demand (vod),1
-api library,1
- text message,1
- navigation,1
-mobile device,1
- hong kong,1
-content generation,1
- multimedia authoring,1
- interactive multimedia application,1
- operational research,1
- mobile digital television,1
- verbal decision analysis,1
- web-based information system,1
- wireless mobile computing,1
+psooptimization,1
+mobilecloud,1
+lstmnetwork,1
+glowwormswarmoptimizationalgorithm,1
+loadforecasting.,1
+mobilerecommendersystem,1
+localknowledge,1
+trackingapplication,1
+systematicliteraturereview.,1
+marketingcommunication,1
+promotion,1
+digitalmarketing.,1
+visuallyimpairedpeople,1
+usabilitydimensions,1
+usabilityevaluationmodel.,1
+adiabaticlogic,1
+fulladder,1
+ecrl,1
+2pascl,1
+ripplecarryadder(rca),1
+carryselectadder(csla),1
+carrysaveadder(csa),1
+carryskipadder(csa),1
+brentkungadder(bka).,1
+dementia,1
+massivemimo,1
+attendancemanagement.,1
+conceptassessment,1
+identification,1
+conceptgameassessment,1
+sprt,1
+conceptmastery.,1
+diagrams,1
+testinstruments,1
+multimedialearningmodules,1
+representations,1
+successfactors,1
+i-dsdv,1
+e-dsdv,1
+o-dsdv,1
+networkperformance,1
+ns3,1
+canvas,1
+ubiquitouslearningenvironments,1
+pedagogical,1
+smashskills,1
+volleyball.,1
+bim-vrframework,1
+e-service-learning,1
+technicalandvocationaleducation(tve),1
+mobilelearning(ml),1
+upsi,1
+uthm.,1
+mobileattendance,1
+conceptdrift,1
+pedagogicalactivities,1
+hiragana,1
+interactivetv,1
+navigation,1
+stateofart,1
+review,1
+learningtransfer,1
+contextspecific,1
+learnercentric,1
+webservice,1
+usabilitystudy.,1
+satellitetv,1
+iptv,1
+e-learningstrategy,1
+videoondemand(vod),1
 rangefinder,1
- position measurement,1
- state of art,1
-human factors,1
- ports allocation,1
- psychology,1
- interactive applications.,1
-customer relationship management,1
- crm,1
- e-banking,1
- m-banking,1
- ubiquitous,1
-comparing mobile with desktop,1
- flow experience,1
- laboratory education,1
- online laboratory,1
- analog electronics course,1
- competitive learning,1
- sms language.,1
- user interfaces.,1
- agent-based systems,1
- event notification systems,1
- publish/subscribe model,1
- network security,1
- digital certificates,1
- certification authority,1
- e-business,1
- pki,1
- and digital signature.,1
- mobile learning (mlearning),1
- test preparation (test prep),1
- standardized test,1
- road maintenance,1
-ple,1
- smart spaces,1
- digital age,1
- integrity tests,1
- data caching.,1
-neural network,1
- ldpc codes,1
- mimo,1
- and ofdm,1
-mobile hand over,1
- coverage area measurements,1
- signal strength simulation,1
- mobile positioning & digital cellular system,1
-students' attitudes,1
- cell phone,1
+apilibrary,1
+processmodel,1
+textmessage,1
+hongkong,1
+contentgeneration,1
+multimediaauthoring,1
+interactivemultimediaapplication,1
+operationalresearch,1
+mobiledigitaltelevision,1
+verbaldecisionanalysis,1
+web-basedinformationsystem,1
+humanfactors,1
+userinterfaces.,1
+standardizedtest,1
+testpreparation(testprep),1
+interactiveapplications.,1
+customerrelationshipmanagement,1
+crm,1
+e-banking,1
+m-banking,1
+ubiquitous,1
+comparingmobilewithdesktop,1
+flowexperience,1
+laboratoryeducation,1
+onlinelaboratory,1
+analogelectronicscourse,1
+competitivelearning,1
+psychology,1
+smslanguage.,1
+agent-basedsystems,1
+eventnotificationsystems,1
+publish/subscribemodel,1
+digitalcertificates,1
+certificationauthority,1
+e-business,1
+pki,1
+anddigitalsignature.,1
+mobilelearning(mlearning),1
+wirelessmobilecomputing,1
+positionmeasurement,1
+portsallocation,1
+digitalage,1
+nodemobilityandmobilityquantification,1
+integrityconstraints,1
+integritytests,1
+datacaching.,1
+ldpccodes,1
+andofdm,1
+mobilehandover,1
+coverageareameasurements,1
+signalstrengthsimulation,1
+mobilepositioning&digitalcellularsystem,1
+cellphone,1
 pedagogy,1
-analytical model,1
- mobile computing.,1
- ad-hoc networks,1
- wireless lan,1
- video coding,1
- peer-to-peer,1
- collaborative work,1
- cscw,1
- heterogeneity,1
- java me,1
- mobile learning content,1
- adaptation,1
- computer based training (cbt).,1
- integrity constraints,1
-mobile database,1
- node mobility and mobility quantification,1
- multipoint relays,1
- integration strategy,1
- relay path set,1
- mobile banking (mb),1
- theory of planned behavior (tpb),1
- trust (tmb),1
- learning content.,1
-intelligent sensors,1
- diffserv and mpls.,1
- tdd,1
- mc-cdma,1
- snr,1
- delay,1
-envelope repository,1
- envelope p-write protocol,1
- expected and average expected cost,1
- peer connected set.,1
+roadmaintenance,1
+mobilecomputing.,1
+wirelesslan,1
+videocoding,1
+collaborativework,1
+heterogeneity,1
+javame,1
+mobilelearningcontent,1
+computerbasedtraining(cbt).,1
+computerassistedmobilelearning,1
+distanceeducationleadership,1
+technologyenhancedlearningmanagementsystem,1
+multipointrelays,1
+olsrprotocol,1
+adhocnetworks,1
+informationsystemsembeddedapplication,1
+ple,1
+smartspaces,1
+analyticalmodel,1
+integrationstrategy,1
+relaypathset,1
+mobilebanking(mb),1
+theoryofplannedbehavior(tpb),1
+trust(tmb),1
+learningcontent.,1
+diffservandmpls.,1
+tdd,1
+mc-cdma,1
+snr,1
+delay,1
+enveloperepository,1
+envelopep-writeprotocol,1
+expectedandaverageexpectedcost,1
+peerconnectedset.,1
 computer,1
- microcontroller,1
- transmitter,1
- receiver,1
- antenna.,1
-information systems embedded application,1
- intelligent sensors,1
- adhoc networks,1
- olsr protocol,1
- evaluation systems,1
- channel exchange,1
- distance education leadership,1
- ct-images,1
- modulated image,1
- hidden image,1
- lte,1
- 4g,1
- confidentiality,1
- snow3g,1
- aes,1
- zuc,1
-ids,1
- deep neural networks,1
- bot-iot.,1
-lung disease,1
-free space optics,1
-encryption,1
- radio frequency,1
- quadrature ampli-tude modulation,1
- quadrature phase shift keying,1
- wavelength division multiplex-ing,1
-cryptography,1
- gf(28),1
- gf(p),1
- magic square,1
- multi-level key.,1
- protection,1
- sms spam,1
- intrusion detection,1
- steganography,1
- unsw-nb15,1
- bsc,1
- interactive media,1
- change,1
- professionalization.,1
-customer reviews,1
- information and communication technology skills,1
- multiple-criteria decision-making,1
- phone service,1
- term frequency-inverse document frequency,1
-high dimensionality,1
- geographical routing protocols,1
- vanetmobisim,1
- ns-2,1
- archiving course,1
- image marker,1
- nsl-kdd,1
- smart bus transportation,1
-dynamic mathematics software,1
- polyhedron,1
- hungry ant,1
-online math education,1
- online course components,1
- vir-tual classes,1
- covid-19 effects,1
- math instruction,1
-meerkat clan algorithm,1
- selection of features,1
- nids,1
- attacks.,1
- fuzzy c-mean (fcm),1
- propagation (bp) classification,1
- preservice teachers,1
- user motive analysis,1
- consumer adoption,1
- mobile-payment,1
- value chain,1
- customer adaptability,1
- m-payment security and trust,1
- etc.,1
- interactive learning,1
- education satellite,1
- spot beam communication.,1
- conversational framework,1
-termsâ??cellular phone,1
--  mobile learning,1
- information gain (ig),1
- ninntendo ds,1
- handheld game console,1
- interactive classroom,1
-concept mapping,1
- learning network,1
- social support system,1
- software needs analysis,1
-peer-to-peer,1
- client-server,1
- network,1
-handover,1
- bts,1
- innovation support,1
- creativity tool,1
-application design,1
- organizational security,1
- mobil application,1
-android-based applocation,1
- college student,1
- decision tree algorithm,1
- detection system.,1
-voip,1
- vpn,1
- wlan,1
- m-learning preferences model,1
-integrated vehicle health monitoring (ivhm),1
- data aggregation,1
- flat routing,1
- hierarchical routing,1
-business education,1
- enterprise information systems,1
- interdisciplinary approaches,1
- university curriculum development,1
- rural health,1
- telemedicine,1
-basic programming,1
- verbal protocols,1
- dual coding,1
-communication systems,1
- risk analysis,1
- solar radiation,1
-computer assisted mobile learning,1
- technology enhanced learning management system,1
-didalab-toolkit,1
- mobile interaction,1
- university eeducation,1
-mobile devices market,1
- mobile applications development,1
- industrial applications,1
- mobile measurement technologies,1
- services for mobile networks,1
-mental models,1
- ubiquitous interactivity,1
- visual tags,1
- social computing,1
- hci,1
- input devices,1
+microcontroller,1
+transmitter,1
+receiver,1
+antenna.,1
+evaluationsystems,1
+channelexchange,1
+peda-gogy,1
+lungdisease,1
+unsw-nb15,1
+steganography,1
+modulatedimage,1
+hiddenimage,1
+lte,1
+4g,1
+confidentiality,1
+snow3g,1
+zuc,1
+deepneuralnetworks,1
+bot-iot.,1
+ct-images,1
+fuzzyc-mean(fcm),1
+freespaceoptics,1
+radiofrequency,1
+quadratureampli-tudemodulation,1
+quadraturephaseshiftkeying,1
+wavelengthdivisionmultiplex-ing,1
+gf(28),1
+gf(p),1
+magicsquare,1
+multi-levelkey.,1
+protection,1
+smsspam,1
+nsl-kdd,1
+nids,1
+selectionoffeatures,1
+meerkatclanalgorithm,1
+technologicalcompetence,1
+change,1
+professionalization.,1
+customerreviews,1
+informationandcommunicationtechnologyskills,1
+multiple-criteriadecision-making,1
+phoneservice,1
+termfrequency-inversedocumentfrequency,1
+highdimensionality,1
+geographicalroutingprotocols,1
+vanetmobisim,1
+ns-2,1
+archivingcourse,1
+imagemarker,1
+smartbustransportation,1
+dynamicmathematicssoftware,1
+polyhedron,1
+hungryant,1
+onlinematheducation,1
+onlinecoursecomponents,1
+vir-tualclasses,1
+covid-19effects,1
+mathinstruction,1
+attacks.,1
+propagation(bp)classification,1
+bsc,1
+termsâ??cellularphone,1
+usermotiveanalysis,1
+consumeradoption,1
+mobile-payment,1
+valuechain,1
+customeradaptability,1
+m-paymentsecurityandtrust,1
+etc.,1
+interactivelearning,1
+educationsatellite,1
+spotbeamcommunication.,1
+conversationalframework,1
+preserviceteachers,1
+informationgain(ig),1
+-mobilelearning,1
+ninntendods,1
+handheldgameconsole,1
+interactiveclassroom,1
+conceptmapping,1
+learningnetwork,1
+socialsupportsystem,1
+softwareneedsanalysis,1
+client-server,1
+network,1
+bts,1
+innovationsupport,1
+creativitytool,1
+applicationdesign,1
+organizationalsecurity,1
+mobilapplication,1
+android-basedapplocation,1
+collegestudent,1
+decisiontreealgorithm,1
+detectionsystem.,1
+wlan,1
+m-learningpreferencesmodel,1
+integratedvehiclehealthmonitoring(ivhm),1
+dataaggregation,1
+flatrouting,1
+hierarchicalrouting,1
+businesseducation,1
+enterpriseinformationsystems,1
+interdisciplinaryapproaches,1
+universitycurriculumdevelopment,1
+ruralhealth,1
+telemedicine,1
+basicprogramming,1
+verbalprotocols,1
+dualcoding,1
+communicationsystems,1
+riskanalysis,1
+solarradiation,1
+publicuniversities,1
+quality.,1
+mobileblog,1
+m-learning-nigeria,1
+mobileapplicationsdevelopment,1
+industrialapplications,1
+mobilemeasurementtechnologies,1
+servicesformobilenetworks,1
+mentalmodels,1
+ubiquitousinteractivity,1
+visualtags,1
+socialcomputing,1
+hci,1
+inputdevices,1
 celtel-nigeria,1
- virtual instruments,1
- m-learning-nigeria,1
- mobile service providers-nigeria,1
- mtn-nigeria,1
- handhelds,1
- global connections,1
-engineering education,1
- e-portfolios,1
- tele-operated laboratories,1
- mobiles for development,1
- mooc consortia,1
- gulf region,1
-computer aided instruction,1
- mobile devices and technology,1
- tele-learning,1
- mobile data industry,1
- rfid.,1
- snippets,1
- collective intelligence.,1
- construction,1
- it-use,1
- learning schedule,1
- learning java programming,1
- learning objects,1
- self-regulated learning,1
-large class teaching,1
- mobile phone messaging,1
- activity theory,1
-location-based services,1
- conferences,1
- remote engineering,1
- web technology,1
- professional networking,1
-adaptive user interfaces,1
- adaptable user interfaces,1
- mobile human-computer interaction (mobile hci),1
- universal usability,1
- universal access,1
- lom,1
- ims ld,1
-mobile laboratories,1
- analog asic,1
- data acquisition,1
- computer aided assessment,1
- electronic learning,1
-congestion control,1
- sloyd,1
-music performance,1
- scales and acoustics,1
- music informatics,1
-location-based scavenger hunt,1
- gamebook,1
- ibooks,1
- epub3,1
-mathematics education,1
- online applications,1
-app development,1
- learning process,1
- mobile documentation,1
-wireless internet,1
- captcha,1
- obstacles,1
- the university of jordan,1
+mobileserviceproviders-nigeria,1
+fairness,1
+mtn-nigeria,1
+handhelds,1
+globalconnections,1
+e-portfolios,1
+tele-operatedlaboratories,1
+mobilesfordevelopment,1
+moocconsortia,1
+gulfregion,1
+computeraidedinstruction,1
+computeraidedassessment,1
+congestioncontrol,1
+mobiledevicesmarket,1
+universityeeducation,1
+mobiledevicesandtechnology,1
+virtualinstruments,1
+learningjavaprogramming,1
+learningobjects,1
+self-regulatedlearning,1
+largeclassteaching,1
+mobilephonemessaging,1
+activitytheory,1
+location-basedservices,1
+rfid.,1
+conferences,1
+webtechnology,1
+professionalnetworking,1
+adaptiveuserinterfaces,1
+adaptableuserinterfaces,1
+mobilehuman-computerinteraction(mobilehci),1
+universalusability,1
+universalaccess,1
+lom,1
+imsld,1
+mobilelaboratories,1
+analogasic,1
+dataacquisition,1
+remoteengineering,1
+tele-learning,1
+captcha,1
+convergencespeed,1
+nomadism,1
+measurement,1
+epub3,1
+onlineapplications,1
+appdevelopment,1
+learningprocess,1
+mobiledocumentation,1
+sloyd,1
+wirelessinternet,1
+obstacles,1
+theuniversityofjordan,1
 esience,1
- ilab,1
- onlinelab,1
- measurement,1
- real time,1
- online labs,1
- fpga,1
- elvis.,1
-online lab,1
- pid controller,1
- security threats,1
- m-learning security,1
-mobile learning security,1
- social networking sites,1
- fairness,1
- convergence speed,1
- scientific work,1
- evernote,1
-learning,1
- mobile-based application,1
- smart mobile phones,1
- non-verbal.,1
-context-aware computing,1
- bluetooth,1
- data mining.,1
-mms,1
- mobile telemedicine system,1
- multimedia message,1
- streaming,1
-real-time augmented reality,1
- 4d augmented reality,1
- real-time mobile geo-app,1
-online learning videos,1
- massive open online course,1
- video production,1
-disaster training,1
-mobile telecommunications,1
- self-organizing map,1
- customer segmentation,1
- point of inspiration,1
- mobile web 2.0,1
- public universities,1
- next generation mobile,1
- mobile conferencing,1
- peer-to-peer group communication,1
- distributed sip conference management.,1
- ggsn,1
- wireless applications,1
- wireless course management system,1
- wireless networks,1
-gps (global positioning system),1
- pda (personal digital assistant),1
- web 2.0.,1
-next generation commerce,1
- next generation internet,1
- next generation commerce technologies.,1
-mobile video-based learning,1
-city-wide learning,1
- learning scenarios,1
- technology mediated learning,1
- hierarchical task model,1
- learning and working situation,1
- pervasive learning,1
- service description,1
- service requirement,1
- task/method paradigm.,1
- vocabulary learning,1
-second language acquisition,1
- language learning diaries,1
- h.264/mpeg-4 avc software codec,1
- userâ??s context,1
- contents,1
- best practices,1
- quality.,1
- mobile blog,1
- nomadism,1
- usb key,1
- mobile learning content and mobile devices,1
-situated simulations,1
- genre design,1
- iphone.,1
- learning model,1
- user-oriented interfaces,1
- online english assessment tests,1
-mobile phone learning,1
- multi-media,1
- contextual communication,1
+ilab,1
+realtime,1
+scientificwork,1
+onlinelabs,1
+fpga,1
+elvis.,1
+pidcontroller,1
+temperaturesystem,1
+didalab-toolkit,1
+e-course,1
+moodle-platform,1
+optoelectronic,1
+uc1-ilab,1
+laboratoryexperiments,1
+ibooks,1
+gamebook,1
+location-basedscavengerhunt,1
+musicinformatics,1
+evernote,1
+mobile-basedapplication,1
+smartmobilephones,1
+non-verbal.,1
+datamining.,1
+mobiletelemedicinesystem,1
+streaming,1
+real-timeaugmentedreality,1
+4daugmentedreality,1
+real-timemobilegeo-app,1
+onlinelearningvideos,1
+massiveopenonlinecourse,1
+videoproduction,1
+disastertraining,1
+mobiletelecommunications,1
+self-organizingmap,1
+customersegmentation,1
+socialnetworkingsites,1
+mobilelearningsecurity,1
+m-learningsecurity,1
+securitythreats,1
+musicperformance,1
+scalesandacoustics,1
+learningschedule,1
+it-use,1
+construction,1
+city-widelearning,1
+ggsn,1
+wirelessapplications,1
+wirelesscoursemanagementsystem,1
+wirelessnetworks,1
+gps(globalpositioningsystem),1
+pda(personaldigitalassistant),1
+web2.0.,1
+nextgenerationcommerce,1
+nextgenerationinternet,1
+nextgenerationmobile,1
+nextgenerationcommercetechnologies.,1
+learningscenarios,1
+collectiveintelligence.,1
+technologymediatedlearning,1
+hierarchicaltaskmodel,1
+learningandworkingsituation,1
+pervasivelearning,1
+servicedescription,1
+servicerequirement,1
+task/methodparadigm.,1
+secondlanguageacquisition,1
+languagelearningdiaries,1
+noticing,1
+openlearnermodelling,1
+distributedsipconferencemanagement.,1
+peer-to-peergroupcommunication,1
+mobileconferencing,1
+h.264/mpeg-4avcsoftwarecodec,1
+usbkey,1
+mobilelearningcontentandmobiledevices,1
+genredesign,1
+iphone.,1
+learningmodel,1
+user-orientedinterfaces,1
+onlineenglishassessmenttests,1
+mobilephonelearning,1
+bestpractices,1
+multi-media,1
 mcommunication,1
- mobile gaming,1
- barcelona,1
+mobilegaming,1
+barcelona,1
 e-book,1
- e-book reader,1
- e-ink,1
- e-ink reader,1
-bluetooth,1
- mavbt,1
- wireless technology,1
-computer-mediated communication,1
- context-aware computing,1
- noticing,1
- open learner modelling,1
- transition to he,1
+e-bookreader,1
+e-ink,1
+e-inkreader,1
+mavbt,1
+wirelesstechnology,1
+computer-mediatedcommunication,1
+contextualcommunication,1
+userâ??scontext,1
+mobilevideo-basedlearning,1
+transitiontohe,1
+timemanagement,1
+textmanagementservice,1
+esnandprediction,1
+distantlearning,1
+onlinecommunity,1
+designprocessmodel,1
+designmethods,1
+humanfactorstechniques,1
 ngn,1
-traffic flow,1
- nonlinear and nonstationary time series,1
- farima,1
- rrbfn,1
- esn and prediction,1
- telerobotics,1
- distant learning,1
-online community,1
- deaf,1
- design process model,1
- design methods,1
- human factors techniques,1
- profile management,1
- time management,1
- im,1
- chat,1
- text messaging,1
- multi-device services,1
-mobile work,1
- user interface culture,1
-character size,1
- elderly person,1
- lcd,1
- visibility,1
- ulearning,1
- specification,1
- diabetics,1
- adolescence,1
-mobility,1
- pervasive learning environment,1
- text management service,1
- convenience education,1
- mpl,1
- mmwcl,1
-educational systems,1
- affective computing,1
- mobile systems,1
- adaptive systems,1
- faculty perspectives,1
- technological & pedagogical aspects,1
-multiplatform adaptation,1
- client mobile software,1
- design principles,1
- location based adaptive mobile learning,1
+profilemanagement,1
+im,1
+chat,1
+multi-deviceservices,1
+mobilework,1
+userinterfaceculture,1
+charactersize,1
+elderlyperson,1
+lcd,1
+visibility,1
+ulearning,1
+specification,1
+contents,1
+mobileweb2.0,1
+mobiledataindustry,1
+pointofinspiration,1
+snippets,1
+telerobotics,1
+rrbfn,1
+convenienceeducation,1
+farima,1
+mpl,1
+mmwcl,1
+affectivecomputing,1
+facultyperspectives,1
+technological&pedagogicalaspects,1
+multiplatformadaptation,1
+clientmobilesoftware,1
+designprinciples,1
+locationbasedadaptivemobilelearning,1
 adaptativity,1
- learner context,1
- lip,1
-nomadic learning,1
- context-aware hypermedia,1
- geospatial hypermedia,1
- physical linking,1
- tagging,1
-gender,1
- ethnicity,1
- literature survey,1
- technological competence,1
-continuing education,1
- human activity recognition,1
-assessment,1
- students interaction,1
- students attendance,1
- pro-gramming lab,1
- course learning outcome,1
- e-learning platform,1
- critical factors,1
- pre-service teachers,1
- hologram,1
- ludo game,1
- molecular shapes,1
-e – learning,1
- e-learning quality,1
- competency-based approach,1
+learnercontext,1
+lip,1
+nomadiclearning,1
+context-awarehypermedia,1
+geospatialhypermedia,1
+physicallinking,1
+tagging,1
+ethnicity,1
+literaturesurvey,1
+pervasivelearningenvironment,1
+adolescence,1
+diabetics,1
+nonlinearandnonstationarytimeseries,1
+continuingeducation,1
+humanactivityrecognition,1
+sensorfusion,1
+molecularshapes,1
+creativethinking,1
 online-classrooms,1
- authoring system,1
- feed-back,1
-user experience (ux),1
- automated ux evaluation,1
- ux evaluation,1
- moderated ux evaluation,1
-disruptive education,1
- edukit,1
- entrepreneurship learning,1
- experimental learning,1
-disruptive media,1
- educational innovation background,1
- students participation,1
- creative thinking,1
-smart electrical device control,1
- mobile hmd,1
- entry behavior,1
- real-world activities,1
+studentsparticipation,1
+studentsinteraction,1
+studentsattendance,1
+pro-gramminglab,1
+courselearningoutcome,1
+e-learningplatform,1
+criticalfactors,1
+hologram,1
+ludogame,1
+e–learning,1
+educationalinnovationbackground,1
+e-learningquality,1
+competency-basedapproach,1
+authoringsystem,1
+feed-back,1
+automateduxevaluation,1
+uxevaluation,1
+moderateduxevaluation,1
+disruptiveeducation,1
+edukit,1
+entrepreneurshiplearning,1
+experimentallearning,1
+kvisoftflipbook,1
+flyingaltitude,1
+gaussmarkov,1
+topology-basedroutingprotocol,1
+entrybehavior,1
+real-worldactivities,1
 edutainment,1
- educational music video,1
- video-based learning,1
- children learning,1
-remedial teaching,1
- chinese radicals,1
- wot,1
- search engine,1
- multi agent system,1
- immersive virtual reality,1
- tethered hmd,1
-kvisoft flipbook,1
- cybersickness,1
- simulator sickness,1
- cybersickness reduction guidelines.,1
- stem education,1
- systematic,1
-mobile e-learning platform,1
- assessment for learning,1
+educationalmusicvideo,1
+video-basedlearning,1
+childrenlearning,1
+remedialteaching,1
+chineseradicals,1
+wot,1
+searchengine,1
+multiagentsystem,1
+immersivevirtualreality,1
+mobilehmd,1
+tetheredhmd,1
+cybersickness,1
+simulatorsickness,1
+cybersicknessreductionguidelines.,1
+stemeducation,1
+systematic,1
+mobilee-learningplatform,1
+assessmentforlearning,1
 multi-uav,1
- flying ad hoc networks,1
- topology-based routing protocol,1
- gauss markov,1
- flying altitude,1
- redox reaction,1
-intrusion detection,1
- cloud market,1
- adaptive,1
- safety training,1
- hazard,1
- microb,1
- science learning,1
+flyingadhocnetworks,1
+disruptivemedia,1
+redoxreaction,1
+groupmobility,1
+computationalthinkingelements,1
+userspreference,1
+safetytraining,1
+hazard,1
+microb,1
+sciencelearning,1
 botswana,1
- boundary crossing,1
- whatsapp,1
-mobile parenting training program,1
- parenting skills,1
- parental locus of control,1
- computational thinking elements,1
- qualitative,1
-educational data mining,1
- multiple criterion decision making,1
- decision trees,1
- and logistic regressions,1
- opcodes,1
- recurrent neural networks,1
-multi criteria decision making,1
-time division duplex,1
- scheduling,1
- radio resource allocation,1
- 5g nr,1
-olsr routing protocol,1
- random mobility,1
- group mobility,1
- users preference,1
- educational website,1
- interface,1
-web usability,1
- security mechanism,1
- fuzzy integral,1
- malicious nodes,1
- redox,1
-organic chemistry,1
- stem approach,1
- physical education,1
- movement competency training,1
- flexible learning,1
-e-learning module,1
- semiconductor power components,1
- inverter system,1
- farm monitoring,1
-e-module,1
- ethnomathematics,1
- building space,1
- education 3.0,1
-engagement,1
- academic performance,1
- testing effect,1
- web quizzing,1
-android-based interactive e-modules,1
- trigonometrics,1
- psychological and pedagogical barriers,1
- psychology of mobile education,1
- smart monitoring,1
- smart voice assistants,1
-sensor fusion,1
- time shifted routing,1
- multicast routing,1
- scalable,1
- location-based routing,1
-distance education,1
- mobile devices.,1
-adaptive systems,1
- information retrieval,1
- museums,1
- unsupervised learning,1
-ad-hoc messaging network,1
- mobile ad-hoc network,1
- network simulation,1
- store and foreward message propagation,1
- environmental study,1
- contextual learning,1
- just-in-time learning,1
- learning by doing,1
- wearable computer,1
- computer augmented environment,1
- cooperative activities,1
-context-awareness,1
- mobile aided learning,1
- career preference,1
- digital technology,1
- digital skill,1
+boundarycrossing,1
+whatsapp,1
+mobileparentingtrainingprogram,1
+parentingskills,1
+parentallocusofcontrol,1
+qualitative,1
+cloudmarket,1
+adaptive,1
+decisiontrees,1
+andlogisticregressions,1
+opcodes,1
+recurrentneuralnetworks,1
+multicriteriadecisionmaking,1
+timedivisionduplex,1
+scheduling,1
+radioresourceallocation,1
+5gnr,1
+olsrroutingprotocol,1
+educationalwebsite,1
+interface,1
+webusability,1
+psychologyofmobileeducation,1
+multiplecriteriondecisionmaking,1
+securitymechanism,1
+fuzzyintegral,1
+maliciousnodes,1
+redox,1
+organicchemistry,1
+stemapproach,1
+physicaleducation,1
+movementcompetencytraining,1
+flexiblelearning,1
+e-learningmodule,1
+semiconductorpowercomponents,1
+invertersystem,1
+farmmonitoring,1
+ethnomathematics,1
+buildingspace,1
+education3.0,1
+academicperformance,1
+testingeffect,1
+webquizzing,1
+android-basedinteractivee-modules,1
+trigonometrics,1
+psychologicalandpedagogicalbarriers,1
+smartmonitoring,1
+smartelectricaldevicecontrol,1
+smartvoiceassistants,1
+storeandforewardmessagepropagation,1
+multicastrouting,1
+scalable,1
+location-basedrouting,1
+mobiledevices.,1
+informationretrieval,1
+museums,1
+unsupervisedlearning,1
+ad-hocmessagingnetwork,1
+mobilead-hocnetwork,1
+networksimulation,1
+timeshiftedrouting,1
+contextuallearning,1
+sinricpro,1
+just-in-timelearning,1
+learningbydoing,1
+wearablecomputer,1
+computeraugmentedenvironment,1
+cooperativeactivities,1
+mobileaidedlearning,1
+careerpreference,1
+digitaltechnology,1
+digitalskill,1
 flexibility,1
-mobile ad hoc networks,1
- preschool student,1
- sinric pro,1
- scalability,1
- ant colony,1
- 3d-simulation,1
-correspondence analysis,1
- teaching method,1
- multimedia learning,1
- demonstration video,1
- food science learning,1
- food science education,1
-social networks apps,1
- tourism marketing,1
- tourism organization,1
-mobile cloud storage,1
- data management,1
- alternative learning,1
- higher institution,1
- orientation app,1
-self- service kiosk (ssk),1
- self-service technologies (sst),1
- socio-technological issues.,1
- twitter,1
- twitter database,1
-digital comics media,1
- teaching science,1
-text mining,1
-bilingual application,1
- color learning,1
-careem application,1
- family confidence and women empowerment,1
- e-word of mouth,1
-tsunami evacuation drill,1
-online psychological assessment,1
- assessment skills training,1
- academic life,1
- 3d geometric thinking,1
- junior high school students,1
- 6e instructional 3d geometric model,1
-computational thinking,1
- board game             ,1
-          design and development research ,1
- evaluation                 ,1
-aquatic ecosystem,1
- smote,1
- map-based tsunami simulation,1
- maths,1
- web system,1
- disaster education,1
-machine element applications,1
- distance,1
-motor skills,1
- exercise,1
- agility,1
- sensor technology,1
-essential competencies,1
- pre-teacher,1
- construction and housing engineering expertise program,1
- english as second language (esl),1
- traditional game,1
- physics learning,1
- learning tools,1
- qoe,1
- rcts,1
- learning outcome,1
- metaverse studio,1
-animation media,1
- solar system,1
-interactive simulatation,1
- physics concepts,1
-mix code,1
- gen z,1
- sociolinguistics,1
-lav-fis ,1
- field-based learning,1
- virtual,1
-interactive media,1
- professional teacher development,1
+careemapplication,1
+environmentalstudy,1
+preschoolstudent,1
+alternativelearning,1
+colorlearning,1
+antcolony,1
+3d-simulation,1
+correspondenceanalysis,1
+teachingmethod,1
+multimedialearning,1
+demonstrationvideo,1
+foodsciencelearning,1
+foodscienceeducation,1
+socialnetworksapps,1
+tourismmarketing,1
+tourismorganization,1
+mobilecloudstorage,1
+scalability,1
+datamanagement,1
+higherinstitution,1
+orientationapp,1
+self-servicekiosk(ssk),1
+self-servicetechnologies(sst),1
+socio-technologicalissues.,1
+twitterdatabase,1
+digitalcomicsmedia,1
+teachingscience,1
+bilingualapplication,1
+familyconfidenceandwomenempowerment,1
+e-wordofmouth,1
+maths,1
+traditionalgame,1
+assessmentskillstraining,1
+academiclife,1
+3dgeometricthinking,1
+juniorhighschoolstudents,1
+6einstructional3dgeometricmodel,1
+boardgame,1
+designanddevelopmentresearch,1
+aquaticecosystem,1
+smote,1
+tsunamievacuationdrill,1
+map-basedtsunamisimulation,1
+websystem,1
+disastereducation,1
+machineelementapplications,1
+distance,1
+motorskills,1
+exercise,1
+agility,1
+sensortechnology,1
+essentialcompetencies,1
+pre-teacher,1
+constructionandhousingengineeringexpertiseprogram,1
+englishassecondlanguage(esl),1
+onlinepsychologicalassessment,1
+physicslearning,1
+rcts,1
+learningtools,1
+learningoutcome,1
+metaversestudio,1
+animationmedia,1
+solarsystem,1
+interactivesimulatation,1
+physicsconcepts,1
+mixcode,1
+genz,1
+sociolinguistics,1
+lav-fis,1
+field-basedlearning,1
+virtual,1
+professionalteacherdevelopment,1
 hydroponics,1
- smart agriculture,1
- notification,1
-digital game,1
- wordwall,1
- disruptive era,1
- hi world,1
- smart book,1
-online training; gamification; game elements; engagement; employee,1
- music education,1
- bonnmotion software,1
- network simulation.,1
-korean as a foreign language,1
- specific anthropomorphic mannequin (sam) head,1
- mobile application software,1
- existing building,1
- utilization,1
- factors influencing,1
- rural entrepreneurs,1
-website development,1
- laravel,1
- sdlc,1
-multiple input single output (miso),1
- stepped impedance resonator (sir),1
- long term evolution (lte),1
- return loss,1
- methods,1
+smartagriculture,1
+digitalgame,1
+wordwall,1
+disruptiveera,1
+hiworld,1
+smartbook,1
+onlinetraining;gamification;gameelements;engagement;employee,1
+musiceducation,1
+qoe,1
+randommobility,1
+bonnmotionsoftware,1
+sensorytechnology,1
+laravel,1
+interventions,1
+mentalandphysicalhealth,1
+well-being,1
 bim,1
- student,1
- network service technology,1
-facebook,1
- design model,1
-mobile interaction,1
- comparative analysis,1
- zakat,1
-interactive storytelling,1
- creative industry,1
-youtube educational channel,1
- video-podcast,1
- elt,1
- operation and maintenance,1
- well-being,1
- korean language learning,1
-smart learning,1
- cache management policies,1
-consonant cluster,1
- onset,1
- traditional method,1
-cloud computing technologies,1
- digital trends,1
- regional development,1
- socio-economic effects,1
- service level agreement,1
- deep reinforcement learning,1
- marital communication,1
- interpersonal relationships,1
-cloud based learning,1
- mental and physical health,1
- peer learning.,1
+operationandmaintenance,1
+mobileapplicationsoftware,1
+existingbuilding,1
+utilization,1
+factorsinfluencing,1
+ruralentrepreneurs,1
+websitedevelopment,1
+sdlc,1
+creativeindustry,1
+multipleinputsingleoutput(miso),1
+steppedimpedanceresonator(sir),1
+longtermevolution(lte),1
+returnloss,1
+specificanthropomorphicmannequin(sam)head,1
+methods,1
+student,1
+networkservicetechnology,1
+designmodel,1
+comparativeanalysis,1
+zakat,1
+interactivemobiletechnology,1
+affectiveoutcomes,1
+orientationknowledge,1
+studentcharacter,1
+cachingstrategy,1
+in-networkcaching,1
+cachemanagementpolicies,1
+consonantcluster,1
+onset,1
+traditionalmethod,1
+cloudcomputingtechnologies,1
+digitaltrends,1
+regionaldevelopment,1
+socio-economiceffects,1
+servicelevelagreement,1
+deepreinforcementlearning,1
+maritalcommunication,1
+interpersonalrelationships,1
+smartlearning,1
+cloudbasedlearning,1
+peerlearning.,1
 lte-v,1
- best-cqi,1
- round robin,1
- proportional fair,1
- los,1
- character building,1
- student character,1
- orientation knowledge,1
- affective outcomes,1
-interactive mobile technology,1
- interventions,1
- rural esl.,1
- ict-based intervention,1
- interactive teaching,1
- learning experience,1
+best-cqi,1
+roundrobin,1
+proportionalfair,1
+los,1
+characterbuilding,1
+interactivestorytelling,1
+youtubeeducationalchannel,1
+networksimulation.,1
+chemicalrepresentation,1
+digitalhealth,1
+studentdevelopmentandsuccess,1
+energysave,1
+led,1
 orientation,1
- sound level,1
- hear rate,1
- light of intensity,1
-internet,1
- learning autonomy,1
- hindrance,1
- rate of reaction,1
- chemical representation,1
-u-learning,1
- programming,1
-online learning,1
- immersive experience,1
- simulations,1
- media-tor analysis,1
-online distance learning,1
- domain knowledge,1
- behavioral inten-tion,1
-drones communication architectures,1
- uaanet drones network,1
- routing protocols,1
- optimized link state routing protocol (olsr) ad hoc on demand distance vector (aodv),1
- ad hoc network.,1
-motor learning,1
- measuring instruments,1
- sensory technology,1
- led,1
-energy save,1
- student development and success,1
-digital readiness,1
-book reader,1
- image-text conversion,1
- google cloud,1
- visual impairment people,1
-school principals,1
- technological tools,1
- hearing-impaired students,1
- esl,1
- views,1
- challenges,1
-digital comics,1
- cognitive learning outcome,1
-digital story,1
- linguistic intelligence,1
- mindfulness,1
- corona pandemic.,1
-3-d shapes,1
- geogebra,1
- prospective elementary teachers,1
+soundlevel,1
+hearrate,1
+lightofintensity,1
+learningautonomy,1
+hindrance,1
+rateofreaction,1
+programming,1
+video-podcast,1
+learningexperience,1
+immersiveexperience,1
+media-toranalysis,1
+onlinedistancelearning,1
+domainknowledge,1
+behavioralinten-tion,1
+dronescommunicationarchitectures,1
+uaanetdronesnetwork,1
+optimizedlinkstateroutingprotocol(olsr)adhocondemanddistancevector(aodv),1
+adhocnetwork.,1
+motorlearning,1
+manufacturing,1
+e-servicequality,1
+malaysianundergradu-ates,1
+onlineplatforms,1
+elt,1
+ruralesl.,1
+ict-basedintervention,1
+interactiveteaching,1
+simulations,1
+bookreader,1
+image-textconversion,1
+googlecloud,1
+visualimpairmentpeople,1
+schoolprincipals,1
+technologicaltools,1
+hearing-impairedstudents,1
+esl,1
+views,1
+digitalcomics,1
+cognitivelearningoutcome,1
+digitalstory,1
+linguisticintelligence,1
+mindfulness,1
+coronapandemic.,1
+3-dshapes,1
+prospectiveelementaryteachers,1
 skype,1
- online platforms,1
- malaysian undergradu-ates,1
- e-service quality,1
- manufacturing,1
- digital health,1
- in-network caching,1
- caching strategy,1
- ndn,1
- preschool children,1
- smart gate,1
- smart shopping gate,1
-iot application,1
- security of iot,1
- security triad,1
- performance expectancy,1
- biometric system,1
-malware detection,1
- n-gram,1
- opcode,1
- grid search,1
-usability testing,1
- user review,1
- threat modelling,1
- mining threat,1
- voice detection,1
- physical impairment technology,1
- interfacing esp8266.,1
- grades,1
- flask framework,1
- t-test,1
- cnn.,1
- system analyze,1
- graduation project,1
-web applications,1
- secure socket layer (ssl),1
- radio frequency identification,1
-barcode reader,1
- self-learning.,1
- reading skills,1
- wechat,1
-cognitive abilities and distance learning,1
- intrinsic and extrinsic motivation,1
- methods of increasing interest in learning,1
- student interest in learning,1
- teacher motivation,1
- distance education and online learning.,1
-social networks (sns),1
- user behavior,1
- skill enhancement,1
-social media networks,1
- security information,1
- policy enforcement,1
- wsn.,1
-human gait detection,1
- abnormal gait,1
-the similarities,1
- differences,1
- mid-maturity,1
- gender-specific behaviours,1
-software quality assurance,1
- software quality strategy,1
- software quality classifications,1
- auto encoder,1
- preschool students,1
- python,1
- security assessment tools,1
+ndn,1
 icn,1
-creative thinking ability,1
-english vocabulary,1
- keller personalized system of instruction,1
- facilities management,1
- didactic engineering,1
- quadric surfaces,1
- technology-enhanced learning,1
- adicction,1
- mexico.,1
-contact tracing,1
- uavs,1
- wireless monitoring system,1
- wireless mesh networks,1
- geogebra.,1
-surveillance system,1
-cloud,1
- teachers perspective,1
- ict integration,1
- new normal era,1
- dropping out,1
- educational data mining,1
- eruptive technology,1
- disruptive technology,1
- garden,1
- interactive models,1
- special abilities,1
- digital 4.0,1
- teaching and learning module,1
- 5e,1
-strength of acid and base,1
- design development research,1
- face detection,1
- face tracking,1
- low-cost camera,1
- face mask.,1
- ecc,1
- ecdh,1
- instructional technology,1
- rsa,1
-ar module,1
- project-based learning,1
- phase change,1
- stem,1
- communication tool,1
- collaboration tool,1
- communication skills,1
-basic refinery,1
- visualization skills,1
- learning courseware,1
- technical employee,1
+digital4.0,1
+opcode,1
+self-learning.,1
+barcodereader,1
+radiofrequencyidentification,1
+smartgate,1
+smartshoppinggate,1
+securityofiot,1
+securitytriad,1
+performanceexpectancy,1
+biometricsystem,1
+malwaredetection,1
+n-gram,1
+gridsearch,1
+specialabilities,1
+preschoolchildren,1
+userreview,1
+miningthreat,1
+voicedetection,1
+physicalimpairmenttechnology,1
+interfacingesp8266.,1
+grades,1
+flaskframework,1
+t-test,1
+cnn.,1
+systemanalyze,1
+readingskills,1
+preschoolstudents,1
+autoencoder,1
+softwarequalityclassifications,1
+koreanasaforeignlanguage,1
+koreanlanguagelearning,1
+wechat,1
+cognitiveabilitiesanddistancelearning,1
+intrinsicandextrinsicmotivation,1
+methodsofincreasinginterestinlearning,1
+studentinterestinlearning,1
+teachermotivation,1
+distanceeducationandonlinelearning.,1
+socialnetworks(sns),1
+skillenhancement,1
+socialmedianetworks,1
+securityinformation,1
+policyenforcement,1
+wsn.,1
+humangaitdetection,1
+abnormalgait,1
+thesimilarities,1
+differences,1
+mid-maturity,1
+gender-specificbehaviours,1
+softwarequalityassurance,1
+softwarequalitystrategy,1
+graduationproject,1
+webapplications,1
+securesocketlayer(ssl),1
+self-reflexivity,1
+strengthofacidandbase,1
+5e,1
+teachingandlearningmodule,1
+englishvocabulary,1
+kellerpersonalizedsystemofinstruction,1
+facilitiesmanagement,1
+didacticengineering,1
+quadricsurfaces,1
+adicction,1
+mexico.,1
+contacttracing,1
+uavs,1
+wirelessmonitoringsystem,1
+wirelessmeshnetworks,1
+geogebra.,1
+teachersperspective,1
+ictintegration,1
+newnormalera,1
+droppingout,1
+eruptivetechnology,1
+disruptivetechnology,1
+garden,1
+interactivemodels,1
+designdevelopmentresearch,1
+emancipation,1
+python,1
+philosophyofscience,1
+threatmodelling,1
+securityassessmenttools,1
+surveillancesystem,1
+facedetection,1
+facetracking,1
+low-costcamera,1
+facemask.,1
+ecc,1
+ecdh,1
+instructionaltechnology,1
+rsa,1
+armodule,1
+phasechange,1
+communicationtool,1
+collaborationtool,1
+communicationskills,1
+basicrefinery,1
+visualizationskills,1
+learningcourseware,1
+technicalemployee,1
 agency,1
- science media communication,1
- science communication,1
- philosophy of science,1
- emancipation,1
- self-reflexivity,1
- temperature system,1
- e-course,1
- lane detection,1
- design of mobile application,1
-android programming,1
- fuzzy classification,1
-computer skills,1
- its,1
- scaffolding,1
- technical skills,1
- cipp,1
-data compression,1
- lempel-ziv-welch,1
- websockets,1
-innovative,1
- e-therapy service,1
-around device interaction (adi),1
- non-prescription drugs,1
- human-computer interaction (hci),1
- sensor-based interaction,1
-wireless network,1
- key exchange,1
- asymmetric authentication,1
- mobile pedagogy,1
- education digital tools,1
- standards based instruction,1
- computer assisted instruction,1
+sciencemediacommunication,1
+sciencecommunication,1
+reuseofremotelabs,1
+isa,1
+oscillatorexperiment,1
+instructionaldesignmodel,1
+standardsbasedinstruction,1
+computerassistedinstruction,1
 medication,1
- pharmacy,1
-mobile ad hoc network,1
- satisfaction,1
-mobile healthcare application,1
- cyber-physical systems,1
-remote laboratory,1
- manufacturing execution system,1
-energy conversion in vehicles,1
- data processing and display,1
- labview application tool,1
- software tool for road tests,1
- agriculture,1
- mechatronics,1
- mobile interfaces,1
-networking of higher education institutions,1
- network of remote laboratories,1
- sharing online resources,1
- instrumentation,1
- control,1
- color perception,1
- programmable logic controller,1
- structured text language,1
-online experimentation,1
- social impact,1
- online training,1
- e-evaluation,1
-privacy concerns,1
- purchase intention,1
- theory of planned behavior,1
-google glass,1
- colorblindness,1
- color vision deficiency,1
- gateway load balancing,1
- integrated internet manet,1
- wlb-aodv,1
- aesthetics,1
- classified ads,1
- attribute based searching.,1
-dna steganography,1
- hiding capacity,1
- data hiding,1
- data storage,1
-dna computing,1
- quantum computation,1
- biocomputer,1
- molecular computation.,1
- opinion mining,1
- social value,1
-keywords extraction,1
- adaptive gateway discovery,1
- special education.,1
- analytics,1
-cloud data storage and processing security,1
- document key print,1
- qr codes,1
- experience,1
- ieee 802.15.4,1
- coastal environment,1
- ocean observing systems,1
- multi-hop,1
- position-based,1
- topology_based.,1
- arabic language processing,1
-information extraction,1
- hadoop,1
- bmh,1
- hybrid framework,1
- islamic banking,1
- islamic finance,1
- instructional design model,1
+pharmacy,1
+gatewayloadbalancing,1
+integratedinternetmanet,1
+wlb-aodv,1
+adaptivegatewaydiscovery,1
+hybridframework,1
+islamicbanking,1
+islamicfinance,1
 geofencing,1
- geotagging,1
-disaster management,1
- location based service,1
- volunteers,1
+userprofile..,1
+geotagging,1
+disastermanagement,1
+locationbasedservice,1
+volunteers,1
 bluemix,1
- fuel efficiency,1
- gas station location,1
- monitoring,1
- head mounted display,1
- interactive learning environments,1
- dotnetrdf,1
- graphs,1
- turtle,1
- user profile..,1
- basic science process skills,1
- communication skill,1
- social performance,1
-malware,1
- cloud environment,1
- static binary search,1
- enterprise-resource-planning,1
- manufacturing systems,1
- multipath,1
- ro,1
- 3d object,1
- dictionary,1
- anggah - ungguhing,1
- balinese languages,1
- mother tongue,1
- waterfall model,1
- student response,1
-lung cancer,1
- cad,1
- cnn and ct scan.,1
+fuelefficiency,1
+gasstationlocation,1
+monitoring,1
+interactivelearningenvironments,1
+dotnetrdf,1
+graphs,1
+educationdigitaltools,1
+mobilepedagogy,1
+asymmetricauthentication,1
+keyexchange,1
+theoryofplannedbehavior,1
+googleglass,1
+colorblindness,1
+colorvisiondeficiency,1
+colorperception,1
+non-prescriptiondrugs,1
+satisfaction,1
+androidprogramming,1
+fuzzyclassification,1
+computerskills,1
+its,1
+scaffolding,1
+technicalskills,1
+cipp,1
+datacompression,1
+lempel-ziv-welch,1
+websockets,1
+innovative,1
+e-therapyservice,1
+designofmobileapplication,1
+arounddeviceinteraction(adi),1
+human-computerinteraction(hci),1
+sensor-basedinteraction,1
+turtle,1
+basicscienceprocessskills,1
+ipod,1
+mobileapplicationforchildren,1
+ieee802.15.4,1
+coastalenvironment,1
+oceanobservingsystems,1
+multi-hop,1
+position-based,1
+topology_based.,1
+dsrprotocol,1
+multipath,1
+threshold,1
+crosslayer,1
+broadcasting,1
+child-computerinteraction(cci),1
+communicationskill,1
+mobilelearning.,1
+mobiletelemonitoringsystem,1
+web-basedframework,1
+wirelessandmobilecomputing,1
+telehealth,1
+instructionalapproaches,1
+pheromone,1
+socialconstructivism,1
+developmentaldisabilities,1
+augmentativeandalternativecommunication(aac),1
+computerassistedlearning(cal),1
+experience,1
+qrcodes,1
+documentkeyprint,1
+clouddatastorageandprocessingsecurity,1
+socialperformance,1
+cloudenvironment,1
+staticbinarysearch,1
+bmh,1
+hadoop,1
+informationextraction,1
+arabiclanguageprocessing,1
+classifiedads,1
+attributebasedsearching.,1
+dnasteganography,1
+hidingcapacity,1
+datahiding,1
+datastorage,1
+dnacomputing,1
+quantumcomputation,1
+biocomputer,1
+molecularcomputation.,1
+opinionmining,1
+socialvalue,1
+aesthetics,1
+keywordsextraction,1
+specialeducation.,1
+analytics,1
+purchaseintention,1
+privacyconcerns,1
+e-evaluation,1
+m-commerce,1
+interview,1
+e-commerce.,1
+marhimeconceptualmodel,1
+hearingimpaired,1
+museum.,1
+engagementelement,1
+mobileonlineshopping,1
+consumersbelieve,1
+consumerattitude,1
+m-services.,1
+citizenssatisfaction,1
+easeofuse.,1
+onlinetraining,1
+roadsideunits,1
+cyberattacks,1
+spam.,1
+transactions,1
+decentralizedarchitecture,1
+fakedrugs,1
+smartcontract,1
+ethereum.,1
+datasecurity,1
+publiccommunication,1
+politicalcommunication,1
+websitese-commerceplatform,1
+japanese,1
+multiattributedecisionmaking,1
+floodearlywarningsystem,1
+routingindatacenternetworks.,1
+dewatanawasanga,1
+3dobject,1
+anggah-ungguhing,1
+balineselanguages,1
+mothertongue,1
+waterfallmodel,1
+studentresponse,1
+lungcancer,1
+cad,1
+cnnandctscan.,1
 mrom,1
- manemo,1
- multihomed,1
- routing in data center networks.,1
- handoff.,1
- science experiment,1
- marpex,1
-viva voce,1
- virtual coaching,1
- avatar,1
- anxiety.,1
-flood management,1
- flood early warning system,1
- multi attribute decision making,1
- japanese,1
-websitese-commerce platform,1
- dewata nawa sanga,1
- network management,1
- legacy systems,1
- early detection,1
- health dss,1
- behavioral intentions,1
- nursing staff,1
-gesture recognition,1
- sign language,1
- video processing.,1
-stem,1
- multiplication table,1
-arabic,1
- mutawwif,1
- mobile gadget,1
-cancer,1
- aurasma,1
- structures of data center networks,1
- daily prayer,1
-mobile android,1
- entrepreneurial characteristic,1
- psychometric test,1
-culinary recommendation,1
- ahp topsis,1
- fuzzy ahp,1
- innovation characteristics,1
- innovation resistance,1
- status quo bias,1
- indoor positioning system,1
-cloud-based data center networks,1
- interview,1
- e-commerce.,1
-marhime conceptual model,1
-website usability,1
- effects of smartphones,1
+manemo,1
+ro,1
+multihomed,1
+handoff.,1
+scienceexperiment,1
+marpex,1
+vivavoce,1
+virtualcoaching,1
+avatar,1
+anxiety.,1
+floodmanagement,1
+marketingstrategies,1
+bloggers,1
+marketingtrends,1
+virtuallabs,1
+directmanipulation,1
+handtracking,1
+legacysystems,1
+manufacturingsystems,1
+cyber-physicalsystems,1
+enterprise-resource-planning,1
+manufacturingexecutionsystem,1
+energyconversioninvehicles,1
+dataprocessinganddisplay,1
+labviewapplicationtool,1
+softwaretoolforroadtests,1
+agriculture,1
+mechatronics,1
+mobileinterfaces,1
+networkingofhighereducationinstitutions,1
+networkofremotelaboratories,1
+sharingonlineresources,1
+instrumentation,1
+control,1
+programmablelogiccontroller,1
+structuredtextlanguage,1
+onlineexperimentation,1
+socialimpact,1
+cognitiveprocesses,1
+indoorenvironmentalcomfortinbuildings,1
+influencers,1
+e-learningcourse,1
+interactivity,1
+egypt,1
+theuseofsmartphones,1
+smartphonesinteaching,1
+effectsofsmartphones,1
 chc,1
- cognitive abilities,1
- visual-spatial skills,1
- visual ability,1
- visual classiﬁcation,1
-mobile health apps,1
- smartphoness,1
-ad hoc,1
- node count,1
- ns2,1
- topology.,1
- website interactivity,1
- hearing impaired,1
- health information quality,1
-evaluation,1
- instruction process,1
- cse-ucla,1
-design quality,1
- housing quality,1
-e-learning course,1
- indoor environmental comfort in buildings,1
- virtual labs,1
- cognitive processes,1
- direct manipulation,1
- hand tracking,1
- smartphones in teaching,1
- the use of smartphones,1
- egypt,1
- interactivity,1
- museum.,1
- engagement element,1
-mobile online shopping,1
- consumers believe,1
- consumer attitude,1
- m-services.,1
-citizens satisfaction,1
- m-commerce,1
- ease of use.,1
-roadside units,1
- cyberattacks,1
- spam.,1
-blockchain,1
- transactions,1
- decentralized architecture,1
- fake drugs,1
- smart contract,1
- ethereum.,1
- data security,1
- public communication,1
- political communication,1
-marketing strategies,1
- bloggers,1
- marketing trends,1
- influencers,1
- dsr protocol,1
- threshold,1
- moodle-platform,1
- gam model,1
-e-books,1
- print books,1
- student perceptions,1
- university of fort hare.,1
- education for all,1
- nonformal education,1
- moocs,1
-game-based learning experience,1
- voice enabled,1
- speech assistant,1
- amazon alexa,1
-mobile-government services,1
- utaut model.,1
- outdoor environment,1
- community,1
- conversation,1
- social capital,1
- conversion,1
-google translation,1
- acceptance model,1
- source and target languages,1
- cultural differences,1
- uae.,1
-cognitive flexibility,1
- task-switching,1
- working memory,1
- ray tracing,1
- indoor environment,1
- short word,1
- communication challenges,1
- slang,1
- hand anatomy,1
- bones,1
-user behavior,1
- tangram puzzle,1
- smartphone ownership,1
-energy,1
- sleep awake,1
- conditional transmission,1
- body sensors.,1
-monitoring and controlling,1
- power electric system,1
- project management,1
- modelling,1
- industrialised building system (ibs).,1
- conventional video,1
-rasch model,1
- construct validity,1
- test,1
- scientific reasoning,1
-digital assessment,1
- assessment resources,1
- teacher attitude and perception,1
-mobile phishing attacks,1
- web-based phishing attack,1
+cognitiveabilities,1
+visual-spatialskills,1
+visualability,1
+visualclassiﬁcation,1
+mobilehealthapps,1
+smartphoness,1
+adhoc,1
+nodecount,1
+ns2,1
+topology.,1
+websiteusability,1
+websiteinteractivity,1
+healthinformationquality,1
+instructionprocess,1
+cse-ucla,1
+designquality,1
+housingquality,1
+computerassistedinstruction(cai),1
+childrenwithautism,1
+structuresofdatacenternetworks,1
+attentioncontrol,1
+socialcapital,1
+conversion,1
+googletranslation,1
+acceptancemodel,1
+sourceandtargetlanguages,1
+culturaldifferences,1
+uae.,1
+cognitiveflexibility,1
+task-switching,1
+workingmemory,1
+inhibitioncontrol,1
+socialnetworkingsites(sns),1
+machine-learning,1
+self-training,1
+searchengines,1
+teammanagement,1
+ibeacon,1
+corelocation,1
+iosapplication,1
+digitalmedia,1
+charactereducation,1
+thematic-integrative,1
+abstractthisstudyaimstorevealstudents'profileofdigitalethicsinsu-rakartacity,1
+indonesia.currenttechnologicaltrendsgeneratesignificantimplica-tionsforthetechnologicaldigitalizationstoallpartsofhumanlives.informationandcommu,1
+conversation,1
+community,1
+utautmodel.,1
+gammodel,1
+scientificreasoning,1
+digitalassessment,1
+assessmentresources,1
+teacherattitudeandperception,1
+mobilephishingattacks,1
+web-basedphishingattack,1
 communications,1
- inhibition control,1
- attention control,1
- social networking sites (sns),1
- diabetic retinopathy,1
-traffic congestion,1
- smart traffic,1
- traffic light control,1
- intelligent transportation system,1
- ant colony optimization,1
- smart mobility,1
- intelligent mobility.,1
- car safe,1
- detection,1
-voice time,1
- take medication,1
- latitude and longitude information,1
+modelling,1
+indoorenvironment,1
+outdoorenvironment,1
+raytracing,1
+e-books,1
+printbooks,1
+studentperceptions,1
+universityofforthare.,1
+educationforall,1
+nonformaleducation,1
+moocs,1
+game-basedlearningexperience,1
+voiceenabled,1
+speechassistant,1
+amazonalexa,1
+mobile-governmentservices,1
+anonymousquestion-raising,1
+creditcardfraud,1
+computeraidededucation,1
+roadwidth,1
 mobile-heutagogy,1
- self-training,1
- student teachers,1
- pedagogical change,1
- teaching technology,1
-motor safe,1
- motorbike,1
- acceleration,1
- questionnaire,1
- elderly system,1
- household account,1
-road information,1
- road width,1
- object detection,1
- worship,1
-islamic religious education,1
- future specialists,1
- ict tools,1
- search engines,1
-team management,1
- ibeacon,1
- core location,1
- ios application,1
-digital media,1
- character education,1
- thematic-integrative,1
-abstract this study aims to reveal students' profile of digital ethics in su-rakarta city,1
- indonesia. current technological trends generate significant implica-tions for the technological digitalizations to all parts of human lives. information and commu,1
-anonymous question-raising,1
- flipped classroom,1
- machine-learning,1
- credit card fraud,1
- customer profile,1
- transaction profile,1
- mobile signal coverage,1
- social application,1
- data sharing,1
-e-learning system,1
- actual use,1
- saudi universities.,1
- social skills,1
- social stories,1
- analytical competence,1
- full word,1
- uniapp approach,1
- cross layer,1
- autism spectrum disorder,1
- tree structure,1
- malicious activity,1
- nbs,1
- security api,1
-hearing-impaired and blind,1
-cross-platform development,1
- windows phone 7,1
- mda approach,1
-mobile-based assessment,1
-skiing ingjuries,1
- ski patroller.,1
-mobile game application,1
- retailing,1
- balinese traditional food,1
- mobile-based evaluation systems,1
- interactive educational applications,1
- course management system,1
- semantic web.,1
- d-learning,1
- android systems,1
- real-time information.,1
-head mounted display,1
- head motion estimation,1
- natural user interface,1
-awareness,1
- readiness,1
- recursive algorithm,1
- education.,1
- information extracting,1
- developmental disabilities,1
- broadcasting,1
- mobile application for children,1
- child-computer interaction (cci),1
- mobile learning.,1
-mobile telemonitoring system,1
- web-based framework,1
- wireless and mobile computing,1
- telehealth,1
- instructional approaches,1
- pedagogical activities,1
- social constructivism,1
-ict,1
- augmentative and alternative communication (aac),1
- educational ontology,1
- computer assisted learning (cal),1
- computer assisted instruction (cai),1
- ipod,1
- pheromone,1
- children with autism,1
-computer aided education,1
- thermo-optical plant,1
-body sensor networks,1
- medical services,1
- pervasive computing,1
- ubiquitous computing.,1
- question answering,1
- cooperative learning,1
- jigsaw,1
-3d map,1
-cloud-based learning,1
- multi-agents,1
- imls,1
- network monitoring,1
- response time,1
- science education,1
-disaster complaint,1
- smart mobile phone application,1
-mobile augmented book,1
- mobile learning management system,1
-mobile sms,1
- sentence paraphrasing,1
- english for medical purposes,1
- computer studies,1
- graphical processing unit,1
- design research,1
- ict in nigeria,1
-audience response system,1
- face-to-face lecture,1
- wearable technology,1
-video summarization,1
- key frame extraction,1
- video skimming,1
- visual attention model,1
- computer vision,1
-nteractive educational environment,1
- student empowerment,1
- jade,1
- oma supl,1
- telecom,1
- messaging,1
- support vector machine. in-core rendering,1
- out-of-core rendering,1
-business data processing,1
- organizations,1
+studentteachers,1
+pedagogicalchange,1
+teachingtechnology,1
+motorsafe,1
+motorbike,1
+acceleration,1
+questionnaire,1
+elderlysystem,1
+householdaccount,1
+roadinformation,1
+objectdetection,1
+customerprofile,1
+lanedetection,1
+vanishingpoint,1
+computerself-efficacy,1
+enjoyment,1
+systeminteractivity,1
+computeranxiety,1
+studentsinten-tiontousee-learning,1
+th,1
+amobileapp,1
+predictivesystems,1
+fuzzyalgorithm,1
+diabeticretinopathy,1
+latitudeandlongitudeinformation,1
+takemedication,1
+voicetime,1
+transactionprofile,1
+mobilesignalcoverage,1
+socialapplication,1
+datasharing,1
+e-learningsystem,1
+actualuse,1
+saudiuniversities.,1
+socialskills,1
+socialstories,1
+analyticalcompetence,1
+icttools,1
+futurespecialists,1
+islamicreligiouseducation,1
+worship,1
+trafficcongestion,1
+smarttraffic,1
+trafficlightcontrol,1
+intelligenttransportationsystem,1
+antcolonyoptimization,1
+smartmobility,1
+intelligentmobility.,1
+carsafe,1
+detection,1
+test,1
+constructvalidity,1
+conventionalvideo,1
+out-of-corerendering,1
+d-learning,1
+androidsystems,1
+real-timeinformation.,1
+headmotionestimation,1
+naturaluserinterface,1
+readiness,1
+cooperativelearning,1
+jigsaw,1
+3dmap,1
+graphicalprocessingunit,1
+supportvectormachine.in-corerendering,1
+businessdataprocessing,1
+industrialisedbuildingsystem(ibs).,1
+organizations,1
 perceptual,1
- perceptual user interface (pui),1
- human computer interaction (hci),1
- serious games,1
- graphical user interface (gui),1
-apps,1
- fashion apps,1
- mobile-media,1
- users,1
- actual usage,1
- behavioural intention,1
-security education and awareness,1
- mdgbl,1
- arcs,1
-mobile-assisted language learning,1
- english for specific purposes,1
-context-aware services,1
- context management,1
+perceptualuserinterface(pui),1
+humancomputerinteraction(hci),1
+seriousgames,1
+graphicaluserinterface(gui),1
+fashionapps,1
+mobile-media,1
+users,1
+actualusage,1
+behaviouralintention,1
+semanticweb.,1
+coursemanagementsystem,1
+interactiveeducationalapplications,1
+mobile-basedevaluationsystems,1
+thermo-opticalplant,1
+bodysensornetworks,1
+medicalservices,1
+pervasivecomputing,1
+ubiquitouscomputing.,1
+questionanswering,1
+educationalontology,1
+education.,1
+balinesetraditionalfood,1
+recursivealgorithm,1
+treestructure,1
+maliciousactivity,1
+nbs,1
+securityapi,1
+hearing-impairedandblind,1
+cross-platformdevelopment,1
+windowsphone7,1
+mdaapproach,1
+mobile-basedassessment,1
+skiingingjuries,1
+skipatroller.,1
+mobilegameapplication,1
+retailing,1
+securityeducationandawareness,1
+mdgbl,1
+arcs,1
+face-to-facelecture,1
+videosummarization,1
+keyframeextraction,1
+videoskimming,1
+visualattentionmodel,1
+nteractiveeducationalenvironment,1
+studentempowerment,1
+informationextracting,1
+uniappapproach,1
+shortword,1
+fullword,1
+slang,1
+handanatomy,1
+bones,1
+tangrampuzzle,1
+smartphoneownership,1
+energy,1
+sleepawake,1
+conditionaltransmission,1
+bodysensors.,1
+monitoringandcontrolling,1
+powerelectricsystem,1
+communicationchallenges,1
+projectmanagement,1
+wearabletechnology,1
+audienceresponsesystem,1
+englishforspecificpurposes,1
+ictinnigeria,1
+contextmanagement,1
 geocoding,1
- lbs,1
- location,1
- road traffic accidents victims care,1
- mobile based application,1
-pre hospital,1
- healthcare task modelling,1
-situated simulation,1
- media aesthetics,1
- visualizing uncertainty,1
- interpretation,1
- digital reconstruction,1
-the unified theory of acceptance and use of technology (utaut),1
- website-service quality,1
- performance expectancy (pe),1
- effort expectancy (ee),1
- social influence (si) and facilitating condition (fc).,1
- sensor networks,1
-collaborative planning,1
- synchronous/asynchronous interaction,1
- health awareness,1
-mimo,1
- ofdm,1
- wavelet,1
- eigen vectors component.,1
-decision support,1
- pda,1
- mifare,1
- handover,1
- hand-off,1
- hands-on laboratory,1
- 3g,1
-cscw,1
- ict for development,1
-digital society,1
- fourier series expansions,1
- lecture vodcast,1
-classroom response systems,1
- audience response systems,1
- live feedback,1
- large audiences,1
- tablets,1
- social constructive learning.,1
-sustainability,1
- outdoor learning,1
- experiential learning,1
- extramural learning,1
- user control,1
- mobile lecturing,1
-mobile web apps,1
- teacher professional development,1
- native apps,1
- html5,1
- responsive web design,1
- ict4d,1
+lbs,1
+location,1
+messaging,1
+telecom,1
+omasupl,1
+jade,1
+multi-agents,1
+imls,1
+networkmonitoring,1
+responsetime,1
+scienceeducation,1
+disastercomplaint,1
+smartmobilephoneapplication,1
+mobileaugmentedbook,1
+mobilelearningmanagementsystem,1
+mobilesms,1
+sentenceparaphrasing,1
+englishformedicalpurposes,1
+cloud-basedlearning,1
+computerstudies,1
+designresearch,1
+networkmanagement,1
+cloud-baseddatacenternetworks,1
+remotelaboratories.,1
+softwaredevelopmentframeworks,1
+synchronous/asynchronousinteraction,1
+ofdm,1
+wavelet,1
+eigenvectorscomponent.,1
+decisionsupport,1
+pda,1
+mifare,1
+hand-off,1
+hands-onlaboratory,1
+3g,1
+mcscw,1
+task-basedlearning,1
+tabletpc,1
+transfer,1
+money,1
+m-wallet,1
+demodulator,1
+eyepattern,1
+matlab,1
+modulator,1
+qpsk.,1
+mobilenotification,1
+socialnetworkservice(sns),1
+fieldstudy,1
+healthcaretaskmodelling,1
+collaborativeplanning,1
+sensornetworks,1
+socialinfluence(si)andfacilitatingcondition(fc).,1
+nativeapps,1
+html5,1
+responsivewebdesign,1
+ict4d,1
 domotic,1
- home,1
- mhealth,1
- qr codes.,1
-mobile tagging,1
- qr-code,1
- inferential statistics,1
- learning objects.,1
- mcscw,1
- software development frameworks,1
-mobile assisted language learning (mall),1
- persuasion,1
- http connectivity,1
-mobile portal,1
- pharmaceutical servies,1
- smart-phones,1
-apple,1
- ruby on rails,1
- objective c,1
-remote lab,1
- solar boilers,1
- computer networks,1
- mobile telephony,1
- educational applications,1
+home,1
+qrcodes.,1
+mobiletagging,1
+qr-code,1
+inferentialstatistics,1
+learningobjects.,1
+teacherprofessionaldevelopment,1
+healthawareness,1
+ictfordevelopment,1
+situatedsimulation,1
+mediaaesthetics,1
+visualizinguncertainty,1
+interpretation,1
+digitalreconstruction,1
+theunifiedtheoryofacceptanceanduseoftechnology(utaut),1
+website-servicequality,1
+performanceexpectancy(pe),1
+effortexpectancy(ee),1
+learningsupportictdevices,1
+wirelessj2me,1
+openhardware,1
+serviceconnectivity,1
+curriculum,1
+driverriskometer,1
+driverdistraction,1
+cellphones,1
+motionclassifier,1
+nfc-basedpayment,1
+transactionprotocol,1
+secureprotocol,1
+internetofcontent,1
+smarthospital,1
+serviceinteroperability,1
+dependableservices,1
+javawirelesscommunicationtechnologies,1
+muscialapplication,1
+openaccesslab,1
+fieldmeasurementsexperiments,1
+broadbandwireless,1
+wimax,1
+pathloss,1
+propagationmodels,1
+andthroughput,1
+mobilesocialnetworks,1
+remoteexperimentation,1
+3dvirtualenvironment,1
+webbasedtraining.,1
+systemflexibility,1
 agent,1
- task-based learning,1
- mobile-government,1
- system flexibility,1
- web based training.,1
- curriculum,1
-driver riskometer,1
- driver distraction,1
- cell phones,1
- motion classifier,1
-nfc-based payment,1
- transaction protocol,1
- secure protocol,1
- internet of content,1
- adobe after effects,1
- video streaming,1
- tcp/ip,1
- mobile system,1
- transfer,1
- money,1
- m-wallet,1
- students' attitudes,1
- demodulator,1
- eye pattern,1
- matlab,1
- modulator,1
- qpsk.,1
-mobile notification,1
- social network service (sns),1
- field study,1
-learning support ict devices,1
- tablet pc,1
-sign language,1
- wireless j2me,1
- java wireless communication technologies,1
- jsf,1
- jsp,1
- jms,1
- svg,1
- j2se,1
- client,1
- server,1
- handheld system,1
- undergraduate electrical engineering education,1
- astronomy education,1
- high order thinking skills,1
- isd,1
- mutation,1
- tsp,1
-java programming,1
- mobile teaching,1
- serious gaming,1
- individual factors,1
- rural area,1
- english language,1
- grammar,1
- learning styles,1
- fslsm,1
- instructional system design,1
- addie,1
-genetic algorithm,1
- higher learning institutions,1
- graduates,1
-computerized observation,1
- observation systems,1
- computer-assisted direct observation programs,1
+persuasion,1
+jsf,1
+jsp,1
+jms,1
+svg,1
+j2se,1
+client,1
+server,1
+handheldsystem,1
+mobilesystem,1
+tcp/ip,1
+videostreaming,1
+adobeaftereffects,1
+httpconnectivity,1
+mobileportal,1
+pharmaceuticalservies,1
+smart-phones,1
+apple,1
+rubyonrails,1
+objectivec,1
+solarboilers,1
+computernetworks,1
+mobiletelephony,1
+educationalapplications,1
+mobilewebapps,1
+lecturevodcast,1
+mobilelecturing,1
 wsns,1
- network efficiency,1
- energy aware routing path,1
-arabic speech recognition,1
- automated speech recognition (asr),1
- say quran,1
-brand awareness,1
- crossover,1
- vui,1
- lunar phase,1
- impact on students learning,1
- optoelectronic,1
- uc1-ilab,1
-laboratory experiments,1
- reuse of remote labs,1
- isa,1
- oscillator experiment,1
- remote laboratories.,1
-esience project,1
- heat exchanger,1
- maghreb,1
- remote lab,1
-mobile phone in classroom,1
- mobile phone actions in classroom.,1
- portal,1
- mobile language learning,1
-agent assisted banking,1
- secured banking,1
-smartphones,1
- addiction,1
- human behavior,1
- technology social factors.,1
+grammar,1
+learningstyles,1
+fslsm,1
+instructionalsystemdesign,1
+isd,1
+addie,1
+higherlearninginstitutions,1
+graduates,1
+computerizedobservation,1
+observationsystems,1
+computer-assisteddirectobservationprograms,1
+networkefficiency,1
+usercontrol,1
+energyawareroutingpath,1
+arabicspeechrecognition,1
+automatedspeechrecognition(asr),1
+sayquran,1
+europeinternetshopping,1
+e-business.,1
+liquidspheres,1
+operativesystems,1
+termsandconditions,1
+softwareevaluation,1
+electroniclearning(e-learning),1
+englishlanguage,1
+ruralarea,1
+individualfactors,1
+seriousgaming,1
+esienceproject,1
+heatexchanger,1
+maghreb,1
+mobilephoneinclassroom,1
+impactonstudentslearning,1
+mobilephoneactionsinclassroom.,1
+mobilelanguagelearning,1
+agentassistedbanking,1
+securedbanking,1
+addiction,1
+humanbehavior,1
+technologysocialfactors.,1
 telehomecare,1
- inter-agent communication,1
- information and communication technologies,1
-visually impared,1
- audio books,1
- europe internet shopping,1
- e-business.,1
-liquid spheres,1
- food ingredients,1
- solar observation,1
- solar diurnal motion,1
- 3d content.,1
- faculty,1
- universities,1
-web technologies,1
- field trip,1
- pervasive environment,1
- mobile learning scenario,1
- collaborative process integration,1
- geographic orchestration,1
-cooking recipe recommendation,1
- object recognition,1
- operative systems,1
- digital communication,1
- emarketing.,1
- app,1
- destination branding,1
+inter-agentcommunication,1
+informationandcommunicationtechnologies,1
+visuallyimpared,1
+audiobooks,1
+portal,1
+vui,1
+crossover,1
+mutation,1
+tsp,1
+mobileteaching,1
+mobilewireless,1
+studentsperceptions.,1
+mobileuserinterface,1
+geographicorchestration,1
+foodingredients,1
+objectrecognition,1
+emarketing.,1
+app,1
+destinationbranding,1
 conductive,1
- elearning,1
- card,1
- android os,1
- educational services,1
- software development,1
- qt,1
- lunar observation,1
- dijkstras shortest path algorithm,1
-computer network,1
- m3 evaluation framework,1
- mobile assisted english language learning,1
- terms and conditions,1
- software evaluation,1
-mobile learning (m-learning),1
- electronic learning (e-learning),1
- mobile wireless,1
- students perceptions.,1
-dijkstras shortest path algorithm,1
- mobile user interface,1
- user satisfaction,1
- lean manufacturing,1
- mobile device and muda (waste),1
-orthogonal frequency division multiplexing,1
- entropy,1
- multiple-input multiple-output,1
-middle school,1
- mathematics teachers,1
- teachers' attitudes,1
- teachers' decisions,1
-educational programs,1
- physics education,1
-context engine,1
- context-aware services,1
- semantic computing,1
-e-reader devices,1
- amazon kindle,1
- smart hospital,1
- smart city,1
- service interoperability,1
- flic buttons,1
- primary levels,1
-mhealth,1
- pregnancy,1
- healthcare informatics,1
- physical activity,1
- wearable sensors,1
-discriminant analysis,1
- sms advertising,1
- infotainment,1
-digital learning,1
- video games,1
- degree of competence,1
-students,1
- iso standards.,1
- m-learning readiness,1
- m-learning adoption,1
- auto mechanic education,1
-self-efficacy,1
- smart-phone application,1
-mobile banking,1
- utaut2,1
- mass media,1
-sequential pattern mining (spm),1
- video,1
- most important/difficult learning topics (midlt),1
-moodle,1
-tablet,1
- spoc,1
- service connectivity,1
- diagram representation,1
- culturally appropriate design,1
- gdss,1
-iot solutions,1
- smart systems,1
- middleware,1
- data-flow,1
- learning activities,1
- mobile supported education,1
-fingerprint,1
- sdk,1
- biometrics.,1
- office automation,1
- communication security,1
- technical criteria,1
- video classification,1
- autistic spectrum disorders,1
- emotional intelligence,1
-research,1
- research activity,1
- process,1
- learning and methodical complex,1
- force touch,1
- touch based user interface,1
-informal learning,1
- learning communities,1
-quality assessment,1
- scale development,1
- pisa,1
- logical reasoning,1
- design guidelines,1
- fractions,1
+card,1
+androidos,1
+educationalservices,1
+qt,1
+lunarobservation,1
+lunarphase,1
+astronomyeducation,1
+fourierseriesexpansions,1
+undergraduateelectricalengineeringeducation,1
+classroomresponsesystems,1
+audienceresponsesystems,1
+livefeedback,1
+largeaudiences,1
+socialconstructivelearning.,1
+outdoorlearning,1
+experientiallearning,1
+extramurallearning,1
+cookingreciperecommendation,1
+collaborativeprocessintegration,1
+usersatisfaction,1
+mobilelearningscenario,1
+leanmanufacturing,1
+mobiledeviceandmuda(waste),1
+entropy,1
+multiple-inputmultiple-output,1
+middleschool,1
+mathematicsteachers,1
+teachers'attitudes,1
+teachers'decisions,1
+educationalprograms,1
+physicseducation,1
+contextengine,1
+semanticcomputing,1
+e-readerdevices,1
+amazonkindle,1
+mobileassistedenglishlanguagelearning,1
+m3evaluationframework,1
+solarobservation,1
+solardiurnalmotion,1
+3dcontent.,1
+faculty,1
+universities,1
+fieldtrip,1
+pervasiveenvironment,1
+opensource,1
+mobilelearningdesign,1
+statusquobias,1
+teachercandidates,1
+sequentialpatternmining(spm),1
+video,1
+mostimportant/difficultlearningtopics(midlt),1
+scaledevelopment,1
+pisa,1
+logicalreasoning,1
+methodology,1
+cloudcomputing(cc),1
+artificialintelligence(ai),1
+machinelearning(ml),1
+australianhighereducationsector,1
+mobile-assistedlanguagelearning(mall),1
+theiconographyinterface,1
+normalization,1
+onlinetest,1
+foreignlanguagelearning,1
+telecollaboration,1
+e-tandemlearning,1
+userinvolvement,1
+occupationaltherapy,1
+healthinformationtechnology,1
+androidsmartphone,1
+academic,1
+announcement,1
+massmedia,1
+utaut2,1
+smart-phoneapplication,1
+automechaniceducation,1
+researchactivity,1
+process,1
+learningandmethodicalcomplex,1
+forcetouch,1
+touchbaseduserinterface,1
+learningcommunities,1
+qualityassessment,1
+technicalcriteria,1
+spoc,1
+isostandards.,1
+primarylevels,1
+pregnancy,1
+healthcareinformatics,1
+physicalactivity,1
+wearablesensors,1
+discriminantanalysis,1
+smsadvertising,1
+infotainment,1
+videogames,1
+degreeofcompetence,1
+flicbuttons,1
+m-learningreadiness,1
+m-learningadoption,1
+healthyphone,1
+onlinetransportationapplication,1
+mobilecollaborativelearningobjects,1
+mobilegadget,1
+highorderthinkingskills,1
+prehospital,1
+mobilebasedapplication,1
+roadtrafficaccidentsvictimscare,1
+healthdss,1
+behavioralintentions,1
+nursingstaff,1
+videoprocessing.,1
+multiplicationtable,1
+arabic,1
+mutawwif,1
+cancer,1
+fraudmitigation,1
+earlydetection,1
+aurasma,1
+dailyprayer,1
+mobileandroid,1
+entrepreneurialcharacteristic,1
+psychometrictest,1
+culinaryrecommendation,1
+ahptopsis,1
+fuzzyahp,1
+innovationcharacteristics,1
+innovationresistance,1
+usercenterdesign,1
+activityofdailyliving,1
+emotionalengagement,1
+tourismapplication,1
+educationalmobilegame,1
+disturbancefactor,1
+gamedesign,1
+fractions,1
 color-blindness,1
- protanopia,1
- duteranopia,1
- tritanopia,1
- daltonization,1
- lms detonaization,1
- lab color,1
- skype media,1
- academic writing,1
- faculty member,1
- effectiveness,1
- mobile processing,1
- methodology,1
- development approach,1
- mcda,1
-ubiquitous commerce,1
- ubiquitous computing,1
-communication board,1
- deaf people,1
-context-aware mobile application,1
- tourism application,1
- emotional engagement,1
- communication board,1
- activity of daily living,1
- user center design,1
- game design,1
- disturbance factor,1
-educational mobile game,1
- fraud mitigation,1
-cloud computing (cc),1
- artificial intelligence (ai),1
- machine learning (ml),1
- australian higher education sector,1
- teacher candidates,1
- mobile-assisted language learning (mall),1
- user experience (ux),1
- normalization,1
- online test,1
- design,1
-foreign language learning,1
- telecollaboration,1
- e-tandem learning,1
-user involvement,1
- occupational therapy,1
- health information technology,1
- mobile healthcare application,1
-notification,1
- android smartphone,1
- academic,1
- announcement,1
-deaf,1
- healthy phone,1
- the iconography interface,1
- online transportation application,1
- end-to-end security,1
- chatting,1
- md5,1
- mobile music,1
- recommender system,1
-electronic learning,1
-bandwidth,1
- control packet,1
-constraints violation,1
- mobile database,1
- mobile database model,1
- object data model,1
- mobile content,1
- mobile news,1
- mobile advertising,1
- mobile books,1
- mobile television,1
-digital communication,1
- mobile games,1
-distributed information systems,1
- computer applications,1
- mobile communication and software,1
-activity's characteristics,1
- technological environment,1
- students' emotions,1
- affect aspect,1
+protanopia,1
+duteranopia,1
+tritanopia,1
+daltonization,1
+lmsdetonaization,1
+labcolor,1
+skypemedia,1
+academicwriting,1
+facultymember,1
+effectiveness,1
+designguidelines,1
+mobileprocessing,1
+developmentapproach,1
+mcda,1
+ubiquitouscommerce,1
+ubiquitouscomputing,1
+deafpeople,1
+context-awaremobileapplication,1
+research,1
+emotionalintelligence,1
+autisticspectrumdisorders,1
+studentsofmedicine,1
+mobilecommunicationandsoftware,1
+activity'scharacteristics,1
+technologicalenvironment,1
+students'emotions,1
+affectaspect,1
 eaccessibility,1
- mobile accessibility,1
- assistive technology,1
- e-accessibility standards,1
- pro-activity,1
- multi-dimensional rating,1
+mobileaccessibility,1
+assistivetechnology,1
+e-accessibilitystandards,1
+designforall,1
+on-linecommunity,1
+graduatesofmedicine,1
+videoclassification,1
+medicalenglish,1
+messagesize,1
+client-serverapplication,1
+mobilecollaborativelearning(mcl),1
+serversidearchitecture,1
+clientsideprotocol,1
+groupapplication,1
+cacheserver.,1
+assistivetechnologies,1
+scenarios,1
+trends,1
+computerapplications,1
+distributedinformationsystems,1
+mobilegames,1
+mobiletelevision,1
+informallearning.,1
+mobiletracking,1
+softwarealgorithms,1
+serverperformancestudy,1
+pilottest,1
+elderlyfeedback,1
+situatedlearning,1
+interdisciplinarity,1
+indoorpositioning.,1
 multi-agent,1
- indoor positioning.,1
- dependable services,1
- muscial application,1
-open access lab,1
- field measurements experiments,1
- broadband wireless,1
- wimax,1
- path loss,1
- propagation models,1
- and throughput,1
- mobile social networks,1
-remote experimentation,1
- 3d virtual environment,1
- open source,1
- open hardware,1
-mobile learning design,1
- mobile collaborative learning objects,1
- informal learning.,1
-mobile tracking,1
- software algorithms,1
- server performance study,1
- pilot test,1
- elderly feedback,1
- situated learning,1
- interdisciplinarity,1
-wi-fi,1
- design for all,1
- on-line community,1
-aes,1
-aphasia,1
- tourist information system,1
- tourist application.,1
-braille,1
- keyboard,1
- accessibility,1
- blindness,1
- visual impairment,1
-mobile wireless sensor networks,1
- unmanned aerial vehicles,1
- sink platform,1
-google apps,1
- impact,1
- mobile tablet,1
- students of medicine,1
- recovery,1
- cloud based applications,1
- mobile learning and mobile commerce,1
-internet of everything,1
- remote and virtual laboratories,1
-educational application,1
- virsbud.,1
+multi-dimensionalrating,1
+pro-activity,1
+recommendersystem,1
+bandwidth,1
+controlpacket,1
+constraintsviolation,1
+mobiledatabasemodel,1
+objectdatamodel,1
+mobilecontent,1
+mobilenews,1
+mobileadvertising,1
+mobilebooks,1
+mobilemusic,1
+mobilecollaborativelearning,1
+usabilitytest,1
+usabilityfactors,1
+internetofeverything,1
+educationalapplication,1
+virsbud.,1
 email,1
- sender score,1
- reputation system,1
- blockchain,1
- marketing email,1
- semantic web technology,1
- mobile tourist guide,1
-electronic tourist guide,1
- semiotic,1
- graduates of medicine,1
- medical english,1
-multimedia message,1
- message size,1
- mms,1
- client-server application,1
-mobile collaborative learning (mcl),1
- server side architecture,1
- client side  protocol,1
- group application,1
- cache server.,1
-accessibility,1
- assistive technologies,1
- scenarios,1
- trends,1
- development,1
- mobile collaborative learning,1
- usability test,1
- usability factors,1
- game theory,1
- gaming in education,1
- open learner modeling,1
- perfomance-centered learning,1
- technology enhanced learning.,1
- bci,1
- society 5.0 era,1
+senderscore,1
+reputationsystem,1
+marketingemail,1
+md5,1
+chatting,1
+end-to-endsecurity,1
+culturallyappropriatedesign,1
+gdss,1
+iotsolutions,1
+smartsystems,1
+middleware,1
+data-flow,1
+learningactivities,1
+mobilesupportededucation,1
+fingerprint,1
+sdk,1
+biometrics.,1
+officeautomation,1
+diagramrepresentation,1
+communicationsecurity,1
+remoteandvirtuallaboratories,1
+mobilelearningandmobilecommerce,1
+gametheory,1
+cloudbasedapplications,1
+gamingineducation,1
+openlearnermodeling,1
+perfomance-centeredlearning,1
+technologyenhancedlearning.,1
+bci,1
+semiotic,1
+electronictouristguide,1
+mobiletouristguide,1
+semanticwebtechnology,1
+touristinformationsystem,1
+touristapplication.,1
+braille,1
+keyboard,1
+blindness,1
+visualimpairment,1
+mobilewirelesssensornetworks,1
+unmannedaerialvehicles,1
+sinkplatform,1
+googleapps,1
+impact,1
+aphasia,1
+mobiletablet,1
+recovery,1
+society5.0era,1
