@@ -29,13 +29,11 @@ class PapersSpider(scrapy.Spider):
         abstract = response.xpath("//section[@class='item abstract']/p/text()").re('.*')
         abstract2 = response.xpath("//section[@class='item abstract']/text()").re('.*')
         abstract3 = response.xpath("//section[@class='item abstract']/br/text()").re('.*')
-        abstract4 = response.xpath("//section[@class='item abstract']/p/em/text()").re('.*')
         yield {
             'paper_name': paper,
             'keywords_name': keywords,
             'publishing_date': published,
             'abstract': abstract,
             'abstract2': abstract2,
-            'abstract3': abstract3,
-            'abstract4': abstract4
+            'abstract3': abstract3
         }
