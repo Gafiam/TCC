@@ -29,7 +29,6 @@
 7,1,cloudcomputing
 7,2,selfservicetechnologiessst
 7,3,sociotechnologicalissues
-7,4,
 8,0,deeplearning
 8,1,sentimentanalysis
 8,2,twitter
@@ -58,7 +57,6 @@
 14,2,mobilelearning
 14,3,mlearning
 14,4,mobiledevices
-14,5,
 15,0,adaptivesystems
 15,1,informallearning
 15,2,informationretrieval
@@ -161,7 +159,6 @@
 39,1,boardgame
 39,2,designanddevelopmentresearch
 39,3,evaluation
-39,4,
 40,0,aquaticecosystem
 40,1,internetofthings
 40,2,mlp
@@ -223,7 +220,6 @@
 52,4,cybersickness
 52,5,simulatorsickness
 52,6,cybersicknessreductionguidelines
-52,7,
 53,0,literaturereview
 53,1,researchtrends
 53,2,stemeducation
@@ -241,8 +237,6 @@
 56,2,topologybasedroutingprotocol
 56,3,gaussmarkov
 56,4,flyingaltitude
-56,5,
-56,6,
 57,0,kvisoftflipbook
 57,1,creativethinking
 57,2,mathematics
@@ -259,7 +253,6 @@
 59,3,preserviceteachers
 59,4,elearning
 59,5,technologyacceptancemodeltam
-59,6,
 60,0,augmentedreality
 60,1,hologram
 60,2,learningmedia
@@ -389,7 +382,6 @@
 90,2,groupmobility
 90,3,bonnmotionsoftware
 90,4,networksimulation
-90,5,
 91,0,koreanasaforeignlanguage
 91,1,koreanlanguagelearning
 91,2,mobileassistedlanguagelearning
@@ -403,7 +395,6 @@
 93,0,mobilelearning
 93,1,secondaryeducation
 93,2,distanceeducationandonlinelearning
-93,3,
 94,0,socialnetworkssns
 94,1,privacy
 94,2,trust
@@ -423,7 +414,6 @@
 97,1,cloudcomputing
 97,2,rfid
 97,3,wsn
-97,4,
 98,0,humangaitdetection
 98,1,abnormalgait
 98,2,machinelearning
@@ -434,7 +424,6 @@
 99,0,thesimilarities
 99,1,differences
 99,2,midmaturity
-99,3,
 99,4,genderspecificbehaviours
 100,0,softwarequalityassurance
 100,1,softwarequalitystrategy
@@ -448,7 +437,6 @@
 102,2,preschoolstudents
 102,3,readingskills
 102,4,selflearning
-102,5,
 103,0,barcodereader
 103,1,radiofrequencyidentification
 103,2,smartgate
@@ -488,7 +476,6 @@
 110,2,physicalimpairmenttechnology
 110,3,smarthome
 110,4,interfacingesp8266
-110,5,
 111,0,elearning
 111,1,learningmanagementsystems
 111,2,blackboard
@@ -498,7 +485,6 @@
 111,6,sms
 111,7,ttest
 111,8,cnn
-111,9,
 112,0,machinelearning
 112,1,textclassification
 112,2,systemanalyze
@@ -515,7 +501,6 @@
 114,3,facetracking
 114,4,lowcostcamera
 114,5,facemask
-114,6,
 115,0,android
 115,1,cryptography
 115,2,ecc
@@ -556,7 +541,6 @@
 122,0,iot
 122,1,facilitiesmanagement
 122,2,mobileapplication
-122,3,
 123,0,augmentedreality
 123,1,didacticengineering
 123,2,quadricsurfaces
@@ -566,7 +550,6 @@
 124,2,engineeringstudents
 124,3,gender
 124,4,mexico
-124,5,
 125,0,contacttracing
 125,1,uavs
 125,2,covid19
@@ -577,11 +560,9 @@
 126,1,highereducation
 126,2,learningenvironment
 126,3,studentperformance
-126,4,
 127,0,creativethinkingability
 127,1,learningcommunity
 127,2,geogebra
-127,3,
 128,0,cloud
 128,1,computationalthinking
 128,2,criticalthinking
@@ -635,7 +616,6 @@
 139,1,reverseengineering
 139,2,computationalthinking
 139,3,peerlearning
-139,4,
 140,0,ltev
 140,1,bestcqi
 140,2,roundrobin
@@ -654,7 +634,6 @@
 143,2,mentalandphysicalhealth
 143,3,wellbeing
 143,4,bibliometricanalysis
-143,5,
 144,0,bim
 144,1,operationandmaintenance
 144,2,mobileapplicationsoftware
@@ -703,7 +682,6 @@
 153,2,listeningcomprehension
 153,3,elt
 153,4,ruralesl
-153,5,
 154,0,highschool
 154,1,ictbasedintervention
 154,2,interactiveteaching
@@ -731,7 +709,6 @@
 159,1,linguisticintelligence
 159,2,mindfulness
 159,3,coronapandemic
-159,4,
 160,0,3dshapes
 160,1,attitudes
 160,2,geogebra
@@ -793,7 +770,6 @@
 173,2,routingprotocols
 173,3,optimizedlinkstateroutingprotocololsradhocondemanddistancevectoraodv
 173,4,adhocnetwork
-173,5,
 174,0,motorlearning
 174,1,measuringinstruments
 174,2,preschooleducation
@@ -808,7 +784,6 @@
 176,2,technologicalcompetence
 176,3,change
 176,4,professionalization
-176,5,
 177,0,customerreviews
 177,1,informationandcommunicationtechnologyskills
 177,2,multiplecriteriadecisionmaking
@@ -834,7 +809,6 @@
 181,2,imagemarker
 181,3,smartbustransportation
 181,4,mobileapplication
-181,5,
 182,0,dynamicmathematicssoftware
 182,1,polyhedron
 182,2,hungryant
@@ -870,7 +844,6 @@
 187,2,deepneuralnetworks
 187,3,ddos
 187,4,botiot
-187,5,
 188,0,lungdisease
 188,1,machinelearning
 188,2,deeplearning
@@ -889,14 +862,12 @@
 190,2,gfp
 190,3,magicsquare
 190,4,multilevelkey
-190,5,
 191,0,security
 191,1,protection
 191,2,internet
 191,3,smsspam
 191,4,intrusiondetection
 191,5,attacks
-191,6,
 192,0,covid19
 192,1,fuzzycmeanfcm
 192,2,propagationbpclassification
@@ -910,7 +881,6 @@
 194,1,covid19
 194,2,decisiontreealgorithm
 194,3,detectionsystem
-194,4,
 195,0,voip
 195,1,vpn
 195,2,wlan
@@ -955,13 +925,11 @@
 204,7,interoperability
 204,8,mpaymentsecurityandtrust
 204,9,etc
-204,10,
 205,0,elearning
 205,1,mlearning
 205,2,interactivelearning
 205,3,educationsatellite
 205,4,spotbeamcommunication
-205,5,
 206,0,mobilelearning
 206,1,educationalgames
 206,2,mixedreality
@@ -996,7 +964,6 @@
 212,3,educationalsystems
 212,4,evaluationsystems
 212,5,interactiveapplications
-212,6,
 213,0,customerrelationshipmanagement
 213,1,crm
 213,2,electronicbanking
@@ -1020,7 +987,6 @@
 217,1,motivation
 217,2,psychology
 217,3,smslanguage
-217,4,
 218,0,mobilesystems
 218,1,agentbasedsystems
 218,2,eventnotificationsystems
@@ -1032,14 +998,12 @@
 219,4,ebusiness
 219,5,pki
 219,6,anddigitalsignature
-219,7,
 220,0,educationaltechnology
 220,1,mobilelearningmlearning
 220,2,testpreparationtestprep
 220,3,standardizedtest
 220,4,technologyacceptance
 220,5,userinterfaces
-220,6,
 221,0,humanfactors
 221,1,navigation
 221,2,stateofart
@@ -1054,14 +1018,12 @@
 223,3,ontology
 223,4,webservice
 223,5,usabilitystudy
-223,6,
 224,0,elearning
 224,1,satellitetv
 224,2,iptv
 224,3,elearningstrategy
 224,4,interactivetv
 224,5,videoondemandvod
-224,6,
 225,0,apilibrary
 225,1,collaborativelearning
 225,2,mlearning
@@ -1087,8 +1049,6 @@
 230,0,mobilelearning
 230,1,distanceeducation
 230,2,sms
-230,3,
-230,4,
 231,0,humancomputerinteraction
 231,1,operationalresearch
 231,2,mobiledigitaltelevision
@@ -1122,12 +1082,10 @@
 237,2,theoryofplannedbehaviortpb
 237,3,technologyacceptancemodeltam
 237,4,trusttmb
-237,5,
 238,0,collaboration
 238,1,context
 238,2,mobilelearning
 238,3,learningcontent
-238,4,
 239,0,elearning
 239,1,mlearning
 239,2,mobiletechnology
@@ -1136,7 +1094,6 @@
 240,1,wirelesssensornetwork
 240,2,qualityofservice
 240,3,diffservandmpls
-240,4,
 241,0,ber
 241,1,tdd
 241,2,mccdma
@@ -1146,14 +1103,12 @@
 242,1,envelopepwriteprotocol
 242,2,expectedandaverageexpectedcost
 242,3,peerconnectedset
-242,4,
 243,0,computer
 243,1,microcontroller
 243,2,amplitudeshiftkeying
 243,3,transmitter
 243,4,receiver
 243,5,antenna
-243,6,
 244,0,informationsystemsembeddedapplication
 244,1,intelligentsensors
 244,2,wirelesssensornetwork
@@ -1165,7 +1120,6 @@
 245,1,integrityconstraints
 245,2,integritytests
 245,3,datacaching
-245,4,
 246,0,neuralnetwork
 246,1,ldpccodes
 246,2,robot
@@ -1187,7 +1141,6 @@
 250,1,mlearning
 250,2,collaborativelearning
 250,3,mobilecomputing
-250,4,
 251,0,elearning
 251,1,education
 251,2,adhocnetworks
@@ -1207,13 +1160,11 @@
 253,1,mobilelearningcontent
 253,2,adaptation
 253,3,computerbasedtrainingcbt
-253,4,
 254,0,computerassistedmobilelearning
 254,1,distanceeducationleadership
 254,2,technologyenhancedlearningmanagementsystem
 254,3,publicuniversities
 254,4,quality
-254,5,
 255,0,mlearning
 255,1,mobileblog
 255,2,nomadism
@@ -1224,7 +1175,6 @@
 257,1,augmentedreality
 257,2,genredesign
 257,3,iphone
-257,4,
 258,0,mobilelearning
 258,1,blendedlearning
 258,2,highereducation
@@ -1264,7 +1214,6 @@
 266,2,mobileconferencing
 266,3,peertopeergroupcommunication
 266,4,distributedsipconferencemanagement
-266,5,
 267,0,mlearning
 267,1,ggsn
 267,2,elearning
@@ -1281,12 +1230,10 @@
 270,2,mobilelearning
 270,3,pdapersonaldigitalassistant
 270,4,web20
-270,5,
 271,0,nextgenerationcommerce
 271,1,nextgenerationinternet
 271,2,nextgenerationmobile
 271,3,nextgenerationcommercetechnologies
-271,4,
 272,0,citywidelearning
 272,1,collaborativelearning
 272,2,learningscenarios
@@ -1299,7 +1246,6 @@
 273,5,servicedescription
 273,6,servicerequirement
 273,7,taskmethodparadigm
-273,8,
 274,0,mobilelearning
 274,1,educationalgames
 274,2,languagelearning
@@ -1324,7 +1270,6 @@
 278,3,moodle
 278,4,mmwcl
 278,5,xml
-278,6,
 279,0,educationalsystems
 279,1,affectivecomputing
 279,2,mobilesystems
@@ -1342,8 +1287,6 @@
 282,2,mobilelearning
 282,3,learnercontext
 282,4,lip
-282,5,
-282,6,
 283,0,nomadiclearning
 283,1,mobilelearning
 283,2,contextawareness
@@ -1415,7 +1358,6 @@
 295,3,pointofinspiration
 295,4,snippets
 295,5,collectiveintelligence
-295,6,
 296,0,collaboration
 296,1,construction
 296,2,mobile
@@ -1438,7 +1380,6 @@
 300,1,mobility
 300,2,mlearning
 300,3,rfid
-300,4,
 301,0,elearning
 301,1,collaboration
 301,2,conferences
@@ -1477,7 +1418,6 @@
 307,1,mobileweb
 307,2,mobileapplicationsdevelopment
 307,3,mlearning
-307,4,
 308,0,mobilecomputing
 308,1,industrialapplications
 308,2,mobilemeasurementtechnologies
@@ -1533,14 +1473,12 @@
 319,2,mobilebasedapplication
 319,3,smartmobilephones
 319,4,nonverbal
-319,5,
 320,0,contextawarecomputing
 320,1,bluetooth
 320,2,wifi
 320,3,proximity
 320,4,socialnetworks
 320,5,datamining
-320,6,
 321,0,mms
 321,1,mobiletelemedicinesystem
 321,2,multimediamessage
@@ -1590,8 +1528,6 @@
 333,1,mobileapplications
 333,2,mobilelearning
 333,3,onlineapplications
-333,4,
-333,5,
 334,0,appdevelopment
 334,1,learningprocess
 334,2,mobiledocumentation
@@ -1610,7 +1546,6 @@
 336,5,onlinelabs
 336,6,fpga
 336,7,elvis
-336,8,
 337,0,onlinelab
 337,1,pidcontroller
 337,2,temperaturesystem
@@ -1630,13 +1565,10 @@
 340,2,labview
 340,3,oscillatorexperiment
 340,4,remotelaboratories
-340,5,
 341,0,esienceproject
 341,1,heatexchanger
 341,2,maghreb
 341,3,remotelab
-341,4,
-341,5,
 342,0,blendedlearning
 342,1,mobilelearning
 342,2,technologyadoption
@@ -1644,7 +1576,6 @@
 343,1,multitasking
 343,2,impactonstudentslearning
 343,3,mobilephoneactionsinclassroom
-343,4,
 344,0,mobilelearning
 344,1,mobilelanguagelearning
 344,2,mobilelearningapplication
@@ -1656,20 +1587,15 @@
 346,1,addiction
 346,2,humanbehavior
 346,3,technologysocialfactors
-346,4,
 347,0,telehomecare
 347,1,interagentcommunication
 347,2,electronicmedicalrecord
 347,3,informationandcommunicationtechnologies
-347,4,
-347,5,
 348,0,visuallyimpared
 348,1,educational
 348,2,audiobooks
 348,3,portal
 348,4,vui
-348,5,
-348,6,
 349,0,geneticalgorithm
 349,1,crossover
 349,2,mutation
@@ -1684,7 +1610,6 @@
 351,3,saudiarabia
 351,4,smartphone
 351,5,tam
-351,6,
 352,0,mobilelearning
 352,1,englishlanguage
 352,2,grammar
@@ -1715,7 +1640,6 @@
 356,1,ecommerce
 356,2,europeinternetshopping
 356,3,ebusiness
-356,4,
 357,0,liquidspheres
 357,1,operativesystems
 357,2,privacy
@@ -1737,7 +1661,6 @@
 361,1,electroniclearningelearning
 361,2,mobilewireless
 361,3,studentsperceptions
-361,4,
 362,0,dijkstrasshortestpathalgorithm
 362,1,mobiledevices
 362,2,mobileuserinterface
@@ -1746,7 +1669,6 @@
 363,0,augmentedreality
 363,1,leanmanufacturing
 363,2,mobiledeviceandmudawaste
-363,3,
 364,0,orthogonalfrequencydivisionmultiplexing
 364,1,peaktoaveragepowerratio
 364,2,discretewavelettransform
@@ -1761,8 +1683,6 @@
 366,1,educationaltechnology
 366,2,physicseducation
 366,3,sensors
-366,4,
-366,5,
 367,0,contextengine
 367,1,contextawareservices
 367,2,mobilecomputing
@@ -1780,7 +1700,6 @@
 370,1,solarobservation
 370,2,solardiurnalmotion
 370,3,3dcontent
-370,4,
 371,0,mobilelearning
 371,1,attitudes
 371,2,faculty
@@ -1804,7 +1723,6 @@
 375,0,socialnetworks
 375,1,digitalcommunication
 375,2,emarketing
-375,3,
 376,0,mobilemedia
 376,1,mobileecosystem
 376,2,app
@@ -1815,8 +1733,6 @@
 377,2,gamebasedlearning
 377,3,card
 377,4,mobilelearning
-377,5,
-377,6,
 378,0,mobileapplicationsandservices
 378,1,mlearning
 378,2,androidos
@@ -1841,7 +1757,6 @@
 383,0,mlearning
 383,1,tablets
 383,2,socialconstructivelearning
-383,3,
 384,0,sustainability
 384,1,mobilelearning
 384,2,smartphones
@@ -1871,7 +1786,6 @@
 389,1,mhealth
 389,2,nfc
 389,3,qrcodes
-389,4,
 390,0,mobiletagging
 390,1,nfc
 390,2,qrcode
@@ -1879,7 +1793,6 @@
 391,0,mlearning
 391,1,inferentialstatistics
 391,2,learningobjects
-391,3,
 392,0,highschool
 392,1,studentengagement
 392,2,mobiledevices
@@ -1899,7 +1812,6 @@
 395,2,performanceexpectancype
 395,3,effortexpectancyee
 395,4,socialinfluencesiandfacilitatingconditionfc
-395,5,
 396,0,virtuallaboratory
 396,1,wirelesscommunications
 396,2,sensornetworks
@@ -1912,7 +1824,6 @@
 398,2,peaktoaveragepowerratio
 398,3,wavelet
 398,4,eigenvectorscomponent
-398,5,
 399,0,decisionsupport
 399,1,elearning
 399,2,mobile
@@ -1951,15 +1862,12 @@
 406,0,mobilephone
 406,1,mobilephoneusage
 406,2,studentsattitudes
-406,3,
-406,4,
 407,0,ber
 407,1,demodulator
 407,2,eyepattern
 407,3,matlab
 407,4,modulator
 407,5,qpsk
-407,6,
 408,0,mobilenotification
 408,1,socialnetworkservicesns
 408,2,fieldstudy
@@ -2004,7 +1912,6 @@
 414,3,educationalapplications
 414,4,elearning
 414,5,mlearning
-414,6,
 415,0,classroom
 415,1,mobile
 415,2,learning
@@ -2018,7 +1925,6 @@
 417,1,systemflexibility
 417,2,utaut
 417,3,webbasedtraining
-417,4,
 418,0,mobiletechnologies
 418,1,mobilephones
 418,2,informallearning
@@ -2063,7 +1969,6 @@
 426,1,mobilecollaborativelearningobjects
 426,2,collaborativelearning
 426,3,informallearning
-426,4,
 427,0,mobiletracking
 427,1,architecture
 427,2,softwarealgorithms
@@ -2078,7 +1983,6 @@
 429,1,proximity
 429,2,contextaware
 429,3,indoorpositioning
-429,4,
 430,0,multiagent
 430,1,multidimensionalrating
 430,2,proactivity
@@ -2086,7 +1990,6 @@
 431,0,electroniclearning
 431,1,mobilecomputing
 431,2,statistics
-431,3,
 432,0,bandwidth
 432,1,performance
 432,2,wirelessmeshnetwork
@@ -2142,7 +2045,6 @@
 442,3,clientsideprotocol
 442,4,groupapplication
 442,5,cacheserver
-442,6,
 443,0,accessibility
 443,1,assistivetechnologies
 443,2,scenarios
@@ -2155,8 +2057,6 @@
 445,1,mobilecollaborativelearning
 445,2,usabilitytest
 445,3,usabilityfactors
-445,4,
-445,5,
 446,0,mobiledevices
 446,1,gametheory
 446,2,gamingineducation
@@ -2169,7 +2069,6 @@
 448,1,mobilelearning
 448,2,perfomancecenteredlearning
 448,3,technologyenhancedlearning
-448,4,
 449,0,mlearning
 449,1,bci
 449,2,semiotic
@@ -2178,7 +2077,6 @@
 450,2,semanticwebtechnology
 450,3,touristinformationsystem
 450,4,touristapplication
-450,5,
 451,0,braille
 451,1,android
 451,2,keyboard
@@ -2194,7 +2092,6 @@
 453,1,impact
 453,2,highereducation
 453,3,oman
-453,4,
 454,0,aphasia
 454,1,mobiletablet
 454,2,recovery
@@ -2211,7 +2108,6 @@
 457,1,englishlanguagelearning
 457,2,speakingskills
 457,3,virsbud
-457,4,
 458,0,email
 458,1,spamdetection
 458,2,senderscore
@@ -2247,7 +2143,6 @@
 464,2,sdk
 464,3,interoperability
 464,4,biometrics
-464,5,
 465,0,internetofthingsiot
 465,1,nodemcu
 465,2,officeautomation
@@ -2298,7 +2193,6 @@
 475,2,spoc
 475,3,mobileapp
 475,4,isostandards
-475,5,
 476,0,tablet
 476,1,primarylevels
 476,2,thailand
@@ -2390,8 +2284,6 @@
 495,2,usercentereddesign
 495,3,emergencycall
 495,4,theiconographyinterface
-495,5,
-495,6,
 496,0,mobileapplication
 496,1,onlinetransportationapplication
 496,2,fraudmitigation
@@ -2410,7 +2302,6 @@
 498,6,labcolor
 498,7,opencv
 498,8,android
-498,9,
 499,0,blendedlearning
 499,1,skypemedia
 499,2,academicwriting
@@ -2458,8 +2349,6 @@
 508,1,secondaryeducation
 508,2,highorderthinkingskills
 508,3,specialeducation
-508,4,
-508,5,
 509,0,prehospital
 509,1,mobilebasedapplication
 509,2,roadtrafficaccidentsvictimscare
@@ -2468,12 +2357,10 @@
 510,2,behavioralintentions
 510,3,nursingstaff
 510,4,tam
-510,5,
 511,0,gesturerecognition
 511,1,imageprocessing
 511,2,signlanguage
 511,3,videoprocessing
-511,4,
 512,0,stem
 512,1,mobilelearning
 512,2,mobiledevices
@@ -2518,7 +2405,6 @@
 521,1,structuresofdatacenternetworks
 521,2,networkmanagement
 521,3,routingindatacenternetworks
-521,4,
 522,0,augmentedreality
 522,1,gyroscope
 522,2,dewatanawasanga
@@ -2536,13 +2422,11 @@
 524,2,artificialintelligence
 524,3,kmeans
 524,4,cnnandctscan
-524,5,
 525,0,mrom
 525,1,manemo
 525,2,ro
 525,3,multihomed
 525,4,handoff
-525,5,
 526,0,mobileaugmentedreality
 526,1,learningmotivation
 526,2,scienceexperiment
@@ -2552,7 +2436,6 @@
 527,2,virtualcoaching
 527,3,avatar
 527,4,anxiety
-527,5,
 528,0,floodmanagement
 528,1,floodearlywarningsystem
 528,2,decisionsupportsystem
@@ -2562,19 +2445,16 @@
 529,2,halal
 529,3,awareness
 529,4,mobileapplication
-529,5,
 530,0,websitesecommerceplatform
 530,1,informationquality
 530,2,interview
 530,3,halal
 530,4,ecommerce
-530,5,
 531,0,marhimeconceptualmodel
 531,1,hearingimpaired
 531,2,mobileaugmentedreality
 531,3,engagement
 531,4,museum
-531,5,
 532,0,systematicliteraturereview
 532,1,engagementelement
 532,2,mobileaugmentedreality
@@ -2583,26 +2463,22 @@
 533,1,consumersbelieve
 533,2,consumerattitude
 533,3,mservices
-533,4,
 534,0,citizenssatisfaction
 534,1,mcommerce
 534,2,intentiontouse
 534,3,trust
 534,4,easeofuse
-534,5,
 535,0,roadsideunits
 535,1,cyberattacks
 535,2,aodv
 535,3,vanet
 535,4,spam
-535,5,
 536,0,blockchain
 536,1,transactions
 536,2,decentralizedarchitecture
 536,3,fakedrugs
 536,4,smartcontract
 536,5,ethereum
-536,6,
 537,0,artificialintelligence
 537,1,smartphones
 537,2,mobilecomputing
@@ -2645,7 +2521,6 @@
 544,5,simulation
 544,6,ns2
 544,7,topology
-544,8,
 545,0,websiteusability
 545,1,websiteinteractivity
 545,2,engagement
@@ -2659,7 +2534,6 @@
 547,1,housingquality
 547,2,informationtechnology
 547,3,mobileapplication
-547,4,
 548,0,elearningcourse
 548,1,indoorenvironmentalcomfortinbuildings
 548,2,moodle
@@ -2710,7 +2584,6 @@
 559,1,eevaluation
 559,2,highereducation
 559,3,oman
-559,4,
 560,0,privacyconcerns
 560,1,purchaseintention
 560,2,theoryofplannedbehavior
@@ -2765,8 +2638,6 @@
 570,7,standardsbasedinstruction
 570,8,computerassistedinstruction
 570,9,intelligenttutoringsystems
-570,10,
-570,11,
 571,0,medication
 571,1,mobileapplication
 571,2,pharmacy
@@ -2816,7 +2687,6 @@
 580,7,shortestpath
 580,8,turtle
 580,9,userprofile
-580,10,
 581,0,mobilelearning
 581,1,authenticlearning
 581,2,collaborativelearning
@@ -2839,7 +2709,6 @@
 585,1,arabiclanguageprocessing
 585,2,classifiedads
 585,3,attributebasedsearching
-585,4,
 586,0,dnasteganography
 586,1,hidingcapacity
 586,2,datahiding
@@ -2848,7 +2717,6 @@
 587,1,quantumcomputation
 587,2,biocomputer
 587,3,molecularcomputation
-587,4,
 588,0,sentimentanalysis
 588,1,opinionmining
 588,2,instagram
@@ -2858,7 +2726,6 @@
 589,1,multimedia
 589,2,ontology
 589,3,specialeducation
-589,4,
 590,0,bigdata
 590,1,cloudcomputing
 590,2,analytics
@@ -2882,7 +2749,6 @@
 594,2,positionbased
 594,3,routing
 594,4,topologybased
-594,5,
 595,0,manets
 595,1,dsrprotocol
 595,2,multipath
@@ -2894,7 +2760,6 @@
 596,2,softwareengineering
 596,3,childcomputerinteractioncci
 596,4,mobilelearning
-596,5,
 597,0,mobiletelemonitoringsystem
 597,1,healthcare
 597,2,webbasedframework
@@ -2921,8 +2786,6 @@
 599,11,tablet
 599,12,smartphone
 599,13,childrenwithautism
-599,14,
-599,15,
 600,0,mlearning
 600,1,survey
 600,2,mobiledevice
@@ -2935,7 +2798,6 @@
 602,1,medicalservices
 602,2,pervasivecomputing
 602,3,ubiquitouscomputing
-602,4,
 603,0,preschooleducation
 603,1,mobilelearning
 604,0,mobilelearning
@@ -2943,7 +2805,6 @@
 604,2,educationalontology
 604,3,multimedia
 604,4,education
-604,5,
 605,0,android
 605,1,balinesetraditionalfood
 605,2,recursivealgorithm
@@ -2971,7 +2832,6 @@
 610,0,skiingingjuries
 610,1,mobileapps
 610,2,skipatroller
-610,3,
 611,0,mobilegameapplication
 611,1,autismspectrumdisorder
 611,2,interactive
@@ -2986,18 +2846,15 @@
 613,3,coursemanagementsystem
 613,4,mlearning
 613,5,semanticweb
-613,6,
 614,0,mobilecloudcomputing
 614,1,mlearning
 614,2,dlearning
 614,3,elearning
 614,4,xml
-614,5,
 615,0,mobileservices
 615,1,androidsystems
 615,2,pushnotifications
 615,3,realtimeinformation
-615,4,
 616,0,headmounteddisplay
 616,1,accelerometer
 616,2,headmotionestimation
@@ -3027,7 +2884,6 @@
 621,2,humancomputerinteractionhci
 621,3,seriousgames
 621,4,graphicaluserinterfacegui
-621,5,
 622,0,apps
 622,1,fashionapps
 622,2,mobilemedia
@@ -3071,8 +2927,6 @@
 631,0,preschooleducation
 631,1,mobilelearning
 631,2,specialeducation
-631,3,
-631,4,
 632,0,mobileaugmentedbook
 632,1,mlearning
 632,2,mobilelearningmanagementsystem
@@ -3107,7 +2961,6 @@
 638,3,fullword
 638,4,slang
 638,5,android
-638,6,
 639,0,augmentedreality
 639,1,handanatomy
 639,2,leapmotion
@@ -3124,7 +2977,6 @@
 642,2,conditionaltransmission
 642,3,networklifetime
 642,4,bodysensors
-642,5,
 643,0,monitoringandcontrolling
 643,1,powerelectricsystem
 643,2,smarthome
@@ -3133,7 +2985,6 @@
 644,1,communicationchallenges
 644,2,projectmanagement
 644,3,industrialisedbuildingsystemibs
-644,4,
 645,0,technology
 645,1,mobile
 645,2,thailand
@@ -3156,8 +3007,6 @@
 650,1,phishing
 650,2,datamining
 650,3,webbasedphishingattack
-650,4,
-650,5,
 651,0,communications
 651,1,modelling
 651,2,indoorenvironment
@@ -3168,7 +3017,6 @@
 652,2,studentperceptions
 652,3,studentpreferences
 652,4,universityofforthare
-652,5,
 653,0,elearning
 653,1,educationforall
 653,2,nonformaleducation
@@ -3184,7 +3032,6 @@
 655,1,adoption
 655,2,gammodel
 655,3,utautmodel
-655,4,
 656,0,socialmedia
 656,1,conceptualmodel
 656,2,content
@@ -3199,7 +3046,6 @@
 657,2,sourceandtargetlanguages
 657,3,culturaldifferences
 657,4,uae
-657,5,
 658,0,cognitiveflexibility
 658,1,mobilephones
 658,2,ict
@@ -3223,7 +3069,6 @@
 661,2,highereducation
 661,3,employability
 661,4,humanresources
-661,5,
 662,0,abstractthisstudyaimstorevealstudentsprofileofdigitalethicsinsurakartacity
 662,1,indonesiacurrenttechnologicaltrendsgeneratesignificantimplicationsforthetechnologicaldigitalizationstoallpartsofhumanlivesinformationandcommu
 663,0,anonymousquestionraising
@@ -3244,7 +3089,6 @@
 666,0,elearningsystem
 666,1,actualuse
 666,2,saudiuniversities
-666,3,
 667,0,mobileapps
 667,1,autism
 667,2,socialskills
@@ -3265,7 +3109,6 @@
 670,4,antcolonyoptimization
 670,5,smartmobility
 670,6,intelligentmobility
-670,7,
 671,0,smartphoneapplication
 671,1,carsafe
 671,2,sensor
@@ -3284,8 +3127,6 @@
 674,1,motorbike
 674,2,acceleration
 674,3,android
-674,4,
-674,5,
 675,0,gamification
 675,1,mobile
 675,2,questionnaire
@@ -3323,7 +3164,6 @@
 681,0,internetofthingsiot
 681,1,powermanagement
 681,2,globalsystemformobilecommunicationgsm
-681,3,
 682,0,theatricalactivities
 682,1,roleplay
 682,2,smartphonevideo
@@ -3339,7 +3179,6 @@
 684,2,attacks
 684,3,blackholeattack
 684,4,noxiousnode
-684,5,
 685,0,mlearning
 685,1,ecg
 685,2,arrhythmia
@@ -3356,7 +3195,6 @@
 688,3,userresponse
 688,4,offlinemode
 688,5,firebase
-688,6,
 689,0,foreignlanguage
 689,1,listeningcomprehension
 689,2,learning
@@ -3388,7 +3226,6 @@
 693,2,featureselection
 693,3,randomforest
 693,4,multilayerperceptron
-693,5,
 694,0,mlearning
 694,1,framework
 694,2,integration
@@ -3396,19 +3233,16 @@
 695,0,databasemanipulation
 695,1,homomorphicencryption
 695,2,pailliersencryptionalgorithm
-695,3,
 696,0,virtualinstrument
 696,1,handgesture
 696,2,traditionalmusic
 696,3,headmounteddisplayhmd
-696,4,
 697,0,nameddatanetworking
 697,1,contentcentricnetworking
 697,2,informationcentricnetwork
 697,3,cachingrouter
 697,4,clusteringmethods
 697,5,analytichierarchyprocess
-697,6,
 698,0,mobileweb
 698,1,evaluationapplication
 698,2,countenance
@@ -3449,11 +3283,9 @@
 705,2,usability
 705,3,artificialintelligence
 705,4,developingcountries
-705,5,
 706,0,conferencepaper
 706,1,knowledgemanagement
 706,2,mobileapplication
-706,3,
 707,0,mediacompetence
 707,1,mediaeducation
 707,2,multimediatools
@@ -3469,7 +3301,6 @@
 708,6,servicequality
 708,7,structureequationmodelingplssem
 708,8,emiratesuniversities
-708,9,
 709,0,applicationprogramminginterface
 709,1,bigdata
 709,2,floodforecasting
@@ -3509,7 +3340,6 @@
 717,1,financialtechnology
 717,2,digitaleconomy
 717,3,deafness
-717,4,
 718,0,mobileexperience
 718,1,thinkaloudprotocol
 718,2,usabilityevaluation
@@ -3544,7 +3374,6 @@
 725,0,mlearning
 725,1,smartphones
 725,2,ict
-725,3,
 726,0,bagging
 726,1,boosting
 726,2,dataanalysis
@@ -3552,7 +3381,6 @@
 726,4,mobileintelligentsystem
 726,5,machinelearningtechniques
 726,6,rainfallpredictionsvm
-726,7,
 727,0,mobilelearning
 727,1,augmentedreality
 727,2,arcweldinglearning
@@ -3562,13 +3390,11 @@
 728,1,distributeddenialofserviceattacks
 728,2,flashcrowds
 728,3,andtrafficcongestion
-728,4,
 729,0,wirelesssensornetworkswsn
 729,1,asrcrouting
 729,2,clusterheadchselection
 729,3,replication
 729,4,datacommunication
-729,5,
 730,0,assistivemobilehealthapplications
 730,1,cognitivedecline
 730,2,olderadults
@@ -3581,7 +3407,6 @@
 731,5,perceivedeaseofuse
 731,6,subjectivenorm
 731,7,facilitatingconditions
-731,8,
 732,0,mobileapplication
 732,1,realisticmathematics
 732,2,creativethinkingability
@@ -3600,7 +3425,6 @@
 735,5,mobilepayment
 735,6,mpayment
 735,7,thailand
-735,8,
 736,0,autoreplysystem
 736,1,smsbasedsystem
 736,2,systemperformance
@@ -3653,12 +3477,10 @@
 747,0,gamification
 747,1,mobiledigitalcontentapplicationsmdca
 747,2,psychologicalwellbeingpwb
-747,3,
 748,0,mobilevideoplatform
 748,1,segmentation
 748,2,questionlocation
 748,3,recall
-748,4,
 749,0,mlearning
 749,1,esp
 749,2,mobileinstruction
@@ -3756,14 +3578,12 @@
 769,2,mlearning
 769,3,hypothesistest
 769,4,statistics
-769,5,
 770,0,thesissupervisionsystem
 770,1,highereducation
 770,2,mobilelearning
 770,3,mobileapplication
 770,4,studentadvisorcommunication
 770,5,peercollaboration
-770,6,
 771,0,drugs
 771,1,evaluation
 771,2,instruction
@@ -3784,7 +3604,6 @@
 774,2,networkingquality
 774,3,servicequality
 774,4,informationquality
-774,5,
 775,0,android
 775,1,jemasik
 775,2,graphicrepresentation
@@ -3809,7 +3628,6 @@
 780,0,highereducationinstitution
 780,1,keyperformanceindicator
 780,2,multicriteriadecisionmakingproblemmcdm
-780,3,
 781,0,manet
 781,1,selfishnodes
 781,2,fading
@@ -3821,7 +3639,6 @@
 782,2,usability
 782,3,interactiondesign
 782,4,assistivecourseware
-782,5,
 783,0,corporatesocialresponsibility
 783,1,changluncommunity
 783,2,accesslog
@@ -3833,12 +3650,10 @@
 784,2,mhealthapplication
 784,3,smartphone
 784,4,mobilepeersupport
-784,5,
 785,0,diffusion
 785,1,lightweighthashingtechniques
 785,2,mersennenumber
 785,3,energyefficiency
-785,4,
 786,0,buildingtrust
 786,1,marketplaces
 786,2,trust
@@ -3896,7 +3711,6 @@
 797,1,mathematicalmodelling
 797,2,teachereducation
 797,3,preserviceteacher
-797,4,
 798,0,intentiontouse
 798,1,peruvianstudents
 798,2,technologyacceptancemodel
@@ -3906,7 +3720,6 @@
 799,2,medicalimaging
 799,3,raycasting
 799,4,raytracing
-799,5,
 800,0,mobilecloudcomputing
 800,1,movingmobilestorage
 800,2,rest
@@ -3920,7 +3733,6 @@
 802,1,locationprivacy
 802,2,mobilesensornetworks
 802,3,locationmonitoringsystems
-802,4,
 803,0,touchscreeninterface
 803,1,2dtouch
 803,2,3dtouch
@@ -3957,8 +3769,6 @@
 809,4,crowdrequirementsengineering
 809,5,survey
 809,6,perception
-809,7,
-809,8,
 810,0,googleplaystore
 810,1,installationdecision
 810,2,photographyapplications
@@ -4038,7 +3848,6 @@
 824,4,unity3d
 824,5,blender
 824,6,learningmedia
-824,7,
 825,0,peerinstruction
 825,1,higherorderthinkingskills
 825,2,onlinesociallearning
@@ -4113,13 +3922,11 @@
 841,1,highereducation
 841,2,teachingandlearning
 841,3,bibliometricanalysis
-841,4,
 842,0,wirelesssensornetwork
 842,1,rts
 842,2,cts
 842,3,udp
 842,4,tcp
-842,5,
 843,0,mobilelearning
 843,1,studentgeneratedactivities
 843,2,mobileethics
@@ -4154,7 +3961,6 @@
 851,1,codec
 851,2,orthogonalfrequencydivisionmultiplexing
 851,3,modelling
-851,4,
 852,0,adhocnetworks
 852,1,manet
 852,2,vanet
@@ -4189,62 +3995,52 @@
 858,3,learningoutcomes
 858,4,students
 858,5,teachers
-858,6,
 859,0,highereducation
 859,1,entrepreneurshipeducation
 859,2,mobilelearning
 859,3,globalization
 859,4,informationandcommunicationtechnologies
-859,5,
 860,0,innovationactivityassessment
 860,1,mobilelearning
 860,2,projectrisk
 860,3,riskassessment
 860,4,technicalspecialist
-860,5,
 861,0,digitaleconomy
 861,1,entrepreneurship
 861,2,mobilelearning
 861,3,mobilelearningplatforms
-861,4,
 862,0,cognitivism
 862,1,mobilelearning
 862,2,educationaldesign
 862,3,extraneouscognitiveloadecl
 862,4,germanecognitiveloadgcl
-862,5,
 863,0,intensivetraining
 863,1,mobilelearning
 863,2,motivation
 863,3,preparedandunpreparedspeech
 863,4,projectwork
-863,5,
 864,0,mobilelearning
 864,1,traditionallearning
 864,2,mlearning
 864,3,trainingprograms
 864,4,economicsapplications
 864,5,gamificationoflearning
-864,6,
 865,0,blog
 865,1,mobilelearning
 865,2,journalism
 865,3,learningeffectiveness
 865,4,onlinemedia
-865,5,
 866,0,mobilelearning
 866,1,mobiletechnology
 866,2,personalizedlearning
 866,3,smartphone
 866,4,tablet
-866,5,
 867,0,collaborativelearning
 867,1,distancelearning
 867,2,elearning
 867,3,mobilelearning
 867,4,onlinelearning
 867,5,smartphone
-867,6,
 868,0,softwaredevelopment
 868,1,gamedevelopment
 868,2,industry40
@@ -4272,7 +4068,6 @@
 873,2,2ndgenerationsosie
 873,3,behavioraltests
 873,4,humanresources
-873,5,
 874,0,interactivemobilelearning
 874,1,android
 874,2,analysis
@@ -4281,7 +4076,6 @@
 875,0,mlearning
 875,1,tqmclassroom
 875,2,communications
-875,3,
 876,0,divayanaformula
 876,1,platforms
 876,2,onlinelearning
@@ -4308,7 +4102,6 @@
 881,1,researchanddevelopment
 881,2,immunesystem
 881,3,validation
-881,4,
 882,0,mobileapp
 882,1,netpromoterscore
 882,2,smartphoneapp
@@ -4367,7 +4160,6 @@
 894,6,tunnel
 894,7,ikpsk2
 894,8,vpnperformance
-894,9,
 895,0,multirobotics
 895,1,pathplanningpp
 895,2,acoalgorithm
@@ -4381,7 +4173,6 @@
 897,3,pdr
 897,4,e2edelay
 897,5,nrl
-897,6,
 898,0,bigdatamaturitymodel
 898,1,bigdatasmes
 898,2,bdmmmobileapplication
@@ -4450,7 +4241,6 @@
 913,2,mobilephone
 913,3,psycholoneliness
 913,4,learning
-913,5,
 914,0,mobileapplication
 914,1,visuallyimpaired
 914,2,emailing
@@ -4458,19 +4248,16 @@
 914,4,speechtotextconversion
 914,5,outdoornavigation
 914,6,schedulemanagement
-914,7,
 915,0,augmentedrealityar
 915,1,mobilelearningapplication
 915,2,hajj
 915,3,children
 915,4,earlychildhoodeducation
-915,5,
 916,0,handwrittenarabictext
 916,1,holisticrecognition
 916,2,localbinarypattern
 916,3,supportvectormachines
 916,4,artificialneuralnetwork
-916,5,
 917,0,iot
 917,1,waterqualitymonitoring
 917,2,gsm
@@ -4483,11 +4270,9 @@
 919,0,instantmessaging
 919,1,useofinstantmessagingforacademicpurpose
 919,2,technologyacceptancemodel
-919,3,
 920,0,gamegenres
 920,1,comparinggamegenres
 920,2,evolutionofgamegenres
-920,3,
 921,0,customerclassification
 921,1,boosting
 921,2,c45decisiontree
@@ -4522,7 +4307,6 @@
 928,2,gesturerecognition
 928,3,smartphoneapplication
 928,4,smarthome
-928,5,
 929,0,dyslexia
 929,1,learningstyle
 929,2,adaptivity
@@ -4535,7 +4319,6 @@
 930,4,bovineproductionsystem
 930,5,systemdynamics
 930,6,seriousvideogame
-930,7,
 931,0,researchcompetence
 931,1,mobileeducation
 931,2,ict
@@ -4578,7 +4361,6 @@
 939,4,decomposition
 939,5,generalization
 939,6,jordan
-939,7,
 940,0,interactivemobileapplication
 940,1,educationaltechnology
 940,2,literacy
@@ -4610,8 +4392,6 @@
 945,4,unity3d
 945,5,vuforia
 945,6,physics
-945,7,
-945,8,
 946,0,digitalcompetence
 946,1,innovation
 946,2,motivation
@@ -4663,7 +4443,6 @@
 956,3,gpsr
 956,4,diffiehellman
 956,5,hmac
-956,6,
 957,0,smartphoneapps
 957,1,pushnotifications
 957,2,consumeracceptance
@@ -4674,7 +4453,6 @@
 958,3,odkx
 958,4,kobotoolbox
 958,5,pendragonforms
-958,6,
 959,0,msw
 959,1,iot
 959,2,solidwaste
@@ -4689,7 +4467,6 @@
 961,1,mobilecloudcomputing
 961,2,resourcemigration
 961,3,scalablecloudlet
-961,4,
 962,0,virtuallearning
 962,1,mooc
 962,2,pancasilaeducation
@@ -4742,7 +4519,6 @@
 975,2,bigdata
 975,3,coordination
 975,4,cloudcomputing
-975,5,
 976,0,pseudorandomreconstruction
 976,1,radiocommunicationdevice
 976,2,overheatability
@@ -4772,7 +4548,6 @@
 982,0,design
 982,1,humancomputerinterface
 982,2,mobilesdevices
-982,3,
 983,0,learningattitudes
 983,1,learningmotivations
 983,2,localwisdomforms
@@ -4804,7 +4579,6 @@
 989,2,deeplearning
 989,3,lstm
 989,4,prediction
-989,5,
 990,0,elearning
 990,1,learningmanagementsystems
 990,2,usability
@@ -4832,12 +4606,10 @@
 995,1,conceptdrift
 995,2,conceptdriftdetection
 995,3,datastreamclassification
-995,4,
 996,0,twitter
 996,1,characteristicsofinfluencers
 996,2,entrepreneurialinfluencers
 996,3,robustrankedlist
-996,4,
 997,0,dynamicalsystems
 997,1,optimalcontrol
 997,2,selforganization
@@ -4849,7 +4621,6 @@
 998,2,offlinecalculations
 998,3,googlemaps
 998,4,aalgorithm
-998,5,
 999,0,phplanguage
 999,1,soapstrategy
 999,2,sakaisystem
@@ -4861,12 +4632,10 @@
 1000,2,qosschedulingalgorithms
 1000,3,proportionalfairpf
 1000,4,rootmeansquarerms
-1000,5,
 1001,0,ubiquitoussensors
 1001,1,pedestriandeadreckoning
 1001,2,kalmanfilter
 1001,3,gps
-1001,4,
 1002,0,deeplearning
 1002,1,mobileinteractivealgorithms
 1002,2,learningtechnologies
@@ -4884,7 +4653,6 @@
 1005,2,embeddedsystems
 1005,3,iot
 1005,4,industrialsensorsandautomation
-1005,5,
 1006,0,routingprotocols
 1006,1,mobileadhocnetwork
 1006,2,energyefficiency
@@ -4916,7 +4684,6 @@
 1013,0,mobilelearning
 1013,1,scienceprocessskillskps
 1013,2,inquirybasedscienceeducationibse
-1013,3,
 1014,0,androidmalwaredetection
 1014,1,machinelearningmodels
 1014,2,baselearners
@@ -4931,7 +4698,6 @@
 1016,1,exponentialfunction
 1016,2,informationsecuritytechnique
 1016,3,wavelettransformer
-1016,4,
 1017,0,smartphonemarket
 1017,1,consumerattitudes
 1017,2,adoptercategories
@@ -4981,7 +4747,6 @@
 1027,2,averagemessagesize
 1027,3,routing
 1027,4,networktopology
-1027,5,
 1028,0,academicandvocationalguidance
 1028,1,eorientation
 1028,2,machinelearning
@@ -5024,7 +4789,6 @@
 1036,0,onlinereading
 1036,1,reading
 1036,2,dispositionsandbehaviors
-1036,3,
 1037,0,mobapps
 1037,1,mallmodel
 1037,2,writingskill
@@ -5056,7 +4820,6 @@
 1043,2,elementaryschool
 1043,3,mathematicslearning
 1043,4,storybooks
-1043,5,
 1044,0,learningmanagementsystem
 1044,1,blendedlearning
 1044,2,claroline
@@ -5069,12 +4832,10 @@
 1045,5,dal
 1045,6,sp
 1045,7,addie
-1045,8,
 1046,0,conceptassessment
 1046,1,conceptgameassessment
 1046,2,sprt
 1046,3,conceptmastery
-1046,4,
 1047,0,diagrams
 1047,1,testinstruments
 1047,2,localwisdom
@@ -5103,7 +4864,6 @@
 1052,0,interactivemultimedia
 1052,1,smashskills
 1052,2,volleyball
-1052,3,
 1053,0,bimvrframework
 1053,1,virtualreality
 1053,2,engineeringeducation
@@ -5114,12 +4874,10 @@
 1055,1,mobilelearningml
 1055,2,upsi
 1055,3,uthm
-1055,4,
 1056,0,mobileattendance
 1056,1,facialrecognition
 1056,2,identification
 1056,3,attendancemanagement
-1056,4,
 1057,0,millimeterwave
 1057,1,beamforming
 1057,2,massivemimo
@@ -5128,7 +4886,6 @@
 1058,1,lstmnetwork
 1058,2,glowwormswarmoptimizationalgorithm
 1058,3,loadforecasting
-1058,4,
 1059,0,mobilerecommendersystem
 1059,1,localknowledge
 1059,2,gamification
@@ -5136,17 +4893,14 @@
 1060,1,mobiledevice
 1060,2,trackingapplication
 1060,3,systematicliteraturereview
-1060,4,
 1061,0,instagram
 1061,1,marketingcommunication
 1061,2,promotion
 1061,3,digitalmarketing
-1061,4,
 1062,0,visuallyimpairedpeople
 1062,1,mobileapplication
 1062,2,usabilitydimensions
 1062,3,usabilityevaluationmodel
-1062,4,
 1063,0,adiabaticlogic
 1063,1,fulladder
 1063,2,ecrl
@@ -5156,7 +4910,6 @@
 1063,6,carrysaveaddercsa
 1063,7,carryskipaddercsa
 1063,8,brentkungadderbka
-1063,9,
 1064,0,alzheimersdisease
 1064,1,dementia
 1064,2,elderly
@@ -5164,20 +4917,17 @@
 1064,4,gameintervention
 1064,5,memorydisorder
 1064,6,mobilepsychotherapygames
-1064,7,
 1065,0,newsaggregator
 1065,1,usability
 1065,2,testing
 1065,3,magazine
 1065,4,evaluationmethod
 1065,5,mobileapplication
-1065,6,
 1066,0,computervision
 1066,1,inventorymanagement
 1066,2,objectdetectionandtracking
 1066,3,ransac
 1066,4,sift
-1066,5,
 1067,0,emoticon
 1067,1,culture
 1067,2,expertreview
@@ -5186,7 +4936,6 @@
 1068,1,indoorlocalization
 1068,2,trilateration
 1068,3,receivedsignalstrength
-1068,4,
 1069,0,learningmediagraphicdesign
 1069,1,practicalitytest
 1069,2,testeffectiveness
@@ -5280,7 +5029,6 @@
 1088,1,tourism
 1088,2,marketing
 1088,3,smartphoneapps
-1088,4,
 1089,0,fuzzysettheory
 1089,1,studentperformance
 1089,2,onlinelearning
@@ -5375,8 +5123,6 @@
 1109,4,educationaltechnologies
 1109,5,saudiarabia
 1109,6,covid19
-1109,7,
-1109,8,
 1110,0,3danimation
 1110,1,bibliometricanalysis
 1110,2,vosviewer
@@ -5390,8 +5136,6 @@
 1112,1,mobilelearning
 1112,2,onlinecommunication
 1112,3,politeexpressions
-1112,4,
-1112,5,
 1113,0,wirelesssensornetworks
 1113,1,hierarchicalprotocols
 1113,2,leach
@@ -5410,7 +5154,6 @@
 1115,2,behaviorsrecognition
 1115,3,anomalydetection
 1115,4,neuralnetworks
-1115,5,
 1116,0,positionsofvisualelements
 1116,1,instructionalvideos
 1117,0,5gcommunication
@@ -5428,7 +5171,6 @@
 1119,3,episodes
 1119,4,authority
 1119,5,approach
-1119,6,
 1120,0,children
 1120,1,digitalchildrensrights
 1120,2,digitalliteracy
@@ -5451,7 +5193,6 @@
 1124,0,3dcontent
 1124,1,chaoticsystem
 1124,2,3dmodel
-1124,3,
 1125,0,3dpolygonmeshmodel
 1125,1,vertices
 1125,2,3dlorenzchaoticmap
@@ -5506,7 +5247,6 @@
 1135,2,cloudlocalization
 1135,3,mobileapplication
 1135,4,locationbasedservices
-1135,5,
 1136,0,manet
 1136,1,tcp
 1136,2,aodv
@@ -5515,7 +5255,6 @@
 1136,5,fuzzylogic
 1136,6,congestion
 1136,7,crosslayer
-1136,8,
 1137,0,internetofvehiclesiov
 1137,1,4glte
 1137,2,dsrc
@@ -5538,7 +5277,6 @@
 1141,0,digitaldelegationapplication
 1141,1,digitalidentitydelegation
 1141,2,thainationaldigitalidentity
-1141,3,
 1142,0,attendancemanagementsystem
 1142,1,attendancerecords
 1142,2,registration
@@ -5562,7 +5300,6 @@
 1145,0,adaptivemobilescaffoldsystemamss
 1145,1,cognitivestylesimplicityvscomplexitycssc
 1145,2,digitalwillbeingdwb
-1145,3,
 1146,0,computationalscience
 1146,1,computationalcompetencies
 1146,2,virtuallearningenvironment
@@ -5654,13 +5391,11 @@
 1164,3,mbt
 1164,4,qualityassurance
 1164,5,performanceprediction
-1164,6,
 1165,0,blendedlearning
 1165,1,iotbasedtechnology
 1165,2,graduatestudents
 1165,3,smartphone
 1165,4,mobileapplication
-1165,5,
 1166,0,reverseengineering
 1166,1,securityarchitecture
 1166,2,securityoptimization
@@ -5674,7 +5409,6 @@
 1167,5,learningoutcomes
 1167,6,eassessment
 1167,7,studentengagement
-1167,8,
 1168,0,robot
 1168,1,hypermedia
 1168,2,scientificconcepts
@@ -5738,15 +5472,12 @@
 1181,0,reputation
 1181,1,trustmanagement
 1181,2,recommendation
-1181,3,
 1182,0,qualityassurance
 1182,1,apps
 1182,2,userfeedback
 1182,3,architecture
 1182,4,productimprovement
 1182,5,qualitymonitoring
-1182,6,
-1182,7,
 1183,0,postsecondaryeducation
 1183,1,mobilelearning
 1183,2,autonomouslearning
@@ -5780,7 +5511,6 @@
 1190,2,mobiletechnologies
 1190,3,digitaleducation
 1190,4,entrepreneurialcompetences
-1190,5,
 1191,0,temperaturemonitoringsystem
 1191,1,locationservice
 1191,2,blooddelivery
@@ -5804,12 +5534,10 @@
 1196,2,economiceducation
 1196,3,addiemodel
 1196,4,learningeverywhereclasslekas
-1196,5,
 1197,0,bullyingbehavior
 1197,1,gamemobilelearning
 1197,2,earlychildhood
 1197,3,management
-1197,4,
 1198,0,emergencymedicalmanagement
 1198,1,tsunamidisaster
 1198,2,problemandcreativethinking
@@ -5906,7 +5634,6 @@
 1220,0,monitoringdevice
 1220,1,powerconsumption
 1220,2,internetofthings
-1220,3,
 1221,0,model
 1221,1,blendedwebmobilelearning
 1221,2,hasilbelajar
@@ -5921,7 +5648,6 @@
 1223,2,purchase
 1223,3,usergenerateddata
 1223,4,textanalysis
-1223,5,
 1224,0,autismspectrumdisorder
 1224,1,educationalmobileapps
 1224,2,languageandcommunicationskills
@@ -5932,7 +5658,6 @@
 1226,1,collaborativelearning
 1226,2,collaborativesupportingtool
 1226,3,tertiarylevelstudent
-1226,4,
 1227,0,mobileapps
 1227,1,mobiledevices
 1227,2,educationalapps
@@ -5980,7 +5705,6 @@
 1235,2,mobileapplication
 1235,3,touch‘ngo
 1235,4,usabilitytest
-1235,5,
 1236,0,studentsvoices
 1236,1,onlinedebate
 1236,2,criticalthinkingskills
@@ -5997,7 +5721,6 @@
 1239,0,augmentedreality
 1239,1,spatialskill
 1239,2,problemsolvingskill
-1239,3,
 1240,0,covid19pandemic
 1240,1,onlinelearning
 1240,2,emergingtechnologies
@@ -6077,14 +5800,12 @@
 1259,2,tam
 1259,3,ttf
 1259,4,ect
-1259,5,
 1260,0,womensecurity
 1260,1,smartphoneapplication
 1260,2,chatbot
 1260,3,alert
 1260,4,socialsecurity
 1260,5,law
-1260,6,
 1261,0,mobilelearning
 1261,1,socialtolerance
 1261,2,highereducation
@@ -6130,7 +5851,6 @@
 1270,2,operationalexpenditure
 1270,3,totalcostofownership
 1270,4,infrastructuresharing
-1270,5,
 1271,0,mobiledevelopment
 1271,1,drivingevents
 1271,2,machinelearning
@@ -6171,7 +5891,6 @@
 1279,2,highereducationinstitutions
 1279,3,learningenvironment
 1279,4,studentperformance
-1279,5,
 1280,0,efl
 1280,1,onlinegame
 1280,2,languagelearning
@@ -6194,7 +5913,6 @@
 1284,1,mobilelearning
 1284,2,chemistry
 1284,3,elementaryschoolstudents
-1284,4,
 1285,0,recommendationsystem
 1285,1,svd
 1285,2,socialrelations
