@@ -1,6 +1,6 @@
 # TCC - UM ESTUDO DE CASO DE COLETA E PRÉ-PROCESSAMENTO DE DADOS NA APLICAÇÃO DE PROCESSAMENTO DE LINGUAGEM NATURAL
 
-Aqui estão os códigos e arquivos gerados ao longo da elaboração do TCC para conclusão do curso de Engenharia de Telecomunicações na Universidade Federal do Rio Grande do Norte (UFRN) no semestre de 2022.01. 
+Aqui estão os códigos e arquivos gerados ao longo da elaboração do TCC para conclusão do curso de Engenharia de Telecomunicações na Universidade Federal do Rio Grande do Norte (UFRN) no semestre de 2022.01. O TCC está disponível no seguinte link do [Repositório UFRN](https://repositorio.ufrn.br/handle/123456789/49109)
 
 Para o TCC foi feito o web crawling do jornal [iJIM](https://online-journals.org/index.php/i-jim/index) com um projeto criado utilizando o framework Scrapy. Nesse projeto foi desenvolvida a spider [papers.py](https://github.com/Gafiam/TCC/blob/main/iJIM/iJIM/spiders/papers.py) para fazer as coletas dos dados desejados que foram salvos no arquivo [articles_dataset.csv](https://github.com/Gafiam/TCC/blob/main/iJIM/articles_dataset.csv).
 
